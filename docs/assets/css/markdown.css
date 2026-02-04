@@ -1,0 +1,341 @@
+/**
+ * Ring2All Documentation Portal
+ * Markdown Content Styles
+ */
+
+.markdown-body {
+    color: var(--text-primary);
+    line-height: 1.75;
+}
+
+/* Headings */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+    margin-top: 2em;
+    margin-bottom: 0.75em;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--text-primary);
+}
+
+.markdown-body h1:first-child,
+.markdown-body h2:first-child {
+    margin-top: 0;
+}
+
+.markdown-body h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid var(--border);
+}
+
+.markdown-body h2 {
+    font-size: 1.5rem;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--border);
+}
+
+.markdown-body h3 {
+    font-size: 1.25rem;
+}
+
+.markdown-body h4 {
+    font-size: 1.125rem;
+}
+
+.markdown-body h5 {
+    font-size: 1rem;
+}
+
+.markdown-body h6 {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+}
+
+/* Paragraphs and text */
+.markdown-body p {
+    margin-bottom: 1em;
+}
+
+.markdown-body strong {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.markdown-body a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: var(--transition-fast);
+}
+
+.markdown-body a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+.markdown-body ul,
+.markdown-body ol {
+    margin-bottom: 1em;
+    padding-left: 1.5em;
+}
+
+.markdown-body li {
+    margin-bottom: 0.5em;
+}
+
+.markdown-body li::marker {
+    color: var(--text-muted);
+}
+
+.markdown-body ul ul,
+.markdown-body ol ol,
+.markdown-body ul ol,
+.markdown-body ol ul {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+}
+
+/* Inline code */
+.markdown-body code {
+    padding: 0.2em 0.4em;
+    background: var(--bg-tertiary);
+    border-radius: var(--radius-sm);
+    font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+    font-size: 0.875em;
+    color: var(--secondary);
+}
+
+/* Code blocks */
+.markdown-body pre {
+    margin: 1.5em 0;
+    padding: 1em 1.25em;
+    background: var(--bg-primary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
+    max-width: none;
+}
+
+.markdown-body pre code {
+    padding: 0;
+    background: none;
+    border-radius: 0;
+    font-family: 'Consolas', 'Monaco', 'Lucida Console', 'Courier New', monospace !important;
+    font-size: 12px;
+    color: var(--text-primary);
+    line-height: 1.4;
+    white-space: pre;
+    display: block;
+    tab-size: 4;
+}
+
+/* Language-specific plaintext (ASCII diagrams) */
+.markdown-body pre code.language-plaintext {
+    font-family: 'Consolas', 'Monaco', 'Lucida Console', 'Courier New', monospace !important;
+    font-size: 11px;
+    line-height: 1.25;
+}
+
+/* Blockquotes */
+.markdown-body blockquote {
+    margin: 1.5em 0;
+    padding: 0.5em 1em;
+    border-left: 4px solid var(--primary);
+    background: var(--primary-light);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    color: var(--text-secondary);
+}
+
+.markdown-body blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* Alerts (GitHub style) */
+.markdown-body .alert {
+    display: flex;
+    gap: 12px;
+    margin: 1.5em 0;
+    padding: 16px 20px;
+    border-radius: var(--radius-lg);
+    border: 1px solid;
+}
+
+.markdown-body .alert-icon {
+    flex-shrink: 0;
+}
+
+.markdown-body .alert-icon svg {
+    width: 20px;
+    height: 20px;
+}
+
+.markdown-body .alert-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.markdown-body .alert-title {
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.markdown-body .alert p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.markdown-body .alert-note {
+    background: rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.3);
+}
+
+.markdown-body .alert-note .alert-icon,
+.markdown-body .alert-note .alert-title {
+    color: #3b82f6;
+}
+
+.markdown-body .alert-tip {
+    background: rgba(34, 197, 94, 0.1);
+    border-color: rgba(34, 197, 94, 0.3);
+}
+
+.markdown-body .alert-tip .alert-icon,
+.markdown-body .alert-tip .alert-title {
+    color: #22c55e;
+}
+
+.markdown-body .alert-important {
+    background: rgba(139, 92, 246, 0.1);
+    border-color: rgba(139, 92, 246, 0.3);
+}
+
+.markdown-body .alert-important .alert-icon,
+.markdown-body .alert-important .alert-title {
+    color: #8b5cf6;
+}
+
+.markdown-body .alert-warning {
+    background: rgba(245, 158, 11, 0.1);
+    border-color: rgba(245, 158, 11, 0.3);
+}
+
+.markdown-body .alert-warning .alert-icon,
+.markdown-body .alert-warning .alert-title {
+    color: #f59e0b;
+}
+
+.markdown-body .alert-caution {
+    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.3);
+}
+
+.markdown-body .alert-caution .alert-icon,
+.markdown-body .alert-caution .alert-title {
+    color: #ef4444;
+}
+
+/* Tables */
+.markdown-body .table-wrapper {
+    margin: 1.5em 0;
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+}
+
+.markdown-body table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.markdown-body th,
+.markdown-body td {
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+}
+
+.markdown-body th {
+    background: var(--bg-tertiary);
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.markdown-body tr:last-child td {
+    border-bottom: none;
+}
+
+.markdown-body tr:hover td {
+    background: var(--bg-secondary);
+}
+
+/* Images */
+.markdown-body .image {
+    margin: 1.5em 0;
+}
+
+.markdown-body .image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-md);
+}
+
+.markdown-body .image figcaption {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--text-muted);
+}
+
+/* Horizontal rule */
+.markdown-body hr {
+    margin: 2em 0;
+    border: none;
+    border-top: 1px solid var(--border);
+}
+
+/* Task lists */
+.markdown-body input[type="checkbox"] {
+    margin-right: 8px;
+    accent-color: var(--primary);
+}
+
+/* Keyboard shortcuts */
+.markdown-body kbd {
+    display: inline-block;
+    padding: 3px 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text-secondary);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    box-shadow: 0 1px 0 var(--border);
+}
+
+/* Definition lists */
+.markdown-body dl {
+    margin: 1em 0;
+}
+
+.markdown-body dt {
+    font-weight: 600;
+    margin-top: 1em;
+}
+
+.markdown-body dd {
+    margin-left: 1.5em;
+    color: var(--text-secondary);
+}

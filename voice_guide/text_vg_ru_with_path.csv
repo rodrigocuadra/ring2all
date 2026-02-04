@@ -1,0 +1,1601 @@
+Path/Name,Phrase
+ascii/32,Пробел
+ascii/35,Решётка
+ascii/42,Звездочка
+ascii/46,Точка
+ascii/45,Дефис
+ascii/33,Восклицательный знак
+ascii/64,Собака
+ascii/36,Доллар
+ascii/37,Процент
+ascii/38,Амперсанд
+ascii/34,Двойные кавычки
+ascii/39,Апостроф
+ascii/47,Косая черта
+ascii/95,Нижнее подчёркивание
+ascii/92,Обратная косая черта
+ascii/126,Тильда
+ascii/61,Знак равно
+ascii/58,Двоеточие
+ascii/59,Точка с запятой
+ascii/94,Циркумфлекс
+ascii/124,Вертикальная черта
+ascii/43,Плюс
+ascii/40,Левая скобка
+ascii/41,Правая скобка
+ascii/123,Левая фигурная скобка
+ascii/125,Правая фигурная скобка
+ascii/91,Левая квадратная скобка
+ascii/93,Правая квадратная скобка
+ascii/44,Запятая
+ascii/96,Гравис
+ascii/60,Знак меньше
+ascii/62,Знак больше
+ascii/97,A
+ascii/98,B
+ascii/99,C
+ascii/100,D
+ascii/101,E
+ascii/102,F
+ascii/103,G
+ascii/104,H
+ascii/105,I
+ascii/106,J
+ascii/107,K
+ascii/108,L
+ascii/109,M
+ascii/110,N
+ascii/111,O
+ascii/112,P
+ascii/113,Q
+ascii/114,R
+ascii/115,S
+ascii/116,T
+ascii/117,U
+ascii/118,V
+ascii/119,W
+ascii/120,X
+ascii/121,Y
+ascii/122,Z
+phonetic-ascii/32,Пробел
+phonetic-ascii/46,Точка
+phonetic-ascii/97,Alpha
+phonetic-ascii/98,Bravo
+phonetic-ascii/99,Charlie
+phonetic-ascii/100,Delta
+phonetic-ascii/101,Echo
+phonetic-ascii/102,Foxtrot
+phonetic-ascii/103,Golf
+phonetic-ascii/104,Hotel
+phonetic-ascii/105,India
+phonetic-ascii/106,Juliet
+phonetic-ascii/107,Kilo
+phonetic-ascii/108,Lima
+phonetic-ascii/109,Mike
+phonetic-ascii/110,November
+phonetic-ascii/111,Oscar
+phonetic-ascii/112,Papa
+phonetic-ascii/113,Quebec
+phonetic-ascii/114,Romeo
+phonetic-ascii/115,Sierra
+phonetic-ascii/116,Tango
+phonetic-ascii/117,Unifor
+phonetic-ascii/118,Victor
+phonetic-ascii/119,Whiskey
+phonetic-ascii/120,Xray
+phonetic-ascii/121,Yankee
+phonetic-ascii/122,Zulu
+phonetic-ascii/42,Звезда
+phonetic-ascii/35,Решётка
+digits/0,ноль
+digits/1,Один
+digits/2,Два
+digits/3,Три
+digits/4,Четыре
+digits/5,Пять
+digits/6,Шесть
+digits/7,Семь
+digits/8,Восемь
+digits/9,Девять
+digits/10,Десять
+digits/11,Одинадцать
+digits/12,Двенадцать
+digits/13,Тринадцать
+digits/14,Четырнадцать
+digits/15,Пятнадцать
+digits/16,Шестнадцать
+digits/17,Семнадцать
+digits/18,Восемнадцать
+digits/19,Девятнадцать
+digits/20,Двадцать
+digits/30,Тридцать
+digits/40,Сорок
+digits/50,Пятьдесят
+digits/60,Шестьдесят
+digits/70,Семьдесят
+digits/80,Восемьдесят
+digits/90,Девяносто
+digits/dot,Точка
+digits/h-1,Первый
+digits/h-2,Второй
+digits/h-3,Третий
+digits/h-4,Четвёртый
+digits/h-5,Пятый
+digits/h-6,Шестой
+digits/h-7,Седьмой
+digits/h-8,Восьмой
+digits/h-9,Девятый
+digits/h-10,Десятый
+digits/h-11,Одиннадцатый
+digits/h-12,Двенадцатый
+digits/h-13,тринадцатый
+digits/h-14,четырнадцатый
+digits/h-15,пятнадцатый
+digits/h-16,шестнадцатый
+digits/h-17,семнадцатый
+digits/h-18,восемнадцатый
+digits/h-19,девятнадцатый
+digits/h-20,двадцатый
+digits/h-30,тридцатый
+digits/hundred,Сто
+digits/thousand,Тысяча
+digits/million,Миллион
+digits/period,Точка
+digits/point,Точка
+digits/pound,Решётка
+digits/star,Звёздочка
+currency/and,и
+currency/cent,Цент
+currency/central,центральный
+currency/cents-per-minute,Центов в минуту
+currency/cents,Центы
+currency/dollar,Доллар
+currency/dollars,Долларов
+currency/minus,Минус
+currency/negative,Отрицательный
+time/a-m,до полудня
+time/at,В
+time/day-0,Воскресенье
+time/day-1,Понедельник
+time/day-2,Вторник
+time/day-3,Среда
+time/day-4,Четверг
+time/day-5,Пятница
+time/day-6,Суббота
+time/hour,час
+time/hours,часов
+time/minute,минута
+time/minutes,минут
+time/second,секунда
+time/seconds,секунд
+time/mon-0,января
+time/mon-1,февраля
+time/mon-2,марта
+time/mon-3,апреля
+time/mon-4,мая
+time/mon-5,июня
+time/mon-6,июля
+time/mon-7,августа
+time/mon-8,сентября
+time/mon-9,октября
+time/mon-10,ноября
+time/mon-11,декабря
+time/oclock,Часов
+time/oh,ноль
+time/p-m,после полудня
+time/today,сегодня
+time/tomorrow,завтра
+time/yesterday,вчера
+voicemail/vm-person,Абонент с номером
+voicemail/vm-marked-urgent,Помечено как важное
+voicemail/vm-marked_new,Помечено как новое.
+voicemail/vm-emailed,отправлен на электронную почту
+voicemail/vm-you_have,у Вас
+voicemail/vm-from,от
+voicemail/vm-enter_id,"Пожалуйста, введите свой идентификатор, завершив нажатием на клавишу"
+voicemail/vm-enter_pass,"Пожалуйста, введите свой пароль , завершив нажатием на клавишу"
+voicemail/vm-fail_auth,Неправильный номер
+voicemail/vm-hello,Добро пожаловать в Вашу голосовую почту
+voicemail/vm-goodbye,До свидания
+voicemail/vm-record_name1,"После сигнала, пожалуйста, сообщите свое имя, для окончания записи нажмите любую клавишу или перестаньте говорить."
+voicemail/vm-choose_greeting_choose,Выберите приветствие от единицы до девяти
+voicemail/vm-choose_greeting_fail,Неправильное значение
+voicemail/vm-abort,Слишком много неудачных попыток
+voicemail/vm-change_password,Для изменения Вашего пароля
+voicemail/vm-record_greeting,для записи приветствия
+voicemail/vm-record_message,"После сигнала, запишите свое сообщение, для окончания записи нажмите любую клавишу или перестаньте говорить"
+voicemail/vm-play_greeting,не доступно
+voicemail/vm-urgent-new,новое срочное
+voicemail/vm-new,новое
+voicemail/vm-urgent-saved,срочное сообщение сохранено
+voicemail/vm-saved,сохранено
+voicemail/vm-message,сообщение
+voicemail/vm-message_alt,сообщение
+voicemail/vm-messages,сообщения
+voicemail/vm-messages_alt,сообщения
+voicemail/vm-no_more_messages,Больше сообщений нет.
+voicemail/vm-repeat_message,Чтобы повторить это сообщение...
+voicemail/vm-delete_message,Чтобы удалить это сообщение...
+voicemail/vm-save_message,Чтобы сохранить это сообщение...
+voicemail/vm-play_next_message,Чтобы прослушать следующее сообщение...
+voicemail/vm-play_previous_message,Чтобы прослушать предыдущее сообщение...
+voicemail/vm-undelete_message,Чтобы восстановить это сообщение...
+voicemail/vm-send_message_now,для того что бы послать собощение
+voicemail/vm-message_envelope,Чтобы услышать детали сообщения...
+voicemail/vm-has_been_changed_to,...был изменён на...
+voicemail/vm-press,нажмите
+voicemail/vm-received,получено
+voicemail/vm-followed_by,...затем...
+voicemail/vm-that_was_an_invalid_ext,Неправильный добавочный номер
+voicemail/vm-undeleted,Восстановлено.
+voicemail/vm-followed_by_pound,...затем нажмите решётку.
+voicemail/vm-next,следующее
+voicemail/vm-listen_new,чтобы прослушать новые сообщения
+voicemail/vm-listen_saved,для прослушивания сохраненных сообщений
+voicemail/vm-advanced,для дополнительных параметров
+voicemail/vm-advanced_alt,для расширенных опций
+voicemail/vm-to_exit,для выхода
+voicemail/vm-to_exit_alt,для выхода
+voicemail/vm-to_record_greeting,"После сигнала, запишите свое приветствие, для окончания записи нажмите любую клавишу или перестаньте говорить"
+voicemail/vm-choose_greeting,для выбора приветствия
+voicemail/vm-record_name2,для записи Вашего имени
+voicemail/vm-main_menu,для перехода в главное меню
+voicemail/vm-listen_to_recording,прослушать запись
+voicemail/vm-save_recording,сохранить запись
+voicemail/vm-rerecord,записать
+voicemail/vm-mark-urgent,пометить это сообщение как срочное
+voicemail/vm-mark_message_new,Чтобы пометить это сообщение как новое...
+voicemail/vm-continue,для продолжения
+voicemail/vm-listen_to_recording_again,прослушать запись снова
+voicemail/vm-delete_recording,удалить запись
+voicemail/vm-forward_to_email,переслать запись на электронную почту
+voicemail/vm-to_forward,переслать это сообщение
+voicemail/vm-forward_enter_ext,"пожалуйста, введите добавочный номер для отправки сообщения"
+voicemail/vm-forward_add_intro,добавить вступление к сообщению
+voicemail/vm-greeting,приветствие
+voicemail/vm-selected,выбрано
+voicemail/vm-not_available,не доступен
+voicemail/vm-message_number,сообщение номер
+voicemail/vm-deleted,удалено
+voicemail/vm-too-small,"Ваша запись короче минимально допустимой длинны, пожалуйста попробуйте снова"
+voicemail/vm-in_folder,в папке Входящие
+voicemail/vm-return_call,для возврата вызова
+voicemail/vm-urgent,Срочное
+voicemail/vm-mailbox_full,Почтовый ящик переполнен. Пожалуйста перезвоните позже
+voicemail/vm-tutorial_yes_no,"Добро пожаловать в Вашу новую голосовую почту. Для того, что бы прослушать инструкцию и настроить вашу голосовую почту, нажмите 1. Чтобы пропустить этот шаг, нажмите 2"
+voicemail/vm-tutorial_record_name,"Необходимо записать Ваше имя и фамилию. Эта запись используется системой, включая справочник организации"
+voicemail/vm-tutorial_change_pin,"Ваш персональный номер, он же пин, используется для предотвращения доступа другими к вашим голосовым сообщениям. Хотите сменить его сейчас?"
+voicemail/vm-not_available_no_voicemail,Вызываемый абонент сейчас недоступен и не имеет голосовой почты
+voicemail/vm-pin_below_minimum_length,Введённый PIN-код меньше минимальной длины.
+voicemail/vm-minimum_pin_length_is,Минимальная длина PIN-кода составляет...
+voicemail/vm-password_has_been_changed,Ваш пароль был изменён.
+voicemail/vm-enter_new_pin,"Пожалуйста, введите новый пароль, затем нажмите решётку."
+voicemail/vm-password_not_valid,Введённый пароль недействителен в этой системе.
+voicemail/vm-password_is_not_secure,Пароль типа '1111' или '1234' небезопасен.
+voicemail/vm-choose_password,"Пожалуйста, выберите пароль без повторяющихся или последовательных цифр."
+voicemail/vm-voicemail_password_is_web_password,"Помните, что пароль голосовой почты также является паролем для веб-интерфейса."
+voicemail/vm-message_from,Сообщение от...
+voicemail/vm-nobody_leaving_message,В данный момент никто не оставляет сообщение в этом почтовом ящике.
+voicemail/vm-last,последнее
+voicemail/vm-delete_greeting,Чтобы удалить приветствие
+voicemail/vm-listen_to_greeting,Чтобы прослушать приветствие...
+voicemail/vm-main_menu_alt,Для главного меню...
+voicemail/vm-message_forwarded,Сообщение переадресовано
+voicemail/vm-no_answer_no_vm,Вызываемый добавочный номер не отвечает и не имеет настроенной голосовой почты.
+directory/dir-enter_person,"Пожалуйста, введите первые буквы имени абонента"
+directory/dir-last_name,Фамилии
+directory/dir-to_search_by,Искать по ...
+directory/dir-first_name,Имени
+directory/dir-no_matching_results,нет результатов по запросу.
+directory/dir-result_match,результаты Вашего запроса
+directory/dir-too_many_result,"По Вашему запросу найдено слишком много вариантов, пожалуйста, попробуйте уточнить запрос"
+directory/dir-no_more_results,нет больше вариантов
+directory/dir-result_number,Номер варианта
+directory/dir-at_extension,добавочный номер
+directory/dir-to_select_entry,Для выбора этой записи
+directory/dir-for_next,Для выбора следующей записи
+directory/dir-for_prev,Для выбора предыдущей записи
+directory/dir-start_new_search,Для начала нового поиска
+directory/dir-specify_mininum,Вам необходимо указать минимум ...
+directory/dir-letters_of_person_name,букв имени абонента
+directory/dir-please_try_again,Попробуйте снова
+directory/dir-press,нажмите
+directory/dir-for_next,Для выбора следующей записи
+directory/dir-enter_person_first_or_last,"Пожалуйста, введите первые буквы имени или фамилии абонента"
+directory/dir-enter-person,"Пожалуйста, введите первые буквы имени"
+directory/dir-no_match_entry,По Вашему запросу ничего не найдено
+directory/dir-no_more_result,Больше результатов нет
+directory/dir-specify_mininum_first,Необходимо указать минимум...
+directory/dir-to_make_new_search,Чтобы начать новый поиск
+directory/dir-to_many_result,По вашему запросу найдено слишком много результатов.
+conference/conf-ack,NULL
+conference/conf-nack,NULL
+conference/conf-muted,Ваш микрофон отключен
+conference/conf-unmuted,Ваш микрофон включён
+conference/conf-alone,Вы единственный участник конференции
+conference/conf-perpetual,NULL
+conference/conf-enter,NULL
+conference/conf-exit,NULL
+conference/conf-kicked,Вы были отключены от конференции
+conference/conf-locked,Эта конференция заблокирована
+conference/conf-is-locked,Конференция заблокирована
+conference/conf-is-unlocked,Конференция разблокирована
+conference/conf-pin,"Пожалуйста, введите пин-код конференции"
+conference/conf-bad-pin,"Неправильный пин-код, попробуйте снова"
+conference/conf-goodbye,До свидания
+conference/conf-welcome,Добро пожаловать в конференцию
+conference/conf-enter_conf_number,"Пожалуйста, введите номер конференции, завершив нажатием на клавишу решетка"
+conference/conf-enter_conf_pin,"Введите ПИН код конференции, завершив нажатием  на клавишу решётка."
+conference/conf-has_joined,...Вошёл в конференцию.
+conference/conf-has_left,...Покинул конференцию.
+conference/conf-you_are_already_muted,Ваш микрофон уже выключен.
+conference/conf-you_are_now_bidirectionally_muted,Звук и микрофон сейчас выключены.
+conference/conf-number_of_listeners,"Введите количество слушателей, затем нажмите решётку."
+conference/conf-listeners_in_conference,...слушателей в этой конференции.
+conference/conf-listener_in_conference,...слушатель в этой конференции.
+conference/conf-members_in_conference,...участников в этой конференции.
+conference/conf-conference_is_in_qna_mode,Эта конференция в режиме вопросов и ответов.
+conference/conf-qna_mode,Режим вопросов и ответов
+conference/conf-entry_sound,Звук входа
+conference/conf-exit_sound,Звук выхода
+conference/conf-conference_is_full,"Эта конференция заполнена. Пожалуйста, свяжитесь с модератором."
+conference/conf-conference_will_start_shortly,"Ваша конференция скоро начнётся. Пожалуйста, оставайтесь на линии."
+conference/conf-other_persons_conference,других участников в конференции.
+conference/conf-one_other_person_conference,ещё один участник в конференции.
+conference/conf-one_other_member_conference,ещё один член в конференции.
+conference/conf-being_recorded,Эта конференция записывается.
+conference/conf-no_longer_being_recorded,Эта конференция больше не записывается.
+ivr/ivr-account_number,Номер счета
+ivr/ivr-connect_to_caller,Соединение с вызывающим абонентом
+ivr/ivr-enter_ext_pound,"Если Вам известен добавочный номер вызываемого абонента, пожалуйста введите его сейчас"
+ivr/ivr-enter_ext,"Пожалуйста, введите добавочный номер абонента завершив нажатием на клавишу решётка"
+ivr/ivr-for_this_person,Для этого абонента
+ivr/ivr-hold_connect_call,"Пожалуйста, оставайтесь на линии, идет соединение"
+ivr/ivr-im_sorry,Извините
+ivr/ivr-please,Пожалуйста
+ivr/ivr-please_return_our_call_at,"Пожалуйста, перезвоните нам в …"
+ivr/ivr-regarding_reference_number,относительно номера ссылки
+ivr/ivr-sample_submenu,Это пример голосового подменю
+ivr/ivr-say_name,"Пожалуйста, представьтесь после сигнала"
+ivr/ivr-send_to_voicemail,Перенаправить на голосовую почту
+ivr/ivr-speak_to_a_customer_service_representative,Для разговора с представителем по обслуживанию клиентов
+ivr/ivr-take_a_message,принять сообщение.
+ivr/ivr-that_was_an_invalid_entry,Неправильное значение
+ivr/ivr-this_is_a_call_from,Этот звонок от
+ivr/ivr-this_ivr_will_let_you_test_features,это голосовое меню позволит Вам протестировать некоторые функции
+ivr/ivr-to_call_the_freeswitch_conference,Для того чтобы набрать конференцию ФС ___
+ivr/ivr-to_do_a_freeswitch_echo_test,Для выполнения эхо-теста в ФС
+ivr/ivr-to_do_a_fwd_echo_test,Для выполнения эхо-теста free world dialed
+ivr/ivr-to_hear_sample_submenu,чтобы прослушать пример голосового подменю
+ivr/ivr-to_hear_screaming_monkeys,Чтобы услышать кричащих обезьян
+ivr/ivr-to_listen_to_moh,Для прослушивания списка мелодий в режиме ожидания
+ivr/ivr-to_repeat_these_options,Для повтора этих параметров
+ivr/ivr-to_return_to_previous_menu,Для возврата к предыдущему меню
+ivr/ivr-to_speak_with_an_operator,Для соединения с оператором
+ivr/ivr-welcome_to_freeswitch,"Добро пожаловать в FreeSwitch, будущее телефонии"
+ivr/ivr-you_may_exit_by_hanging_up,Вы можете выйти в любое время повесив трубку
+ivr/ivr-or,или
+ivr/ivr-not,не
+ivr/ivr-call,Вызов
+ivr/ivr-you_may,Вы можете
+ivr/ivr-hello,Здравствуйте
+ivr/ivr-use_telephone_keypad,Используйте клавиатуру телефона
+ivr/ivr-spell_name,"Пожалуйста, назовите имя сотрудника, которому пытаетесь дозвониться"
+ivr/ivr-last_name_first,Сначала фамилия
+ivr/ivr-first_name_first,Сначала имя
+ivr/ivr-press_one_q_or_z,Нажмите 1 для Q или Z.
+ivr/ivr-sales,Отдел продаж
+ivr/ivr-customer_service,Центр обслуживания клиентов
+ivr/ivr-technical_support,Отдел технической поддержки
+ivr/ivr-operator,Оператор
+ivr/ivr-you_have_dialed_an_invalid_extension,Вы набрали несуществующий добавочный номер
+ivr/ivr-please_enter_extension_followed_by_pound,"Пожалйста, наберите добавочный номер и нажмите клавишу решетка"
+ivr/ivr-please_enter_pin_followed_by_pound,Пожалуйста введите Ваш пинкод и нажмите клавишу решётка
+ivr/ivr-pin_or_extension_is-invalid,Ваш пин код или номер не верны
+ivr/ivr-you_are_about_to_provision_this_phone,Вы закрепляете этот телефон за Вашей учётной записью
+ivr/ivr-please_reenter_your_pin,Пожалуйста повторите Ваш пин код для подтверждения
+ivr/ivr-register_for_cluecon,"Для регистрации на clueCon , пожалуйста нажмите .."
+ivr/ivr-to_log_in,Для входа
+ivr/ivr-to_log_out,Для выхода
+ivr/ivr-you_are_now_logged_in,Вы вошли
+ivr/ivr-you_are_now_logged_out,Вы вышли
+ivr/ivr-please_try_again,Попробуйте снова
+ivr/ivr-provision_phone_permanently_to_extension,Вы закрепляете этот телефон за Вашим добавочным номером
+ivr/ivr-extension_to_provision_this_phone,Пожалуйста введите добавочный номер за которым вы хотите закрепить этот телефон и нажмите решётку
+ivr/ivr-this_phone_will_now_reboot,"Спасибо, этот телефон сейчас перезагрузится"
+ivr/ivr-recording_saved,Спасибо. Ваше сообщение было записано.
+ivr/ivr-save_review_record,Нажмите 1 что бы сохранить сообщение. Нажмите 2 что бы прослушать Ваше сообщение. Нажмите 3 что бы перезаписать
+ivr/ivr-unable_save,"Системе не удается сохранить Ваш звуковой файл в данный момент. Пожалуйста, попробуйте позже"
+ivr/ivr-you_are_number,Ваш номер ...
+ivr/ivr-in_line,на линии
+ivr/ivr-thank_you_for_holding,Спасибо Вам за ожидание
+ivr/ivr-estimated_hold_time,Ваше время ожидания составит примерно ...
+ivr/ivr-more_than,Больше чем...
+ivr/ivr-less_than,Меньше чем...
+ivr/ivr-begin_recording,Начните запись после сигнала.
+ivr/ivr-call_forwarding_has_been_cancelled,Переадресация звонков была отменена
+ivr/ivr-call_forwarding_has_been_set,Переадресация звонков была настроена
+ivr/ivr-please_enter_the_phone_number,"Пожалуйста, введите номер телефона"
+ivr/ivr-please_state_your_name_and_reason_for_calling,"Пожалуйста, укажите ваше имя и причину вашего звонка."
+ivr/ivr-accept_reject_voicemail,"Что бы принять звонок нажмите 1, чтобы отклонить звонок нажмите 2. Для отправки голосовой почты нажмите 3"
+ivr/ivr-accept_reject,"Чтобы принять, нажмите 1. Чтобы отклонить, нажмите 2."
+ivr/ivr-to_accept_press_one,"Чтобы принять, нажмите 1."
+ivr/ivr-incoming_call,Входящий звонок
+ivr/ivr-thank_you_for_calling,Спасибо за Ваш звонок
+ivr/ivr-stay_on_line_call_answered_momentarily,"Пожалуйста, оставайтесь на линии. Ваш звонок будет принят немедленно"
+ivr/ivr-call_being_transferred,Ваш звонок был переведен
+ivr/ivr-enjoy_music_while_transfer,"Пожалуйста, наслаждайтесь музыкой, пока Ваш вонок переводится"
+ivr/ivr-call_from,У вас есть звонок от...
+ivr/ivr-no_menu_items,"Это меню не содержит никаких элементов. Пожалуйста, обратитесь к администратору."
+ivr/ivr-for_directory_press,"Для справочника, нажмите..."
+ivr/ivr-using_telephone_keypad,Используя клавиатуру телефона…
+ivr/ivr-enter_letters_last_name,"Пожалуйста, введите первые буквы фамилии абонента"
+ivr/ivr-enter_letters_first_name,Введите буквы имени
+ivr/ivr-enter_letters_first_or_last_name,Введите первые буквы имени абонента.
+ivr/ivr-if_correct_press,"Если это правильно, нажмите..."
+ivr/ivr-if_not_press,"Если нет, нажмите..."
+ivr/ivr-finished_pound_hash_key,Когда закончите нажмите клавишу решётка.
+ivr/ivr-dnd_activated,Режим «Не беспокоить» активирован
+ivr/ivr-dnd_cancelled,Режим не беспокоить был отменён.
+ivr/ivr-any_other_digit,Нажмите любую другую цифру...
+ivr/ivr-one_yes_two_no,Нажмите один для ДА. Нажмите два для НЕТ.
+ivr/ivr-enter_queue_number,"Пожалуйста введите номер очереди,завершив нажатием на клавишу решетка."
+ivr/ivr-please_enter_the,Пожалуйста введите...
+ivr/ivr-number,Номер.
+ivr/ivr-followed_by_pound,...завершив нажатием на клавишу решетка.
+ivr/ivr-account_balance_is,Остаток на счёте составляет...
+ivr/ivr-file,...файл...
+ivr/ivr-files,файлы
+ivr/ivr-for_a_wakeup_call,Для звонка-будильника
+ivr/ivr-this_is_your_wakeup_call,Это ваш звонок-будильник
+ivr/ivr-request_wakeup_call,Запросить звонок-будильник
+ivr/ivr-confirm_wakeup_call,Подтвердить звонок-будильник
+ivr/ivr-cancel_wakeup_call,Отменить звонок-будильник
+ivr/ivr-requested_wakeup_call_for,Запрошен звонок-будильник на
+ivr/ivr-not_requested_wakeup_call,Звонок-будильник не запрошен
+ivr/ivr-wakeup_call_cancelled,Звонок-будильник отменён
+ivr/ivr-for_daily_wakeup_call,Для ежедневного звонка-будильника
+ivr/ivr-daily_wakeup_call,Ежедневный звонок-будильник
+ivr/ivr-for_daily_wakeup_calls,Для ежедневных звонков-будильников
+ivr/ivr-for_one_time_wakeup_call,Для однократного звонка-будильника
+ivr/ivr-one_time_wakeup_call,Однократный звонок-будильник
+ivr/ivr-wakeup_call,Звонок-будильник
+ivr/ivr-wakey_wakey_sunshine,"Просыпайтесь, солнышко!"
+ivr/ivr-welcome,Добро пожаловать.
+ivr/ivr-welcome_to,Добро пожаловать в...
+ivr/ivr-good_morning,Доброе утро.
+ivr/ivr-good_afternoon,Добрый день.
+ivr/ivr-good_evening,Добрый вечер.
+ivr/ivr-thank_you,Спасибо
+ivr/ivr-for,для...
+ivr/ivr-longer_than_usual_hold_times,Время ожидания дольше обычного
+ivr/ivr-you_are_the,Вы
+ivr/ivr-one_moment_please,"Подождите, пожалуйста."
+ivr/ivr-call_answered_order_received,Звонок будет принят в порядке очереди
+ivr/ivr-you_entered,Вы вошли...
+ivr/ivr-extension_number,Внутренний номер...
+ivr/ivr-please_hold_while_party_contacted,"Подождите, пока мы свяжемся с абонентом"
+ivr/ivr-please_enjoy_music_while_party_reached,"Наслаждайтесь музыкой, пока мы связываемся"
+ivr/ivr-generic_greeting,"Спасибо за звонок. Если вы знаете внутренний номер телефона, пожалуйста, введите его сейчас или набрать девять для каталога."
+ivr/ivr-if_correct_one_if_not_two,"Если это правильно нажмите один. Если нет, нажмите 2"
+ivr/ivr-repeat_this_information,Повторить эту информацию
+ivr/ivr-no_no_no,"Нет, нет, нет!"
+ivr/ivr-did_you_mean_to_press_key,Вы хотели нажать клавишу?
+ivr/ivr-seriously_mean_to_press_key,Вы действительно хотели нажать клавишу?
+ivr/ivr-oh_whatever,"Ну ладно, как хотите"
+ivr/ivr-one_more_mistake,Ещё одна ошибка
+ivr/ivr-congratulations_you_pressed_star,"Поздравляем, вы нажали звёздочку!"
+ivr/ivr-engineers_busy_assisting_other_sales,Инженеры заняты помощью другим клиентам
+ivr/ivr-message_self_destruct,Это сообщение самоуничтожится
+ivr/ivr-all_your_call_are_belong_to_us,Все ваши звонки принадлежат нам
+ivr/ivr-love_those_touch_tones,Обожаю эти тональные сигналы!
+ivr/ivr-yes_we_have_no_bananas,"Да, у нас нет бананов"
+ivr/ivr-dude_you_suck,Ну вы даёте!
+ivr/ivr-on_hold_indefinitely,На удержании на неопределённое время
+ivr/ivr-has_left_the_building,...покинул здание.
+ivr/ivr-phone_is_unassigned,Этот телефон не предназначен для совершения внешних звонков.
+ivr/ivr-phone_not_configured,Этот телефон не правильно настроен.
+ivr/ivr-phone_is_configured_properly,Поздравляем! Этот телефон настроен правильно и теперь могут быть установлен пользователю.
+ivr/ivr-contact_system_administrator,Свяжитесь с системным администратором
+ivr/ivr-no_calls_waiting_in_queue,Нету вызовов ожидающих в этой очереди.
+ivr/ivr-you_are_number_one,Вы первый в очереди.
+ivr/ivr-has_called_emergency_services,...вызвал аварийные службы
+ivr/ivr-there_are,Здесь...
+ivr/ivr-enter_source_telephone_number,Введите исходный номер телефона
+ivr/ivr-enter_destination_telephone_number,Введите номер телефона назначения
+ivr/ivr-recording_started,Запись начата.
+ivr/ivr-recording_stopped,Запись остановлена.
+ivr/ivr-recording_paused,Запись приостановлена.
+ivr/ivr-recording_deleted,Запись удалена.
+ivr/ivr-no_longer_in_queue,Вы больше не в очереди.
+ivr/ivr-withdrawn,отозван
+ivr/ivr-question,вопрос
+ivr/ivr-questions,вопросы
+ivr/ivr-has_been_answered,был отвечен
+ivr/ivr-has_been_removed,был удалён
+ivr/ivr-no_questions_in_queue,Нет вопросов в очереди.
+ivr/ivr-is_now_on,теперь включён
+ivr/ivr-is_now_off,теперь выключен
+ivr/ivr-phone_not_make_external_calls,Этот телефон не авторизован для внешних звонков.
+ivr/ivr-id_number,Идентификационный номер
+ivr/ivr-skip_instructions,Нажмите любую клавишу для пропуска инструкций.
+ivr/ivr-hangup_to_discard,Положите трубку для отмены.
+ivr/ivr-or_press,или нажмите
+ivr/ivr-for_english_press,"Для английского, нажмите"
+ivr/ivr-call_cannot_be_completed_as_dialed,Ваш звонок не может быть выполнен в набранном виде.
+ivr/ivr-please_check_number_try_again,"Пожалуйста, проверьте номер и попробуйте снова."
+ivr/ivr-failure_reason_is,Причина ошибки
+ivr/ivr-unallocated_number,Номер не выделен
+ivr/ivr-no_user_response,Нет ответа пользователя
+ivr/ivr-invalid_number_format,Неверный формат номера
+ivr/ivr-invalid_sound_prompt,Недействительный звуковой запрос
+ivr/ivr-gateway_down,Шлюз недоступен
+ivr/ivr-no_route_destination,Нет маршрута к назначению
+ivr/ivr-user_busy,Пользователь занят
+ivr/ivr-call_rejected,Вызов отклонён
+ivr/ivr-normal_unspecified,"Нормально, не указано"
+ivr/ivr-incompatible_destination,Несовместимое назначение
+ivr/ivr-normal_clearing,Нормальное завершение
+ivr/ivr-not_have_permission,У вас нет разрешения
+ivr/ivr-youre_doing_it_wrong,Вы делаете это неправильно!
+ivr/ivr-were_asterisk_free,Мы свободны от Asterisk!
+ivr/ivr-douche_telecom,Douche Telecom
+ivr/ivr-to_learn_more_about_freeswitch,Чтобы узнать больше о FreeSWITCH
+ivr/ivr-there_is,Есть
+ivr/ivr-do_not_call_list,Список запрета вызовов
+ivr/ivr-call_attempt_aborted,Попытка вызова прервана
+ivr/ivr-to_wait_stay_on_the_line,"Чтобы подождать, оставайтесь на линии."
+ivr/ivr-if_you_would_like_us_to_call_back,"Если вы хотите, чтобы мы перезвонили"
+ivr/ivr-it_appears_that_your_phone_number_is,"Похоже, ваш номер телефона"
+ivr/ivr-would_you_like_to_receive_a_call_at_this_number,Хотите получить звонок на этот номер?
+ivr/ivr-please_enter_the_number_where_we_can_reach_you,"Введите номер, по которому мы можем связаться."
+ivr/ivr-we_will_return_your_call_at_this_number,Мы перезвоним на этот номер.
+ivr/ivr-anonymous_caller,Анонимный звонящий
+ivr/ivr-freeguipy,Угостите себя кусочком бесплатного пирога!
+ivr/ivr-learn_more_freeguipydotorg,Узнайте больше на F-R-E-E-G-U-I-P-Y точка O-R-G
+ivr/ivr-terribly_wrong_awkward,"Что-то пошло ужасно, ужасно не так... (неловко!)"
+ivr/ivr-it_was_that_bug,"Ну надо же, это был тот самый баг!"
+ivr/ivr-concentrate,СКОНЦЕНТРИРУЙТЕСЬ! Сосредоточьтесь на кролике! СОСРЕДОТОЧЬТЕСЬ НА КРОЛИКЕ!
+ivr/ivr-file_a_jira,"Если вам не нравится, можете создать JIRA!"
+ivr/ivr-founder_of_freesource,"Позвольте представить основателя FreeSOURCE, Энтони Министроне."
+ivr/ivr-cold_foolish,"Чувак, это действительно глупо... ОЧЕНЬ глупо"
+ivr/ivr-trollover_minutes,Поздравляем! Вы заработали 1500 Троллинг-минут в этом месяце!
+ivr/ivr-yuno_silent_drill,Почему не тихий режим?!
+ivr/ivr-beacuase,Потому что голоса были довольно хорошими
+ivr/ivr-day_mode,Дневной режим...
+ivr/ivr-night_mode,Ночной режим...
+ivr/ivr-lunch_mode,Режим обеда...
+ivr/ivr-custom_mode_number,Номер пользовательского режима
+ivr/ivr-not_have_permission_to_edit,У вас нет разрешения на редактирование
+ivr/ivr-this_feature,Эта функция
+ivr/ivr-feature,функция
+ivr/ivr-automated_attendants,Автоответчики
+ivr/ivr-automated_attendant,Автоответчик
+ivr/ivr-please_enter_extension_number_of,Введите номер добавочного
+ivr/ivr-that_you_would_like_to_modify,который вы хотите изменить
+ivr/ivr-invalid_extension_try_again,"Недействительный добавочный, попробуйте снова."
+ivr/ivr-modify_main_prompts,Изменить основные подсказки
+ivr/ivr-modify_option_prompts,Изменить подсказки опций
+ivr/ivr-hear_usage_stats,Прослушать статистику использования
+ivr/ivr-at_the_tone,После сигнала
+ivr/ivr-record_prompt,Записать подсказку
+ivr/ivr-record_short_greeting,Записать короткое приветствие
+ivr/ivr-record_invalid_sound,Записать звук ошибки
+ivr/ivr-record_exit_sound,Записать звук выхода
+ivr/ivr-when_finished_press_any_key,Нажмите любую клавишу когда закончите.
+ivr/ivr-press_key_of_prompt_to_modify,Нажмите клавишу подсказки для изменения.
+ivr/ivr-key,клавиша
+ivr/ivr-does_not_contain_a_recording,не содержит записи
+ivr/ivr-already_contains_a_recording,уже содержит запись
+ivr/ivr-option,опция
+ivr/ivr-has_had,имел
+ivr/ivr-visitors,посетители
+ivr/ivr-visitor,посетитель
+ivr/ivr-reset_usage_totals,Сбросить итоги использования
+ivr/ivr-reset_usage_totals_confirm,Подтвердить сброс итогов использования
+ivr/ivr-to_confirm,для подтверждения
+ivr/ivr-usage_totals_have_been_reset,Итоги использования сброшены.
+ivr/ivr-to_modify,для изменения
+ivr/ivr-to_modify_main_prompt,для изменения основной подсказки
+ivr/ivr-short_greeting,Короткое приветствие
+ivr/ivr-ivalid_sound_prompt,Недействительная звуковая подсказка
+ivr/ivr-exit_sound_prompt,Звуковая подсказка выхода
+ivr/ivr-not_accept_anonymous_calls,Не принимает анонимные вызовы
+ivr/ivr-to_accept_press,"Для принятия, нажмите"
+ivr/ivr-to_reject,для отклонения
+ivr/ivr-hang_up,Положите трубку
+ivr/ivr-to_reject_hangup,"Для отклонения, положите трубку"
+ivr/ivr-access_denied,Доступ запрещён.
+ivr/ivr-perform_dtmf_test,Выполнить DTMF-тест
+ivr/ivr-perform_echo_test,Выполнить эхо-тест
+ivr/ivr-perform_delayed_echo_test,Выполнить задержанный эхо-тест
+ivr/ivr-hangup_to_end_test,Положите трубку для завершения теста.
+ivr/ivr-read_each_key_press_back,Прочитать каждое нажатие клавиши
+ivr/ivr-echo_your_audio_back,Эхо вашего аудио
+ivr/ivr-delayed_echo_your_audio_back,Задержанное эхо вашего аудио
+ivr/ivr-send_fax,Отправить факс
+ivr/ivr-enter_number_send_fax,Введите номер для отправки факса
+ivr/ivr-send_fax_now,Отправить факс сейчас
+ivr/ivr-has_been_added_to_the_blacklist,добавлен в чёрный список
+ivr/ivr-has_been_removed_from_blacklist,удалён из чёрного списка
+ivr/ivr-enter_number_to_add_to_blacklist,Введите номер для добавления в чёрный список
+ivr/ivr-enter_number_to_remove_from_blacklist,Введите номер для удаления из чёрного списка
+ivr/ivr-is_not_on_the_blacklist,не в чёрном списке
+ivr/ivr-is_already_on_the_blacklist,уже в чёрном списке
+ivr/ivr-for_other_options,Для других опций
+ivr/ivr-your_caller_id_information_is,Ваша информация о номере звонящего
+ivr/ivr-call_screening_enabled,Фильтрация вызовов включена
+ivr/ivr-call_screening_disabled,Фильтрация вызовов отключена
+ivr/ivr-prompt,подсказка
+ivr/ivr-enabled,включено
+ivr/ivr-disabled,отключено
+ivr/ivr-aint_nobody_got_time_for_that,Ни у кого нет на это времени!
+ivr/ivr-we_would_support,"Мы бы с удовольствием вам помогли, если бы вы отвечали на наши звонки и письма."
+ivr/ivr-suck,...плохо.
+ivr/ivr-sucks,...плохо.
+ivr/ivr-to_redial_last_call,Для повторного набора последнего вызова
+ivr/ivr-ensure_service_keeps_working,"Убедитесь, что служба работает"
+ivr/ivr-please_contact,Свяжитесь с
+ivr/ivr-the_billing_department,отделом выставления счетов
+ivr/ivr-by_dialing,набрав
+ivr/ivr-credit_card_could_not_be_charged,Не удалось списать с кредитной карты
+ivr/ivr-units,единиц
+ivr/ivr-per_minute,в минуту
+ivr/ivr-your_caller_id_number_is_blocked,Ваш номер заблокирован
+ivr/ivr-unblock_caller_id,Вы должны разблокировать идентификатор вызывающего абонента для авторизации без PIN-кода на телефонной карте.
+ivr/ivr-request_or_use_pin,В качестве альтернативы вы можете запросить или использовать PIN-код на вашем счёте.
+ivr/ivr-you_have_used,Вы использовали
+ivr/ivr-out_of,из
+ivr/ivr-next_billing_cycle,следующий расчётный период
+ivr/ivr-nothing,ничего
+ivr/ivr-to_skip,для пропуска
+ivr/ivr_connect_live_operator,Соединить с живым оператором
+ivr/ivr-connect_actual_human_being,Соединить с реальным человеком
+ivr/ivr-system_down_for_maintenance,Система недоступна для обслуживания
+ivr/ivr-system_back_up_in_approximately,Система вернётся примерно через
+ivr/ivr-you_lose,"Всё здесь, чёрным по белому, ясно как день! Вы украли шипучие напитки! Вы врезались в потолок, который теперь нужно мыть и стерилизовать, так что вы ничего не получаете! Вы проиграли! Всего хорошего, сэр!"
+ivr/ivr-cold_pop,"Чтобы взять холодную газировку, нажмите..."
+ivr/ivr-barbecuing,"Если вы подумали, что кто-то готовит барбекю, нажмите..."
+ivr/ivr-no_shoes,"Если вы не схватили обувь и побежали спасать свою жизнь, нажмите..."
+ivr/ivr-smoke_got_you,"Если дым вас достал, нажмите..."
+ivr/ivr-got_bronchitis,"Если у вас бронхит, нажмите..."
+ivr/ivr-nobody_got_time_for_that,"Если ни у кого нет на это времени, нажмите..."
+ivr/ivr-reminder_for,Напоминание для
+ivr/ivr-appointment_schedule_for,Запись на приём для
+ivr/ivr-Your_verification_PIN_is,Ваш проверочный PIN-код
+ivr/ivr-hotseat_intro,Введение в горячее рабочее место
+ivr/ivr-modify_main_prompt,Изменить основную подсказку
+ivr/ivr-hotseat_pin,PIN горячего рабочего места
+ivr/ivr-hotseat_options,Опции горячего рабочего места
+ivr/ivr-maximum_number_of_channels,Вы достигли максимального количества каналов.
+ivr/ivr-to_do_a_echo_test,для выполнения эхо-теста
+misc/call_secured,Этот звонок шифруется
+misc/followed,завершаемый нажатием на клавишу решетка
+misc/if_you_are_this_person,Если вы этот человек
+misc/if_you_would_like_to,Если вы хотите
+misc/provide_reference_number,Предоставьте номер ссылки
+misc/transfer1,"Пожалуйста, введите добавочный номер на который хотите перевести звонок"
+misc/transfer2,Перевод
+misc/we_are_trying_to_reach,Мы пытаемся связаться...
+misc/error,"Произошла ошибка, пожалуйста обратитесь к администратору"
+misc/misc-your_call_will_be_terminated_in,Ваш звонок будет завершен через
+misc/misc-your_call_has_been_terminated,Ваш звонок был завершён
+misc/misc-to_hear_about_cluecon,Чтобы услышать о ClueCon
+misc/misc-cluecon_is_premier_conference,ClueCon — ведущая конференция
+misc/misc-chicago_each_summer,в Чикаго каждое лето
+misc/misc-wide_range_of_persons,широкий круг лиц
+misc/misc-support_open_source_by_attending,"Поддержите открытый исходный код, посетив"
+misc/misc-freeswitch_sponsored_by_ostag,FreeSWITCH спонсируется OSTAG
+misc/misc-ostag_learn_more,Узнать больше об OSTAG
+misc/misc-learn_more_about_freeswitch_solutions,Узнать больше о решениях FreeSWITCH
+misc/misc-information_about_freeswitch,Информация о FreeSWITCH
+misc/misc-freeswitch_is_state_of_the_art,FreeSWITCH — современное решение
+misc/misc-it_is_stable_scalable_extensible,"Он стабилен, масштабируем и расширяем"
+misc/misc-free_to_download,Бесплатно для скачивания
+misc/misc-freeswitch_dot_org_more,FreeSWITCH.org для подробностей
+misc/misc-Sangoma,Sangoma
+misc/misc-fss_best_consulting,FSS лучший консалтинг
+misc/misc-fss_network_of_experts,FSS сеть экспертов
+misc/misc-fss_contact_us,Свяжитесь с нами в FSS
+misc/misc-soccer_mom,Это типично для мамочки-футболистки!
+misc/misc-speak_live_with_community,Говорите вживую с сообществом
+misc/misc-join_us_each_wed,Присоединяйтесь к нам каждую среду
+misc/misc-more_info_wiki,Подробнее в вики
+misc/misc-welcome_freeswitch_conf_call,Добро пожаловать на конференц-звонок FreeSWITCH
+misc/misc-e164_dot_org,E164.org
+misc/phone_not_auth,Этот телефон не авторизован для внешних звонков.
+misc/sorry,Извините.
+misc/call_monitoring_blurb,Этот звонок может прослушиваться или записываться в целях контроля качества и обучения.
+misc/es,Испанский.
+misc/invalid_extension,Неверный добавочный номер.
+misc/en,Английский.
+base256/Algol,Алголь
+base256/Apollo,Аполлон
+base256/Athens,Афины
+base256/Atlantic,Атлантический
+base256/Aztec,Ацтек
+base256/Babylon,Вавилон
+base256/Belfast,Белфаст
+base256/Bradbury,Брэдбери
+base256/Brazilian,Бразильский
+base256/Burbank,Бербанк
+base256/Burlington,Берлингтон
+base256/Camelot,Камелот
+base256/Capricorn,Козерог
+base256/Cherokee,Чероки
+base256/Chicago,Чикаго
+base256/Christmas,Рождество
+base256/Dakota,Дакота
+base256/December,Декабрь
+base256/Dupont,Дюпон
+base256/Eskimo,Эскимос
+base256/Galveston,Галвестон
+base256/Geiger,Гейгер
+base256/Hamilton,Гамильтон
+base256/Istanbul,Стамбул
+base256/Jamaica,Ямайка
+base256/Jupiter,Юпитер
+base256/Medusa,Медуза
+base256/Mohawk,Могавк
+base256/Montana,Монтана
+base256/Neptune,Нептун
+base256/Norwegian,Норвежский
+base256/Oakland,Окленд
+base256/October,Октябрь
+base256/Ohio,Огайо
+base256/Orlando,Орландо
+base256/Pacific,Тихоокеанский
+base256/Pandora,Пандора
+base256/Pegasus,Пегас
+base256/Pluto,Плутон
+base256/Saturday,Суббота
+base256/Scotland,Шотландия
+base256/Trojan,Троянский
+base256/Virginia,Виргиния
+base256/Vulcan,Вулкан
+base256/Waterloo,Ватерлоо
+base256/Wichita,Уичита
+base256/Wilmington,Уилмингтон
+base256/Wyoming,Вайоминг
+base256/Yucatan,Юкатан
+base256/Zulu,Зулу
+base256/aardvark,Трубкозуб
+base256/absurd,Абсурд
+base256/accrue,Накапливаться
+base256/acme,Апогей
+base256/adrift,Дрейфующий
+base256/adroitness,Ловкость
+base256/adult,Взрослый
+base256/adviser,Советник
+base256/afflict,Поражать
+base256/aftermath,Последствия
+base256/aggregate,Совокупность
+base256/ahead,Впереди
+base256/aimless,Бесцельный
+base256/alkali,Щёлочь
+base256/allow,Разрешать
+base256/almighty,Всемогущий
+base256/alone,Один
+base256/ammo,Боеприпасы
+base256/amulet,Амулет
+base256/amusement,Развлечение
+base256/ancient,Древний
+base256/antenna,Антенна
+base256/apple,Яблоко
+base256/applicant,Заявитель
+base256/armistice,Перемирие
+base256/article,Статья
+base256/artist,Художник
+base256/assume,Предполагать
+base256/asteroid,Астероид
+base256/atlas,Атлас
+base256/atmosphere,Атмосфера
+base256/autopsy,Вскрытие
+base256/baboon,Бабуин
+base256/backfield,Тыл
+base256/backward,Назад
+base256/backwater,Заводь
+base256/banjo,Банджо
+base256/barbecue,Барбекю
+base256/beaming,Сияющий
+base256/bedlamp,Ночник
+base256/beehive,Улей
+base256/beeswax,Пчелиный воск
+base256/befriend,Подружиться
+base256/being,Существо
+base256/belowground,Подземный
+base256/berserk,Берсерк
+base256/bifocals,Бифокальные очки
+base256/billiard,Бильярд
+base256/bison,Бизон
+base256/blackjack,Блэкджек
+base256/blockade,Блокада
+base256/blowtorch,Паяльная лампа
+base256/bluebird,Синяя птица
+base256/bodyguard,Телохранитель
+base256/bombast,Напыщенность
+base256/bookseller,Книготорговец
+base256/bookshelf,Книжная полка
+base256/borderline,Граница
+base256/bottomless,Бездонный
+base256/brackish,Солоноватый
+base256/bravado,Бравада
+base256/breadline,Очередь за хлебом
+base256/breakaway,Отрыв
+base256/breakup,Распад
+base256/brickyard,Кирпичный завод
+base256/briefcase,Портфель
+base256/businessman,Бизнесмен
+base256/butterfat,Молочный жир
+base256/button,Кнопка
+base256/buzzard,Канюк
+base256/candidate,Кандидат
+base256/cannonball,Пушечное ядро
+base256/caravan,Караван
+base256/caretaker,Смотритель
+base256/celebrate,Праздновать
+base256/cellulose,Целлюлоза
+base256/cement,Цемент
+base256/certify,Сертифицировать
+base256/chairlift,Подъёмник
+base256/chambermaid,Горничная
+base256/chatter,Болтовня
+base256/checkup,Осмотр
+base256/chisel,Долото
+base256/choking,Удушье
+base256/chopper,Вертолёт
+base256/clamshell,Раковина
+base256/classic,Классический
+base256/classroom,Классная комната
+base256/cleanup,Уборка
+base256/clergyman,Священник
+base256/clockwork,Часовой механизм
+base256/cobra,Кобра
+base256/coherence,Связность
+base256/combustion,Сгорание
+base256/commando,Коммандос
+base256/commence,Начать
+base256/company,Компания
+base256/component,Компонент
+base256/concert,Концерт
+base256/concurrent,Одновременный
+base256/confidence,Уверенность
+base256/conference,Конференция
+base256/conformist,Конформист
+base256/congregate,Собираться
+base256/consensus,Консенсус
+base256/consulting,Консалтинг
+base256/corporate,Корпоративный
+base256/corrosion,Коррозия
+base256/councilman,Советник
+base256/cowbell,Коровий колокольчик
+base256/crackdown,Репрессии
+base256/cranky,Раздражительный
+base256/crossover,Кроссовер
+base256/crowfoot,Вороний глаз
+base256/crucial,Решающий
+base256/crucifix,Распятие
+base256/crumpled,Смятый
+base256/crusade,Крестовый поход
+base256/cubic,Кубический
+base256/cumbersome,Громоздкий
+base256/customer,Клиент
+base256/dashboard,Приборная панель
+base256/deadbolt,Засов
+base256/decadence,Декаденс
+base256/decimal,Десятичный
+base256/deckhand,Матрос
+base256/designing,Проектирование
+base256/detector,Детектор
+base256/detergent,Моющее средство
+base256/determine,Определять
+base256/dictator,Диктатор
+base256/dinosaur,Динозавр
+base256/direction,Направление
+base256/disable,Отключить
+base256/disbelief,Неверие
+base256/disruptive,Разрушительный
+base256/distortion,Искажение
+base256/document,Документ
+base256/dogsled,Собачья упряжка
+base256/dragnet,Невод
+base256/drainage,Дренаж
+base256/dreadful,Ужасный
+base256/drifter,Бродяга
+base256/dropper,Пипетка
+base256/drumbeat,Барабанная дробь
+base256/drunken,Пьяный
+base256/dwelling,Жилище
+base256/eating,Еда
+base256/edict,Указ
+base256/egghead,Интеллектуал
+base256/eightball,Бильярдный шар
+base256/embezzle,Растрата
+base256/enchanting,Очаровательный
+base256/endorse,Одобрить
+base256/endow,Наделять
+base256/enlist,Зачислить
+base256/enrollment,Зачисление
+base256/enterprise,Предприятие
+base256/equation,Уравнение
+base256/equipment,Оборудование
+base256/erase,Стереть
+base256/escapade,Выходка
+base256/escape,Побег
+base256/everyday,Ежедневный
+base256/examine,Исследовать
+base256/exceed,Превышать
+base256/existence,Существование
+base256/exodus,Исход
+base256/eyeglass,Очки
+base256/eyetooth,Клык
+base256/facial,Лицевой
+base256/fallout,Последствия
+base256/fascinate,Очаровывать
+base256/filament,Нить накала
+base256/finicky,Привередливый
+base256/flagpole,Флагшток
+base256/flatfoot,Полицейский
+base256/flytrap,Ловушка
+base256/forever,Навсегда
+base256/fortitude,Стойкость
+base256/fracture,Перелом
+base256/framework,Структура
+base256/freedom,Свобода
+base256/frequency,Частота
+base256/frighten,Пугать
+base256/gadgetry,Гаджеты
+base256/gazelle,Газель
+base256/getaway,Побег
+base256/glitter,Блеск
+base256/glossary,Глоссарий
+base256/glucose,Глюкоза
+base256/goggles,Очки
+base256/goldfish,Золотая рыбка
+base256/gossamer,Паутина
+base256/graduate,Выпускник
+base256/gravity,Гравитация
+base256/gremlin,Гремлин
+base256/guidance,Руководство
+base256/guitarist,Гитарист
+base256/hamburger,Гамбургер
+base256/hamlet,Деревня
+base256/handiwork,Рукоделие
+base256/hazardous,Опасный
+base256/headwaters,Исток
+base256/hemisphere,Полушарие
+base256/hesitate,Колебаться
+base256/hideaway,Убежище
+base256/highchair,Детский стул
+base256/hockey,Хоккей
+base256/holiness,Святость
+base256/hurricane,Ураган
+base256/hydraulic,Гидравлический
+base256/impartial,Беспристрастный
+base256/impetus,Импульс
+base256/inception,Начало
+base256/indigo,Индиго
+base256/indoors,В помещении
+base256/indulge,Потворствовать
+base256/inertia,Инерция
+base256/infancy,Младенчество
+base256/inferno,Ад
+base256/informant,Информатор
+base256/insincere,Неискренний
+base256/insurgent,Повстанец
+base256/integrate,Интегрировать
+base256/intention,Намерение
+base256/inventive,Изобретательный
+base256/inverse,Обратный
+base256/involve,Вовлекать
+base256/is,Это
+base256/island,Остров
+base256/jawbone,Челюсть
+base256/keyboard,Клавиатура
+base256/kickoff,Начало игры
+base256/kiwi,Киви
+base256/klaxon,Клаксон
+base256/leprosy,Проказа
+base256/letterhead,Бланк
+base256/liberty,Свобода
+base256/longer,Длиннее
+base256/locale,Место
+base256/lockup,Тюрьма
+base256/maritime,Морской
+base256/matchmaker,Сваха
+base256/maverick,Индивидуалист
+base256/megaton,Мегатонна
+base256/merit,Заслуга
+base256/microscope,Микроскоп
+base256/microwave,Микроволновка
+base256/midsummer,Середина лета
+base256/millionaire,Миллионер
+base256/minnow,Пескарь
+base256/miracle,Чудо
+base256/miser,Скряга
+base256/misnomer,Неправильное название
+base256/molasses,Меласса
+base256/molecule,Молекула
+base256/monument,Памятник
+base256/mosquito,Комар
+base256/mural,Фреска
+base256/music,Музыка
+base256/narrative,Повествование
+base256/nebula,Туманность
+base256/necklace,Ожерелье
+base256/newborn,Новорождённый
+base256/newsletter,Бюллетень
+base256/nightbird,Ночная птица
+base256/no,Нет
+base256/obtuse,Тупой
+base256/offload,Разгрузить
+base256/onlooker,Зритель
+base256/optic,Оптический
+base256/opulent,Роскошный
+base256/orca,Косатка
+base256/outfielder,Полевой игрок
+base256/pandemic,Пандемия
+base256/paperweight,Пресс-папье
+base256/paragon,Образец
+base256/paragraph,Параграф
+base256/paramount,Первостепенный
+base256/passenger,Пассажир
+base256/payday,День зарплаты
+base256/peachy,Отлично
+base256/pedigree,Родословная
+base256/penetrate,Проникать
+base256/perceptive,Проницательный
+base256/performance,Производительность
+base256/pharmacy,Аптека
+base256/pheasant,Фазан
+base256/phonetic,Фонетический
+base256/photograph,Фотография
+base256/physique,Телосложение
+base256/pioneer,Пионер
+base256/playhouse,Театр
+base256/pocketful,Полный карман
+base256/politeness,Вежливость
+base256/positive,Позитив
+base256/potato,Картофель
+base256/preclude,Исключить
+base256/prefer,Предпочитать
+base256/preshrunk,Усаженный
+base256/printer,Принтер
+base256/processor,Процессор
+base256/provincial,Провинциальный
+base256/prowler,Бродяга
+base256/proximate,Ближайший
+base256/puberty,Половое созревание
+base256/publisher,Издатель
+base256/pupil,Ученик
+base256/puppy,Щенок
+base256/pyramid,Пирамида
+base256/python,Питон
+base256/quadrant,Квадрант
+base256/quantity,Количество
+base256/quiver,Колчан
+base256/quota,Квота
+base256/racketeer,Рэкетир
+base256/ragtime,Рэгтайм
+base256/ratchet,Храповик
+base256/rebellion,Восстание
+base256/rebirth,Возрождение
+base256/recipe,Рецепт
+base256/recover,Восстановить
+base256/reform,Реформа
+base256/regain,Вернуть
+base256/reindeer,Северный олень
+base256/rematch,Реванш
+base256/recorded,Записано
+base256/repay,Вернуть
+base256/repellent,Отталкивающий
+base256/replica,Реплика
+base256/reproduce,Воспроизвести
+base256/resistor,Резистор
+base256/responsive,Отзывчивый
+base256/retouch,Ретушь
+base256/retraction,Отзыв
+base256/retrieval,Извлечение
+base256/retrospect,Ретроспектива
+base256/revenge,Месть
+base256/revenue,Доход
+base256/revival,Возрождение
+base256/revolver,Револьвер
+base256/reward,Награда
+base256/rhythm,Ритм
+base256/ribcage,Грудная клетка
+base256/ringbolt,Рым-болт
+base256/robust,Надёжный
+base256/rocker,Качалка
+base256/ruffled,Взъерошенный
+base256/sailboat,Парусник
+base256/sandalwood,Сандал
+base256/sardonic,Сардонический
+base256/savagery,Дикость
+base256/sawdust,Опилки
+base256/scallion,Лук-шалот
+base256/scavenger,Мусорщик
+base256/scenic,Живописный
+base256/scorecard,Счётная карта
+base256/seabird,Морская птица
+base256/select,Выбрать
+base256/sensation,Ощущение
+base256/sentence,Предложение
+base256/shadow,Тень
+base256/shamrock,Клевер
+base256/showgirl,Танцовщица
+base256/skullcap,Тюбетейка
+base256/skydive,Парашютный прыжок
+base256/slingshot,Рогатка
+base256/slowdown,Замедление
+base256/snapline,Линия
+base256/snapshot,Снимок
+base256/snowcap,Снежная шапка
+base256/snowslide,Лавина
+base256/sociable,Общительный
+base256/solo,Соло
+base256/southward,На юг
+base256/souvenir,Сувенир
+base256/soybean,Соя
+base256/spaniel,Спаниель
+base256/spearhead,Авангард
+base256/specialist,Специалист
+base256/speculate,Спекулировать
+base256/spellbind,Очаровать
+base256/spheroid,Сфероид
+base256/spigot,Кран
+base256/spindle,Веретено
+base256/spyglass,Подзорная труба
+base256/stagehand,Рабочий сцены
+base256/stagnate,Стагнировать
+base256/stairway,Лестница
+base256/standard,Стандарт
+base256/stapler,Степлер
+base256/steamship,Пароход
+base256/sterling,Превосходный
+base256/stethoscope,Стетоскоп
+base256/stockman,Скотовод
+base256/stopwatch,Секундомер
+base256/stormy,Штормовой
+base256/stupendous,Потрясающий
+base256/sugar,Сахар
+base256/supportive,Поддерживающий
+base256/surmount,Преодолеть
+base256/surrender,Сдача
+base256/suspense,Саспенс
+base256/suspicious,Подозрительный
+base256/sweatband,Повязка на голову
+base256/swelter,Задыхаться
+base256/sympathy,Сочувствие
+base256/tactics,Тактика
+base256/talon,Коготь
+base256/tambourine,Бубен
+base256/tapeworm,Ленточный червь
+base256/telephone,Телефон
+base256/tempest,Буря
+base256/therapist,Терапевт
+base256/this,Это
+base256/tiger,Тигр
+base256/tissue,Ткань
+base256/tobacco,Табак
+base256/tolerance,Терпимость
+base256/tomorrow,Завтра
+base256/tonic,Тоник
+base256/topmost,Самый высокий
+base256/torpedo,Торпеда
+base256/tracker,Трекер
+base256/tradition,Традиция
+base256/transit,Транзит
+base256/trauma,Травма
+base256/travesty,Пародия
+base256/treadmill,Беговая дорожка
+base256/trombonist,Тромбонист
+base256/trouble,Проблема
+base256/truncated,Усечённый
+base256/tumor,Опухоль
+base256/tunnel,Туннель
+base256/tycoon,Магнат
+base256/typewriter,Печатная машинка
+base256/ultimate,Окончательный
+base256/uncut,Нерезаный
+base256/undaunted,Бесстрашный
+base256/underfoot,Под ногами
+base256/unearth,Откопать
+base256/unicorn,Единорог
+base256/unify,Объединить
+base256/universe,Вселенная
+base256/unravel,Распутать
+base256/unwind,Расслабиться
+base256/upcoming,Предстоящий
+base256/uproot,Выкорчевать
+base256/upset,Расстроенный
+base256/upshot,Результат
+base256/vacancy,Вакансия
+base256/vagabond,Бродяга
+base256/vapor,Пар
+base256/vertigo,Головокружение
+base256/village,Деревня
+base256/virus,Вирус
+base256/visitor,Посетитель
+base256/vocalist,Вокалист
+base256/voyager,Путешественник
+base256/waffle,Вафля
+base256/wallet,Кошелёк
+base256/warranty,Гарантия
+base256/watchword,Пароль
+base256/wayside,Обочина
+base256/whimsical,Причудливый
+base256/willow,Ива
+base256/woodlark,Жаворонок
+base256/yesteryear,Былые времена
+features/agent_logged_in,Агент вошёл в систему.
+features/agent_logged_out,Агент вышел из системы.
+features/agent_pause,Агент на паузе.
+features/agent_toggle_error,Ошибка при изменении статуса агента.
+features/agent_unpause,Агент доступен.
+features/anonymous_call_disabled,Анонимный вызов отключён.
+features/anonymous_call_enabled,Анонимный вызов включён.
+features/authorization_code_invalid,Недействительный код авторизации.
+features/authorization_code_saved,Код авторизации сохранён.
+features/blacklist_added_success,Номер добавлен в чёрный список.
+features/blacklist_enter_number,Введите номер для блокировки.
+features/blacklist_enter_number_remove,Введите номер для разблокировки.
+features/blacklist_error_duplicate,Этот номер уже в чёрном списке.
+features/blacklist_error_generic,Ошибка операции с чёрным списком.
+features/blacklist_error_invalid,Недействительный номер для чёрного списка.
+features/blacklist_last_success,Последний звонивший добавлен в чёрный список.
+features/blacklist_removed_success,Номер удалён из чёрного списка.
+features/call_flow_disabled,Поток вызовов отключён.
+features/call_flow_enabled,Поток вызовов включён.
+features/call_parked,Вызов припаркован.
+features/callback_invalid,Недействительный запрос обратного звонка.
+features/callback_scheduled,Обратный звонок запланирован.
+features/callback_unavailable,Услуга обратного звонка недоступна.
+features/cache_list_failed,Не удалось получить список кэша.
+features/cache_purge_failed,Не удалось очистить кэш.
+features/cache_purged_successfully,Кэш успешно очищен.
+features/confirm_new_feature_password,Подтвердите новый пароль функции.
+features/conference_ended,Конференция завершена.
+features/conference_invalid,Недействительная конференция.
+features/conference_max_participants,Достигнуто максимальное количество участников.
+features/conference_moderator_entry,Теперь вы модератор.
+features/conference_recording,Эта конференция записывается.
+features/conference_wait_moderator,"Подождите, модератор ещё не прибыл."
+features/current-time-is,Текущее время...
+features/customer_code_saved,Код клиента сохранён.
+features/demo-echotest,Демонстрационный тест эхо.
+features/dnd_disabled,Режим «Не беспокоить» отключён.
+features/dnd_enabled,Режим «Не беспокоить» включён.
+features/enter_authorization_code,Введите код авторизации.
+features/enter_current_feature_password,Введите текущий пароль функции.
+features/enter_customer_code,Введите код клиента.
+features/enter_destination_number,Введите номер назначения.
+features/enter_extension_to_purge,Введите номер для очистки.
+features/enter_feature_password,Введите пароль функции.
+features/enter_new_feature_password,Введите новый пароль функции.
+features/enter_password,Введите пароль.
+features/enter_pin,Введите PIN-код.
+features/enter_queue,Введите номер очереди.
+features/fallback_routing,Резервная маршрутизация активирована.
+features/feature_activated,Функция активирована.
+features/feature_not_allowed,Эта функция не разрешена.
+features/feature_not_available,Эта услуга в данный момент недоступна.
+features/feature_password_mismatch,Пароли не совпадают.
+features/feature_password_updated_successfully,Пароль функции успешно обновлён.
+features/features_password_ok,Пароль функции верен.
+features/features_password_prompt,Введите ваш пароль функции.
+features/features_password_wrong,Неверный пароль функции.
+features/holiday_closure,В настоящее время мы закрыты на праздники. Перезвоните в рабочее время.
+features/hotdesk_login,"Введите ваш внутренний номер для начала работы, затем нажмите решётку."
+features/hotdesk_login_required,"Пожалуйста, войдите перед совершением звонков."
+features/hotdesk_logout,Вы вышли с этого устройства.
+features/hotdesk_success,Теперь вы подключены к этому устройству.
+features/im-sorry,"Извините, это недействительный номер."
+features/incorrect_current_feature_password,Введённый пароль функции неверен.
+features/invalid_entry,Неверный ввод.
+features/invalid_feature_code,Неверный выбор. Попробуйте снова.
+features/invalid_feature_password,Вы не ввели действительный пароль функции.
+features/invalid_password,Неверный пароль.
+features/invalid_pin,Введённый PIN недействителен.
+features/invalid_park_slot,Запрошенный слот парковки недействителен.
+features/ivr-test-goodbye,Благодарим за звонок в тестовый IVR Ring2All. До свидания.
+features/ivr-test-instructions,Для прослушивания текущего времени нажмите 1. Для теста эха нажмите 2. Для музыки ожидания нажмите 3.
+features/ivr-test-invalid,"Введённый выбор недействителен. Пожалуйста, попробуйте ещё раз."
+features/ivr-test-welcome,Добро пожаловать в тестовый IVR Ring2All.
+features/night_mode_disabled,Глобальный ночной режим теперь отключён.
+features/night_mode_enabled,Глобальный ночной режим теперь включён.
+features/no_available_parking,Нет доступных слотов для парковки.
+features/paging_group_invalid,Набранная группа оповещения недоступна.
+features/paging_not_allowed,Вам не разрешён доступ к этой группе оповещения.
+features/phone_locked,Ваш телефон теперь заблокирован.
+features/phone_unlocked,Ваш телефон теперь разблокирован.
+features/pickup_group_empty,Нет звонящих вызовов для перехвата.
+features/pickup_not_allowed,Вам не разрешено перехватывать вызовы этой группы.
+features/promo_april2025,Пользуйтесь скидкой 20% на все тарифы в этом месяце. Спросите детали у нашего агента.
+features/queue_added,Добавлен в очередь.
+features/queue_enter_queue,Введите номер очереди.
+features/queue_error,Ошибка очереди.
+features/queue_final_exit,Спасибо за ожидание. До свидания.
+features/queue_invalid,Неверная очередь.
+features/queue_join_welcome,Добро пожаловать в очередь.
+features/queue_no_agents_available,В настоящее время нет доступных агентов.
+features/queue_periodic_announcement,Спасибо за ожидание. Агент скоро ответит.
+features/queue_position_number,Вы номер...
+features/queue_position_suffix,...в очереди.
+features/queue_removed,Удалён из очереди.
+features/queue_wait_prefix,Ожидаемое время ожидания...
+features/queue_wait_suffix,...минут.
+features/reminder_enter_time,Введите время напоминания.
+features/reminder_error,Произошла ошибка при настройке напоминания.
+features/reminder_record_message,Запишите сообщение напоминания после сигнала.
+features/reminder_saved,Ваше напоминание сохранено.
+features/remote_wakeup_enter_ext,Введите добавочный номер для звонка-будильника.
+features/remote_wakeup_enter_time,Введите время будильника.
+features/remote_wakeup_error,Произошла ошибка при настройке звонка-будильника.
+features/remote_wakeup_scheduled,Ваш звонок-будильник запланирован.
+features/select_cache_type,"Нажмите 1 для очистки кэша расширений, 2 для плана набора или 3 для SIP-профилей."
+features/sim-incoming-call-did,"Пожалуйста, введите номер назначения."
+features/sim-incoming-cid,"Введите номер определителя вызывающего абонента, если хотите его изменить."
+features/speak_last_call_prompt,"Для перезвона на этот номер нажмите 1, иначе положите трубку."
+features/speak_last_not_found,Недавний вызывающий абонент не найден.
+features/speed_dial_invalid,Код быстрого набора недействителен.
+features/speed_dial_not_found,Номер для этого кода быстрого набора не найден.
+features/speed_dial_set,Ваша запись быстрого набора сохранена.
+features/status_dnd_enabled,Вызываемый номер в данный момент недоступен.
+features/voicemail_goodbye,До свидания.
+features/voicemail_welcome,Добро пожаловать в голосовую почту.
+features/wakeup_cancel_success,Будильник отменён.
+features/wakeup_enter_time,Введите время пробуждения.
+features/wakeup_error_generic,Ошибка будильника.
+features/wakeup_error_invalid,Неверное время пробуждения.
+features/wakeup_scheduled,Будильник запланирован.
+features/wrong_password,Неверный пароль.
+features/your_extension_is,Ваш добавочный номер...
+features/queue_callback_option,"Чтобы получить обратный звонок, нажмите 1."
+features/queue_callback_confirm,Вы запросили обратный звонок.
+features/queue_callback_enter_number,"Пожалуйста, введите номер для обратного звонка."
+features/queue_callback_invalid_number,"Введённый номер недействителен. Пожалуйста, попробуйте снова."
+features/queue_callback_thanks,Спасибо. Мы перезвоним вам в ближайшее время. До свидания.
+features/queue_callback_announcement,"Это ваш запрошенный обратный звонок. Пожалуйста, подождите, пока мы соединяем вас с оператором."
+features/callback_rate_limit,"Вы достигли максимального количества запросов на обратный звонок. Пожалуйста, попробуйте позже."
+digits/h-0f,нулевая
+digits/h-0m,нулевой
+digits/h-0n,Нулевое
+digits/h-0x,нулевого
+digits/1f,Одна
+digits/1n,Одно
+digits/1x,Одного
+digits/1xx,Одной
+digits/h-1x,Первого
+digits/h-1m,Первый
+digits/h-1n,Первое
+digits/h-1f,Первая
+digits/h-1xx,Одной
+digits/2f,Две
+digits/2n,Два
+digits/h-2xx,Двух
+digits/h-2n,Второе
+digits/h-2x,Второго
+digits/h-2m,Второй
+digits/h-2f,Вторая
+digits/h-3x,Третьего
+digits/h-3m,Третий
+digits/h-3f,Третья
+digits/h-3n,третье
+digits/h-3xx,Трёх
+digits/h-4f,Четвёртая
+digits/h-4x,Четвёртого
+digits/h-4m,Четвёртый
+digits/h-4n,Четвёртое
+digits/h-4xx,Четырёх
+digits/h-5f,Пятая
+digits/h-5x,Пятого
+digits/h-5m,Пятый
+digits/h-5n,Пятое
+digits/h-5xx,Пяти
+digits/h-6f,Шестая
+digits/h-6x,Шестого
+digits/h-6m,Шестой
+digits/h-6n,Шестое
+digits/h-6xx,Шести
+digits/h-7f,Седьмая
+digits/h-7x,Седьмого
+digits/h-7m,Седьмой
+digits/h-7n,Седьмое
+digits/h-7xx,Семи
+digits/h-8f,Восьмая
+digits/h-8x,Восьмого
+digits/h-8m,Восьмой
+digits/h-8n,Восьмое
+digits/h-8xx,Восьми
+digits/h-9f,Девятая
+digits/h-9x,Девятого
+digits/h-9m,Девятый
+digits/h-9n,Девятое
+digits/h-9xx,Девяти
+digits/h-10f,Десятая
+digits/h-10x,Десятого
+digits/h-10m,Десятый
+digits/h-10n,Десятое
+digits/h-10xx,Десяти
+digits/h-11f,Одинадцатая
+digits/h-11x,Одинадцатого
+digits/h-11m,Одинадцатый
+digits/h-11n,Одинадцатое
+digits/h-11xx,Одинадцати
+digits/h-12f,Двенадцатая
+digits/h-12x,Двенадцатого
+digits/h-12m,Двенадцатый
+digits/h-12n,Двенадцатое
+digits/h-12xx,Двенадцати
+digits/h-13f,Тринадцатая
+digits/h-13x,Тринадцатого
+digits/h-13m,Тринадцатый
+digits/h-13n,Тринадцатое
+digits/h-13xx,Тринадцати
+digits/h-14f,Четырнадцатая
+digits/h-14x,Четырнадцатого
+digits/h-14m,Четырнадцатый
+digits/h-14n,Четырнадцатое
+digits/h-14xx,Четырнадцати
+digits/h-15f,Пятнадцатая
+digits/h-15x,Пятнадцатого
+digits/h-15m,Пятнадцатый
+digits/h-15n,Пятнадцатое
+digits/h-15xx,Пятнадцати
+digits/h-16f,Шестнадцатая
+digits/h-16x,Шестнадцатого
+digits/h-16m,Шестнадцатый
+digits/h-16n,Шестнадцатое
+digits/h-16xx,Шестнадцати
+digits/h-17f,Семнадцатая
+digits/h-17x,Семнадцатого
+digits/h-17m,Семнадцатый
+digits/h-17n,Семнадцатое
+digits/h-17xx,Семнадцати
+digits/h-18f,Восемнадцатая
+digits/h-18x,Восемнадцатого
+digits/h-18m,Восемнадцатый
+digits/h-18n,Восемнадцатое
+digits/h-18xx,Восемнадцати
+digits/h-19f,Девятнадцатая
+digits/h-19x,Девятнадцатого
+digits/h-19m,Девятнадцатый
+digits/h-19n,Девятнадцатое
+digits/h-19xx,Девятнадцати
+digits/h-20f,Двадцатая
+digits/h-20x,Двадцатого
+digits/h-20m,Двадцатый
+digits/h-20n,Двадцатое
+digits/h-20xx,Двадцати
+digits/h-30f,Тридцатая
+digits/h-30x,Тридцатого
+digits/h-30m,Тридцатый
+digits/h-30n,Тридцатое
+digits/h-30xx,Тридцати
+digits/h-40f,Сороковая
+digits/h-40x,Сорокового
+digits/h-40m,Сороковой
+digits/h-40n,Сороковое
+digits/h-40xx,Сорока
+digits/h-50f,Пятидесятая
+digits/h-50x,Пятидесятого
+digits/h-50m,Пятидесятый
+digits/h-50n,Пятидесятое
+digits/h-50xx,Пятидесяти
+digits/h-60f,Шестидесятая
+digits/h-60x,Шестидесятого
+digits/h-60m,Шестидесятый
+digits/h-60n,Шестидесятое
+digits/h-60xx,Шестидесяти
+digits/h-70f,Семидесятая
+digits/h-70x,Семидесятого
+digits/h-70m,Семидесятый
+digits/h-70n,Семидесятое
+digits/h-70xx,Семидесяти
+digits/h-80f,Восьмидесятая
+digits/h-80x,Восемидесятого
+digits/h-80m,Восемидесятый
+digits/h-80n,Восьмидесятое
+digits/h-80xx,Восьмидесяти
+digits/h-90f,Девяностая
+digits/h-90x,Девяностого
+digits/h-90m,Девяностый
+digits/h-90n,Девяностое
+digits/h-90xx,Девяноста
+digits/100,Сто
+digits/h-100f,Сотая
+digits/h-100x,Сотого
+digits/h-100m,Сотый
+digits/h-100n,Сотое
+digits/h-100xx,Ста
+digits/200,Двести
+digits/h-200f,Двухсотая
+digits/h-200x,Двухсотого
+digits/h-200m,Двухсотый
+digits/h-200n,Двухсотое
+digits/h-200xx,Двухсот
+digits/300,Триста
+digits/h-300f,Трёхсотая
+digits/h-300x,Трёхсотого
+digits/h-300m,Трёхсотый
+digits/h-300n,Трёхсотое
+digits/h-300xx,Трёхсот
+digits/400,Четыреста
+digits/h-400f,Четырёхсотая
+digits/h-400x,Четырёхсотого
+digits/h-400m,Четырёхсотый
+digits/h-400n,Четырёхсотое
+digits/h-400xx,Четырёхсот
+digits/500,Пятьсот
+digits/h-500f,Пятисотая
+digits/h-500x,Пятисотого
+digits/h-500m,Пятисотый
+digits/h-500n,Пятисотое
+digits/h-500xx,Пятисот
+digits/600,Шестьсот
+digits/h-600f,Шестисотая
+digits/h-600x,Шестисотого
+digits/h-600m,Шестисотый
+digits/h-600n,Шестисотое
+digits/h-600xx,Шестисот
+digits/700,Семьсот
+digits/h-700f,Семисотая
+digits/h-700x,Семисотого
+digits/h-700m,Семисотый
+digits/h-700n,Семисотое
+digits/h-700xx,Семисот
+digits/800,Восемьсот
+digits/h-800f,Восьмисотая
+digits/h-800x,Восьмисотого
+digits/h-800m,Восьмисотый
+digits/h-800n,Восьмисотое
+digits/h-800xx,Восьмисот
+digits/900,Девятьсот
+digits/h-900f,Девятисотая
+digits/h-900x,Девятосотого
+digits/h-900m,Девятисотый
+digits/h-900n,Девятисотое
+digits/h-900xx,Девятисот
+digits/thousands-i,Тысячи
+digits/thousands,Тысяч
+digits/h-thousandf,Тысячная
+digits/h-thousandx,Тысячного
+digits/h-thousandm,Тысячный
+digits/h-thousandn,Тысячное
+digits/h-thousandxxx,Тысячных
+digits/million-a,Миллиона
+digits/millions,Миллионов
+digits/h-millionf,Миллионная
+digits/h-millionx,Миллионного
+digits/h-millionm,Миллионный
+digits/h-millionn,Миллионное
+digits/h-millionxxx,Миллионных
+currency/centa,Цента
+currency/centov,Центов
+currency/dollara,Доллара
+currency/dollari,Доллары
+currency/kopeck-i,Копейки
+currency/kopeck,Копейка
+currency/kopecks,Копеек
+currency/ruble,Рубль
+currency/ruble-a,Рубля
+currency/rubles,Рублей
+time/hours-a,часа
+time/minutes-i,Минуты
+time/seconds-i,секунды
+time/year,Год
+time/h-year,Года
+time/years,Годов
+time/yearsx,Лет
+voicemail/vm-urgent-newx,новых срочных
+voicemail/vm-newx,новых
+voicemail/vm-savedx,сохранённых
+voicemail/vm-save,сохранное
+voicemail/vm-messagex,сообщений
+voicemail/vm-return_call_1,что бы перезвонить
+ivr/ivr-unable_save_old,Система не смогла сохранить Ваше сообщение. Попробуйте позднее.
+ivr/ivr-begin_recording.wav ,Начать запись
+ivr/ivr-please_state_your_name_and_reason_for_calling.wav ,"Пожалуйста, назовите свое имя и цель Вашего звонка"
+ivr/ivr-files-,...Файлы...
+ivr/ivr-Thank_you,Спасибо.

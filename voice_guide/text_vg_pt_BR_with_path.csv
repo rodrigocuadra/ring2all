@@ -1,0 +1,1376 @@
+Path/Name,Phrase
+ascii/32,Espaço
+ascii/35,Sustenido
+ascii/42,Asterisco
+ascii/46,Ponto
+ascii/45,Hífen
+ascii/33,Ponto de exclamação
+ascii/64,Arroba
+ascii/36,Cifrão
+ascii/37,Porcentagem
+ascii/38,E comercial
+ascii/34,Aspas duplas
+ascii/39,Apóstrofo
+ascii/47,Barra
+ascii/95,Sublinhado
+ascii/92,Barra invertida
+ascii/126,Til
+ascii/61,Sinal de igual
+ascii/58,Dois pontos
+ascii/59,Ponto e vírgula
+ascii/94,Acento circunflexo
+ascii/124,Barra vertical
+ascii/43,Mais
+ascii/40,Parêntese esquerdo
+ascii/41,Parêntese direito
+ascii/123,Chave esquerda
+ascii/125,Chave direita
+ascii/91,Colchete esquerdo
+ascii/93,Colchete direito
+ascii/44,Vírgula
+ascii/96,Acento grave
+ascii/60,Menor que
+ascii/62,Maior que
+ascii/97,A
+ascii/98,B
+ascii/99,C
+ascii/100,D
+ascii/101,E
+ascii/102,F
+ascii/103,G
+ascii/104,H
+ascii/105,I
+ascii/106,J
+ascii/107,K
+ascii/108,L
+ascii/109,M
+ascii/110,N
+ascii/111,O
+ascii/112,P
+ascii/113,Q
+ascii/114,R
+ascii/115,S
+ascii/116,T
+ascii/117,U
+ascii/118,V
+ascii/119,W
+ascii/120,X
+ascii/121,Y
+ascii/122,Z
+phonetic-ascii/32,Espaço
+phonetic-ascii/46,Ponto
+phonetic-ascii/97,Alpha
+phonetic-ascii/98,Bravo
+phonetic-ascii/99,Charlie
+phonetic-ascii/100,Delta
+phonetic-ascii/101,Echo
+phonetic-ascii/102,Foxtrot
+phonetic-ascii/103,Golf
+phonetic-ascii/104,Hotel
+phonetic-ascii/105,India
+phonetic-ascii/106,Juliet
+phonetic-ascii/107,Kilo
+phonetic-ascii/108,Lima
+phonetic-ascii/109,Mike
+phonetic-ascii/110,November
+phonetic-ascii/111,Oscar
+phonetic-ascii/112,Papa
+phonetic-ascii/113,Quebec
+phonetic-ascii/114,Romeo
+phonetic-ascii/115,Sierra
+phonetic-ascii/116,Tango
+phonetic-ascii/117,Unifor
+phonetic-ascii/118,Victor
+phonetic-ascii/119,Whiskey
+phonetic-ascii/120,Xray
+phonetic-ascii/121,Yankee
+phonetic-ascii/122,Zulu
+phonetic-ascii/42,Asterisco
+phonetic-ascii/35,Sustenido
+digits/0,Zero
+digits/1,Um
+digits/2,Dois
+digits/3,Três
+digits/4,Quatro
+digits/5,Cinco
+digits/6,Seis
+digits/7,Sete
+digits/8,Oito
+digits/9,Nove
+digits/10,Dez
+digits/11,Onze
+digits/12,Doze
+digits/13,Treze
+digits/14,Catorze
+digits/15,Quinze
+digits/16,Dezesseis
+digits/17,Dezessete
+digits/18,Dezoito
+digits/19,Dezenove
+digits/20,Vinte
+digits/30,Trinta
+digits/40,Quarenta
+digits/50,Cinquenta
+digits/60,Sessenta
+digits/70,Setenta
+digits/80,Oitenta
+digits/90,Noventa
+digits/dot,Ponto
+digits/h-1,Primeiro
+digits/h-2,Segundo
+digits/h-3,Terceiro
+digits/h-4,Quarto
+digits/h-5,Quinto
+digits/h-6,Sexto
+digits/h-7,Sétimo
+digits/h-8,Oitavo
+digits/h-9,Nono
+digits/h-10,Décimo
+digits/h-11,Décimo primeiro
+digits/h-12,Décimo segundo
+digits/h-13,décimo terceiro
+digits/h-14,décimo quarto
+digits/h-15,décimo quinto
+digits/h-16,décimo sexto
+digits/h-17,décimo sétimo
+digits/h-18,décimo oitavo
+digits/h-19,décimo nono
+digits/h-20,Vigésimo
+digits/h-30,Trigésimo
+digits/hundred,Cento
+digits/thousand,Mil
+digits/million,Milhão
+digits/period,Período
+digits/point,Ponto
+digits/pound,Sustenido
+digits/star,Asterisco
+currency/and,E
+currency/cent,Centavo
+currency/central,Central
+currency/cents-per-minute,Centavos por minuto
+currency/cents,Centavos
+currency/dollar,Dólar
+currency/dollars,Dólares
+currency/minus,Menos
+currency/negative,Negativo
+time/a-m,A.M.
+time/at,a
+time/day-0,Domingo
+time/day-1,Segunda-feira
+time/day-2,Terça-feira
+time/day-3,Quarta-feira
+time/day-4,Quinta-feira
+time/day-5,Sexta-feira
+time/day-6,Sábado
+time/hour,Hora
+time/hours,Horas
+time/minute,Minuto
+time/minutes,Minutos
+time/second,Segundo
+time/seconds,Segundos
+time/mon-0,Janeiro
+time/mon-1,Fevereiro
+time/mon-2,Março
+time/mon-3,Abril
+time/mon-4,Maio
+time/mon-5,Junho
+time/mon-6,Julho
+time/mon-7,Agosto
+time/mon-8,Setembro
+time/mon-9,Outubro
+time/mon-10,Novembro
+time/mon-11,Dezembro
+time/oclock,Em ponto
+time/oh,oh
+time/p-m,P.M.
+time/today,Hoje
+time/tomorrow,Amanhã
+time/yesterday,Ontem
+voicemail/vm-person,A pessoa na extensão...
+voicemail/vm-marked-urgent,marcada como urgente
+voicemail/vm-marked_new,Marcada como nova
+voicemail/vm-emailed,email enviado
+voicemail/vm-you_have,Você tem...
+voicemail/vm-from,De
+voicemail/vm-enter_id,"Por favor digite o seu número de usuario, e depois..."
+voicemail/vm-enter_pass,"Por favor digite a sua contrasenha, e depois..."
+voicemail/vm-fail_auth,Inicio incorreto da sessão.
+voicemail/vm-hello,Bem-vindo ao seu correio de voz.
+voicemail/vm-goodbye,Até logo.
+voicemail/vm-record_name1,"Grave a sua mensagem depois de ouvir o sinal, diga o seu nome e pressione qualquer tecla ou pare de falar para finalizar a gravação."
+voicemail/vm-choose_greeting_choose,Escolha uma saudação entre as opções 1 e 9
+voicemail/vm-choose_greeting_fail,Valor inválido.
+voicemail/vm-abort,Muitas tentativas fracassadas.
+voicemail/vm-change_password,Para mudar a sua senha...
+voicemail/vm-record_greeting,Para gravar a sua saudação...
+voicemail/vm-record_message,"Após o sinal grave a sua mensagem, digite qualquer tecla ou deixe de falar para finalizar a gravação."
+voicemail/vm-play_greeting,Não está disponível.
+voicemail/vm-urgent-new,nova e urgente
+voicemail/vm-new,nova
+voicemail/vm-urgent-saved,guardada e urgente
+voicemail/vm-saved,guardada
+voicemail/vm-message,mensagem
+voicemail/vm-message_alt,mensagem
+voicemail/vm-messages,mensagens
+voicemail/vm-messages_alt,mensagens
+voicemail/vm-no_more_messages,Não há mais mensagens.
+voicemail/vm-repeat_message,Para repetir esta mensagem...
+voicemail/vm-delete_message,Para apagar esta mensagem...
+voicemail/vm-save_message,Para guardar esta mensagem...
+voicemail/vm-play_next_message,Para ouvir a mensagem seguinte...
+voicemail/vm-play_previous_message,Para ouvir a mensagem anterior...
+voicemail/vm-undelete_message,Para recuperar esta mensagem...
+voicemail/vm-send_message_now,Para enviar esta mensagem agora...
+voicemail/vm-message_envelope,Para ouvir o inicio da mensagem...
+voicemail/vm-has_been_changed_to,...foi alterado para...
+voicemail/vm-press,digite
+voicemail/vm-received,Recebido
+voicemail/vm-followed_by,...seguido de...
+voicemail/vm-that_was_an_invalid_ext,Essa era uma extensão inválida.
+voicemail/vm-undeleted,Recuperada
+voicemail/vm-followed_by_pound,...seguido de sustenido.
+voicemail/vm-next,seguinte
+voicemail/vm-listen_new,Para ouvir as mensagens novas...
+voicemail/vm-listen_saved,Para ouvir as mensagens armazenadas...
+voicemail/vm-advanced,Para opções avançadas...
+voicemail/vm-advanced_alt,para opções avançadas
+voicemail/vm-to_exit,Para sair...
+voicemail/vm-to_exit_alt,para sair
+voicemail/vm-to_record_greeting,Para gravar uma saudação...
+voicemail/vm-choose_greeting,Para escolher a sua saudação...
+voicemail/vm-record_name2,Para gravar o seu nome...
+voicemail/vm-main_menu,Para o menu principal...
+voicemail/vm-listen_to_recording,Para ouvir a gravação...
+voicemail/vm-save_recording,Para guardar a gravação...
+voicemail/vm-rerecord,Para gravar novamente...
+voicemail/vm-mark-urgent,Para marcar esta mensagem como urgente...
+voicemail/vm-mark_message_new,Para marcar esta mensagem como nova...
+voicemail/vm-continue,Para continuar...
+voicemail/vm-listen_to_recording_again,Para ouvir a gravação novamente...
+voicemail/vm-delete_recording,Para borrar a gravação...
+voicemail/vm-forward_to_email,Para enviar a gravação para o seu email...
+voicemail/vm-to_forward,Para encaminhar esta mensagem...
+voicemail/vm-forward_enter_ext,Por favor introduza a extensão para a qual pretende encaminhar esta mensagem.
+voicemail/vm-forward_add_intro,Para adicionar uma introdução a esta mensagem...
+voicemail/vm-greeting,saudação
+voicemail/vm-selected,selecionada
+voicemail/vm-not_available,Não está disponível.
+voicemail/vm-message_number,Mensagem número...
+voicemail/vm-deleted,apagada
+voicemail/vm-too-small,"A sua gravação é muito curta, por favor tente novamente."
+voicemail/vm-in_folder,na caixa de mensagens
+voicemail/vm-return_call,Para devolver a ligação agora...
+voicemail/vm-urgent,urgente
+voicemail/vm-mailbox_full,"Esta caixa de mensagens está lotada, por favor tente mais tarde."
+voicemail/vm-tutorial_yes_no,"Bem-vindo a sua caixa de mensagens. Para escutar o menu e configurar a sua caixa de mensagens, digite um. Para não considera-lo, digite dois."
+voicemail/vm-tutorial_record_name,"Você precisa gravar o seu nome e sobrenome. Esta gravação é usada entre outras, no serviço de diretório."
+voicemail/vm-tutorial_change_pin,O número de identificação pessoal ou PIN serve para impedir o acesso de terceiros as suas mensagens. Você deseja mudar o seu PIN agora?
+voicemail/vm-not_available_no_voicemail,O destino que deseja contatar não está disponível e não tem correio de voz.
+voicemail/vm-pin_below_minimum_length,O PIN digitado está abaixo do comprimento mínimo.
+voicemail/vm-minimum_pin_length_is,O comprimento mínimo do PIN é...
+voicemail/vm-password_has_been_changed,Sua senha foi alterada.
+voicemail/vm-enter_new_pin,"Por favor, digite sua nova senha, seguida da tecla cerquilha."
+voicemail/vm-password_not_valid,A senha digitada não é válida neste sistema.
+voicemail/vm-password_is_not_secure,Uma senha como '1111' ou '1234' não é segura.
+voicemail/vm-choose_password,"Por favor, escolha uma senha sem dígitos repetidos ou consecutivos."
+voicemail/vm-voicemail_password_is_web_password,Lembre-se que sua senha de caixa postal também é sua senha da interface web.
+voicemail/vm-message_from,Mensagem de...
+voicemail/vm-nobody_leaving_message,Ninguém está deixando mensagem nesta caixa postal no momento.
+voicemail/vm-last,último
+voicemail/vm-delete_greeting,Para excluir a saudação
+voicemail/vm-listen_to_greeting,Para ouvir a saudação...
+voicemail/vm-main_menu_alt,Para o menu principal...
+voicemail/vm-message_forwarded,Mensagem encaminhada
+voicemail/vm-no_answer_no_vm,O ramal chamado não atende e não possui caixa postal configurada.
+directory/dir-enter_person,Digite o nome da pessoa que procura.
+directory/dir-last_name,...apelido...
+directory/dir-to_search_by,Para buscar por...
+directory/dir-first_name,...primeiro nome...
+directory/dir-no_matching_results,Nenhum resultado encontrado.
+directory/dir-result_match,...resultados encontradas para a sua busca.
+directory/dir-too_many_result,Muitos resultados. Seja mais específico.
+directory/dir-no_more_results,Não há mais resultados.
+directory/dir-result_number,Resultado número...
+directory/dir-at_extension,...no ramal...
+directory/dir-to_select_entry,Para escolher este resultado..
+directory/dir-for_next,Para o resultado seguinte...
+directory/dir-for_prev,Para o resultado anterior...
+directory/dir-start_new_search,Para uma nova busca...
+directory/dir-specify_mininum,"Por favor, especifique mais caracteres."
+directory/dir-letters_of_person_name,"...letras do nome da pessoa, tente novamente."
+directory/dir-please_try_again,"Por favor, tente novamente."
+directory/dir-press,digite
+directory/dir-for_next,Para o resultado seguinte...
+directory/dir-enter_person_first_or_last,"Por favor, introduza as primeiras letras do nome ou apelido da pessoa."
+directory/dir-enter-person,Por favor marque as primeiras letras do nome da pessoa.
+directory/dir-no_match_entry,"Não foram encontradas resultados, tente novamente."
+directory/dir-no_more_result,Não há mais resultados
+directory/dir-specify_mininum_first,Você precisa dizer um mínimo de...
+directory/dir-to_make_new_search,Para iniciar uma nova busca
+directory/dir-to_many_result,"A sua busca devolveu muitos resultados, por favor tente novamente."
+conference/conf-ack,NULL
+conference/conf-nack,NULL
+conference/conf-muted,Você agora está mudo.
+conference/conf-unmuted,Você não está mais mudo.
+conference/conf-alone,Neste momento você é a única pessoa na conferência.
+conference/conf-perpetual,NULL
+conference/conf-enter,NULL
+conference/conf-exit,NULL
+conference/conf-kicked,Você foi retirado da conferência.
+conference/conf-locked,Esta confêrencia está bloqueada.
+conference/conf-is-locked,A conferência está bloqueada.
+conference/conf-is-unlocked,A conferência está liberada.
+conference/conf-pin,Por favor insira o PIN da conferência.
+conference/conf-bad-pin,"Este PIN não e válido, tente novamente."
+conference/conf-goodbye,Até logo.
+conference/conf-welcome,Bem-vindo a conferência.
+conference/conf-enter_conf_number,"Por favor digite o número da conferência, seguido de sustenido."
+conference/conf-enter_conf_pin,"Introduza o número PIN da conferência, seguido de sustenido."
+conference/conf-has_joined,...entrou na conferência.
+conference/conf-has_left,...abandonou a conferência.
+conference/conf-you_are_already_muted,Você já está em silêncio.
+conference/conf-you_are_now_bidirectionally_muted,Você está agora em silêncio em ambos sentidos.
+conference/conf-number_of_listeners,"Digite o número de ouvintes, seguido da tecla cerquilha."
+conference/conf-listeners_in_conference,...ouvintes nesta conferência.
+conference/conf-listener_in_conference,...ouvinte nesta conferência.
+conference/conf-members_in_conference,...membros nesta conferência.
+conference/conf-conference_is_in_qna_mode,Esta conferência está em modo perguntas e respostas.
+conference/conf-qna_mode,Modo perguntas e respostas
+conference/conf-entry_sound,Som de entrada
+conference/conf-exit_sound,Som de saída
+conference/conf-conference_is_full,"Esta conferência está cheia. Por favor, contate o moderador."
+conference/conf-conference_will_start_shortly,"Sua conferência começará em breve. Por favor, aguarde na linha."
+conference/conf-other_persons_conference,outras pessoas na conferência.
+conference/conf-one_other_person_conference,uma outra pessoa na conferência.
+conference/conf-one_other_member_conference,um outro membro na conferência.
+conference/conf-being_recorded,Esta conferência está sendo gravada.
+conference/conf-no_longer_being_recorded,Esta conferência não está mais sendo gravada.
+ivr/ivr-account_number,Número da conta
+ivr/ivr-connect_to_caller,Contatar com a pessoa que telefona
+ivr/ivr-enter_ext_pound,"Se conhece o ramal da pessoa com quem deseja falar, por favor digite agora."
+ivr/ivr-enter_ext,Por favor digite o ramal e a continuação a tecla sustenido.
+ivr/ivr-for_this_person,Para a pessoa...
+ivr/ivr-hold_connect_call,Por favor aguarde enquanto realizamos a sua chamada.
+ivr/ivr-im_sorry,Desculpe
+ivr/ivr-please,Por favor
+ivr/ivr-please_return_our_call_at,Por favor devolva a nossa ligação à...
+ivr/ivr-regarding_reference_number,De acordo com o número de referência.
+ivr/ivr-sample_submenu,Este é um exemplo de um submenu URA...
+ivr/ivr-say_name,Por favor diga o seu nome depois do sinal.
+ivr/ivr-send_to_voicemail,Enviar esta ligação para a caixa de mensagens de voz.
+ivr/ivr-speak_to_a_customer_service_representative,Para falar com o responsavel do atenção a clientes...
+ivr/ivr-take_a_message,Deixe uma mensagem
+ivr/ivr-that_was_an_invalid_entry,Essa opção não é valida.
+ivr/ivr-this_is_a_call_from,Esta é uma ligação de...
+ivr/ivr-this_ivr_will_let_you_test_features,Este URA lher permite testar algumas das opções...
+ivr/ivr-to_call_the_freeswitch_conference,Para ligar à conferencia FreeSWITCH...
+ivr/ivr-to_do_a_freeswitch_echo_test,Para realizar um teste FreeSWITCH eco...
+ivr/ivr-to_do_a_fwd_echo_test,Para realizar um teste FWD eco...
+ivr/ivr-to_hear_sample_submenu,Para ouvir o exemplo de um submenu URA...
+ivr/ivr-to_hear_screaming_monkeys,Para ouvir gritos de macacos...
+ivr/ivr-to_listen_to_moh,Para ouvir música de espera...
+ivr/ivr-to_repeat_these_options,Para ouvir novamente estas opções...
+ivr/ivr-to_return_to_previous_menu,Para voltar ao menu anterior...
+ivr/ivr-to_speak_with_an_operator,Para falar com um atendente...
+ivr/ivr-welcome_to_freeswitch,"Bem-vindo a FreeSWITCH, o futuro da telefonia."
+ivr/ivr-you_may_exit_by_hanging_up,"Você pode sair a qualquer momento, simplesmente terminando a ligação."
+ivr/ivr-or,ou
+ivr/ivr-not,não
+ivr/ivr-call,ligação
+ivr/ivr-you_may,Você pode
+ivr/ivr-hello,Oi
+ivr/ivr-use_telephone_keypad,Usando as teclas do seu telefone...
+ivr/ivr-spell_name,Por favor soletre o nome da pessoa que você deseja contatar.
+ivr/ivr-last_name_first,Sobrenome primeiro
+ivr/ivr-first_name_first,Primeiro nome primeiro
+ivr/ivr-press_one_q_or_z,Digite 1 para Q ou Z.
+ivr/ivr-sales,Vendas
+ivr/ivr-customer_service,Atenção a clientes
+ivr/ivr-technical_support,Suporte técnico
+ivr/ivr-operator,Atendente
+ivr/ivr-you_have_dialed_an_invalid_extension,Você teclou um ramal inválido.
+ivr/ivr-please_enter_extension_followed_by_pound,"Por favor digite o seu ramal, depois a tecla sustenido."
+ivr/ivr-please_enter_pin_followed_by_pound,"Por favor digite o seu número PIN, depois a tecla sustenido."
+ivr/ivr-pin_or_extension_is-invalid,O seu número PIN ou ramal não é válido.
+ivr/ivr-you_are_about_to_provision_this_phone,Você está a ponto de associar este telefone à sua conta...
+ivr/ivr-please_reenter_your_pin,Por favor digite novamente o seu número PIN para confirmar.
+ivr/ivr-register_for_cluecon,"Para registar em ClueCon, por favor digite..."
+ivr/ivr-to_log_in,Para contatar...
+ivr/ivr-to_log_out,Para desligar...
+ivr/ivr-you_are_now_logged_in,Você agora está conetado.
+ivr/ivr-you_are_now_logged_out,Você agora está desconetado.
+ivr/ivr-please_try_again,Por favor tente novamente.
+ivr/ivr-provision_phone_permanently_to_extension,Você está a ponto de associar permanentemente este telefone ao seu ramal.
+ivr/ivr-extension_to_provision_this_phone,"Por favor digite o número do ramal que você pretende associar a este telefone, logo digite sustenido."
+ivr/ivr-this_phone_will_now_reboot,"Obrigado, este telefone vai ser reiniciado."
+ivr/ivr-recording_saved,Obrigado. A sua gravação foi guardada.
+ivr/ivr-save_review_record,Digite 1 para guardar a sua gravação. Digite 2 para ouvir á sua gravação. Digite 3 para gravar novamente.
+ivr/ivr-unable_save,Neste momento o sistema é incapaz de guardar a sua gravação. Por favor tente novamente mais tarde.
+ivr/ivr-you_are_number,Você é o número
+ivr/ivr-in_line,...em linha
+ivr/ivr-thank_you_for_holding,Obrigado por esperar.
+ivr/ivr-estimated_hold_time,O seu tempo estimado de espera é...
+ivr/ivr-more_than,Mais de...
+ivr/ivr-less_than,Menos de...
+ivr/ivr-begin_recording,Comece a gravar após o tom.
+ivr/ivr-call_forwarding_has_been_cancelled,O encaminhamento da ligação foi cancelado.
+ivr/ivr-call_forwarding_has_been_set,O encaminhamento da ligação foi ativado.
+ivr/ivr-please_enter_the_phone_number,"Por favor, introduza o número de telefone."
+ivr/ivr-please_state_your_name_and_reason_for_calling,"Por favor, diga o seu nome e o motivo da sua ligação."
+ivr/ivr-accept_reject_voicemail,"Para aceitar, digite 1. Para rejeitar, digite 2. Para enviar para o correio de voz, digite 3."
+ivr/ivr-accept_reject,"Para aceitar, pressione 1. Para rejeitar, pressione 2."
+ivr/ivr-to_accept_press_one,"Para aceitar, pressione 1."
+ivr/ivr-incoming_call,Entrada da ligação.
+ivr/ivr-thank_you_for_calling,Obrigado pela sua ligação.
+ivr/ivr-stay_on_line_call_answered_momentarily,Por favor permaneça em linha. A sua ligação será atendida brevemente.
+ivr/ivr-call_being_transferred,A sua ligação está sendo transferida.
+ivr/ivr-enjoy_music_while_transfer,"Por favor, desfrute da música enquanto a sua ligação é transferida."
+ivr/ivr-call_from,Você tem uma ligação de...
+ivr/ivr-no_menu_items,Este menú não tem opções. Por favor entre em contato com o administrador.
+ivr/ivr-for_directory_press,"Para diretório, digite..."
+ivr/ivr-using_telephone_keypad,Usando o teclado do seu telefone...
+ivr/ivr-enter_letters_last_name,Introduza as primeiras letras do último nome da pessoa.
+ivr/ivr-enter_letters_first_name,Introduza as primeiras letras do primeiro nome da pessoa.
+ivr/ivr-enter_letters_first_or_last_name,Introduza as primeiras letras do primeiro ou último nome da pessoa.
+ivr/ivr-if_correct_press,"Se isso é correcto, digite..."
+ivr/ivr-if_not_press,"Se não, digite..."
+ivr/ivr-finished_pound_hash_key,"Quando terminar, digite sustenido."
+ivr/ivr-dnd_activated,O modo Não Incomodar agora está ativado.
+ivr/ivr-dnd_cancelled,O modo Não Incomodar foi desativado.
+ivr/ivr-any_other_digit,Marque qualquer outro dígito...
+ivr/ivr-one_yes_two_no,Digite um para sim. Digite dois para não.
+ivr/ivr-enter_queue_number,"Por favor digite o número da fila, e logo a tecla sustenido."
+ivr/ivr-please_enter_the,Por favor digite o...
+ivr/ivr-number,Número.
+ivr/ivr-followed_by_pound,...e depois sustenido.
+ivr/ivr-account_balance_is,O saldo da conta é...
+ivr/ivr-file,...ficheiro...
+ivr/ivr-files,...ficheiros...
+ivr/ivr-for_a_wakeup_call,Para uma ligação de despertar...
+ivr/ivr-this_is_your_wakeup_call,Esta é a sua ligação de despertar.
+ivr/ivr-request_wakeup_call,Para solicitar uma ligação de despertar...
+ivr/ivr-confirm_wakeup_call,Para confirmar uma ligação de despertar...
+ivr/ivr-cancel_wakeup_call,Para cancelar uma ligação de despertar...
+ivr/ivr-requested_wakeup_call_for,Você solicitou uma ligação de despertar...
+ivr/ivr-not_requested_wakeup_call,Você não solicitou uma ligação de despertar.
+ivr/ivr-wakeup_call_cancelled,A sua ligação de despertar foi cancelada.
+ivr/ivr-for_daily_wakeup_call,Para uma ligação de despertar por dia...
+ivr/ivr-daily_wakeup_call,ligação de despertar diária...
+ivr/ivr-for_daily_wakeup_calls,Para ligações de despertar diárias...
+ivr/ivr-for_one_time_wakeup_call,Para apenas uma ligação de despertar...
+ivr/ivr-one_time_wakeup_call,Apenas uma ligação de despertar...
+ivr/ivr-wakeup_call,...ligação de despertar...
+ivr/ivr-wakey_wakey_sunshine,Acorda! Acorda raio de sol!!
+ivr/ivr-welcome,Bem-vindo.
+ivr/ivr-welcome_to,Bem-vindo a...
+ivr/ivr-good_morning,Bom dia.
+ivr/ivr-good_afternoon,Boa tarde.
+ivr/ivr-good_evening,Boa noite.
+ivr/ivr-thank_you,Obrigado
+ivr/ivr-for,Para...
+ivr/ivr-longer_than_usual_hold_times,Estamos a observar tempos de espera superiores ao normal.
+ivr/ivr-you_are_the,Você é o...
+ivr/ivr-one_moment_please,Um momento por favor.
+ivr/ivr-call_answered_order_received,A sua ligação será atendida pela ordem que foi recebida.
+ivr/ivr-you_entered,Você entrou...
+ivr/ivr-extension_number,Número do ramal...
+ivr/ivr-please_hold_while_party_contacted,Por favor aguarde enquanto contatamos com o destinatário.
+ivr/ivr-please_enjoy_music_while_party_reached,Por favor desfrute da música enquanto contatamos com o destinatário.
+ivr/ivr-generic_greeting,"Obrigado por telefonar. Se conhece a ramal do destinatário, digite-o agora, ou digite nove para ir para o diretório."
+ivr/ivr-if_correct_one_if_not_two,"Se isto é correcto, digite 1. Se não é correcto, digite 2."
+ivr/ivr-repeat_this_information,Para ouvir novamente esta informação..
+ivr/ivr-no_no_no,Não não não!
+ivr/ivr-did_you_mean_to_press_key,Você pretendia marcar esta tecla?
+ivr/ivr-seriously_mean_to_press_key,É sério? Pretendia MESMO marcar esta tecla?
+ivr/ivr-oh_whatever,"Oh, tanto faz."
+ivr/ivr-one_more_mistake,Já chega! Um erro mais e corto a ligação.
+ivr/ivr-congratulations_you_pressed_star,"Felicidades, você pressionou estrela. Isto não significa que você é uma estrela. Apenas significa que pode pressionar teclas e que provavelmente tens dedos."
+ivr/ivr-engineers_busy_assisting_other_sales,Todos os nossos engenheiros estão ocupados demonstrando como é impressionante CudaTel.
+ivr/ivr-message_self_destruct,"Esta mensagem vai se auto-destruir em 5, 4, 3, 2, 1..."
+ivr/ivr-all_your_call_are_belong_to_us,Todas as suas ligações nos pertence.
+ivr/ivr-love_those_touch_tones,Adoro a forma como você pressiona as teclas!
+ivr/ivr-yes_we_have_no_bananas,"Sim, nós não temos bananas."
+ivr/ivr-dude_you_suck,"Homem, você está sendo ridículo!"
+ivr/ivr-on_hold_indefinitely,"A sua ligação é muito importante para nós, mas a sua saúde mental não, por isso estamos felizes em fazê-lo esperar, torturando-o com a irritante música de espera."
+ivr/ivr-has_left_the_building,...deixou o edifício.
+ivr/ivr-phone_is_unassigned,Este telefone não está associado e não pode realizar ligações externas.
+ivr/ivr-phone_not_configured,Este telefone não está configurado corretamente.
+ivr/ivr-phone_is_configured_properly,Parabéns! Este telefone está configurado corretamente e agora pode ser associado a um utilizador.
+ivr/ivr-contact_system_administrator,Por favor contate o administrador do sistema para assistência.
+ivr/ivr-no_calls_waiting_in_queue,Não há mais ligações em espera nesta fila.
+ivr/ivr-you_are_number_one,Você é o número um na fila.
+ivr/ivr-has_called_emergency_services,ligou para os serviços de emergência
+ivr/ivr-there_are,Há...
+ivr/ivr-enter_source_telephone_number,Digite o número de telefone de origem.
+ivr/ivr-enter_destination_telephone_number,Digite o número de telefone de destino.
+ivr/ivr-recording_started,Gravação iniciada.
+ivr/ivr-recording_stopped,Gravação parada.
+ivr/ivr-recording_paused,Gravação pausada.
+ivr/ivr-recording_deleted,Gravação excluída.
+ivr/ivr-no_longer_in_queue,Você não está mais na fila.
+ivr/ivr-withdrawn,retirado
+ivr/ivr-question,pergunta
+ivr/ivr-questions,perguntas
+ivr/ivr-has_been_answered,foi respondida
+ivr/ivr-has_been_removed,foi removida
+ivr/ivr-no_questions_in_queue,Não há perguntas na fila.
+ivr/ivr-is_now_on,está agora ativado
+ivr/ivr-is_now_off,está agora desativado
+ivr/ivr-phone_not_make_external_calls,Este telefone não está autorizado a fazer chamadas externas.
+ivr/ivr-id_number,Número de identificação
+ivr/ivr-skip_instructions,Pressione qualquer tecla para pular instruções.
+ivr/ivr-hangup_to_discard,Desligue para descartar.
+ivr/ivr-or_press,ou pressione
+ivr/ivr-for_english_press,"Para inglês, pressione"
+ivr/ivr-call_cannot_be_completed_as_dialed,Sua chamada não pode ser completada como discada.
+ivr/ivr-please_check_number_try_again,"Por favor, verifique o número e tente novamente."
+ivr/ivr-failure_reason_is,O motivo da falha é
+ivr/ivr-unallocated_number,Número não alocado
+ivr/ivr-no_user_response,Sem resposta do usuário
+ivr/ivr-invalid_number_format,Formato de número inválido
+ivr/ivr-invalid_sound_prompt,Prompt de som inválido
+ivr/ivr-gateway_down,Gateway indisponível
+ivr/ivr-no_route_destination,Sem rota para o destino
+ivr/ivr-user_busy,Usuário ocupado
+ivr/ivr-call_rejected,Chamada rejeitada
+ivr/ivr-normal_unspecified,"Normal, não especificado"
+ivr/ivr-incompatible_destination,Destino incompatível
+ivr/ivr-normal_clearing,Encerramento normal
+ivr/ivr-not_have_permission,Você não tem permissão
+ivr/ivr-youre_doing_it_wrong,Você está fazendo errado!
+ivr/ivr-were_asterisk_free,Somos livres de Asterisk!
+ivr/ivr-douche_telecom,Douche Telecom
+ivr/ivr-to_learn_more_about_freeswitch,Para saber mais sobre FreeSWITCH
+ivr/ivr-there_is,Há
+ivr/ivr-do_not_call_list,Lista de não ligar
+ivr/ivr-call_attempt_aborted,Tentativa de chamada abortada
+ivr/ivr-to_wait_stay_on_the_line,"Para aguardar, permaneça na linha."
+ivr/ivr-if_you_would_like_us_to_call_back,Se desejar que retornemos a ligação
+ivr/ivr-it_appears_that_your_phone_number_is,Parece que seu número de telefone é
+ivr/ivr-would_you_like_to_receive_a_call_at_this_number,Gostaria de receber uma ligação neste número?
+ivr/ivr-please_enter_the_number_where_we_can_reach_you,Digite o número onde podemos encontrá-lo.
+ivr/ivr-we_will_return_your_call_at_this_number,Retornaremos sua ligação neste número.
+ivr/ivr-anonymous_caller,Chamador anônimo
+ivr/ivr-freeguipy,Sirva-se de uma fatia de torta grátis!
+ivr/ivr-learn_more_freeguipydotorg,Saiba mais em F-R-E-E-G-U-I-P-Y ponto O-R-G
+ivr/ivr-terribly_wrong_awkward,"Algo deu terrivelmente, terrivelmente errado... (constrangedor!)"
+ivr/ivr-it_was_that_bug,"Caramba, era mesmo aquele bug!"
+ivr/ivr-concentrate,CONCENTRE-SE! Foque no coelho! FOQUE NO COELHO!
+ivr/ivr-file_a_jira,"Se você não gostar, pode abrir um JIRA!"
+ivr/ivr-founder_of_freesource,"Permita-me apresentar o fundador da FreeSOURCE, Anthony Ministrone."
+ivr/ivr-cold_foolish,"Cara, isso é muito estúpido... MUITO estúpido"
+ivr/ivr-trollover_minutes,Parabéns! Você ganhou 1500 Minutos Trollover este mês!
+ivr/ivr-yuno_silent_drill,Por que não o modo silencioso?!
+ivr/ivr-beacuase,Porque as vozes eram muito boas
+ivr/ivr-day_mode,Modo dia...
+ivr/ivr-night_mode,Modo noite...
+ivr/ivr-lunch_mode,Modo almoço...
+ivr/ivr-custom_mode_number,Número de modo personalizado
+ivr/ivr-not_have_permission_to_edit,Você não tem permissão para editar
+ivr/ivr-this_feature,Este recurso
+ivr/ivr-feature,recurso
+ivr/ivr-automated_attendants,Atendentes automáticos
+ivr/ivr-automated_attendant,Atendente automático
+ivr/ivr-please_enter_extension_number_of,Digite o número do ramal de
+ivr/ivr-that_you_would_like_to_modify,que deseja modificar
+ivr/ivr-invalid_extension_try_again,"Ramal inválido, tente novamente."
+ivr/ivr-modify_main_prompts,Modificar prompts principais
+ivr/ivr-modify_option_prompts,Modificar prompts de opção
+ivr/ivr-hear_usage_stats,Ouvir estatísticas de uso
+ivr/ivr-at_the_tone,Após o tom
+ivr/ivr-record_prompt,Gravar prompt
+ivr/ivr-record_short_greeting,Gravar saudação curta
+ivr/ivr-record_invalid_sound,Gravar som inválido
+ivr/ivr-record_exit_sound,Gravar som de saída
+ivr/ivr-when_finished_press_any_key,Pressione qualquer tecla quando terminar.
+ivr/ivr-press_key_of_prompt_to_modify,Pressione a tecla do prompt que deseja modificar.
+ivr/ivr-key,tecla
+ivr/ivr-does_not_contain_a_recording,não contém uma gravação
+ivr/ivr-already_contains_a_recording,já contém uma gravação
+ivr/ivr-option,opção
+ivr/ivr-has_had,teve
+ivr/ivr-visitors,visitantes
+ivr/ivr-visitor,visitante
+ivr/ivr-reset_usage_totals,Redefinir totais de uso
+ivr/ivr-reset_usage_totals_confirm,Confirmar redefinição de totais de uso
+ivr/ivr-to_confirm,para confirmar
+ivr/ivr-usage_totals_have_been_reset,Totais de uso foram redefinidos.
+ivr/ivr-to_modify,para modificar
+ivr/ivr-to_modify_main_prompt,para modificar prompt principal
+ivr/ivr-short_greeting,Saudação curta
+ivr/ivr-ivalid_sound_prompt,Prompt de som inválido
+ivr/ivr-exit_sound_prompt,Prompt de som de saída
+ivr/ivr-not_accept_anonymous_calls,Não aceita chamadas anônimas
+ivr/ivr-to_accept_press,"Para aceitar, pressione"
+ivr/ivr-to_reject,para rejeitar
+ivr/ivr-hang_up,Desligue
+ivr/ivr-to_reject_hangup,"Para rejeitar, desligue"
+ivr/ivr-access_denied,Acesso negado.
+ivr/ivr-perform_dtmf_test,Realizar teste DTMF
+ivr/ivr-perform_echo_test,Realizar teste de eco
+ivr/ivr-perform_delayed_echo_test,Realizar teste de eco atrasado
+ivr/ivr-hangup_to_end_test,Desligue para encerrar o teste.
+ivr/ivr-read_each_key_press_back,Ler cada tecla pressionada
+ivr/ivr-echo_your_audio_back,Ecoar seu áudio
+ivr/ivr-delayed_echo_your_audio_back,Eco atrasado do seu áudio
+ivr/ivr-send_fax,Enviar fax
+ivr/ivr-enter_number_send_fax,Digite o número para enviar fax
+ivr/ivr-send_fax_now,Enviar fax agora
+ivr/ivr-has_been_added_to_the_blacklist,foi adicionado à lista negra
+ivr/ivr-has_been_removed_from_blacklist,foi removido da lista negra
+ivr/ivr-enter_number_to_add_to_blacklist,Digite o número para adicionar à lista negra
+ivr/ivr-enter_number_to_remove_from_blacklist,Digite o número para remover da lista negra
+ivr/ivr-is_not_on_the_blacklist,não está na lista negra
+ivr/ivr-is_already_on_the_blacklist,já está na lista negra
+ivr/ivr-for_other_options,Para outras opções
+ivr/ivr-your_caller_id_information_is,Sua informação de identificador de chamadas é
+ivr/ivr-call_screening_enabled,Triagem de chamadas ativada
+ivr/ivr-call_screening_disabled,Triagem de chamadas desativada
+ivr/ivr-prompt,prompt
+ivr/ivr-enabled,ativado
+ivr/ivr-disabled,desativado
+ivr/ivr-aint_nobody_got_time_for_that,Ninguém tem tempo para isso!
+ivr/ivr-we_would_support,Nós te ajudaríamos com prazer se você respondesse nossos telefonemas e e-mails.
+ivr/ivr-suck,...ruim.
+ivr/ivr-sucks,...ruim.
+ivr/ivr-to_redial_last_call,Para rediscar última chamada
+ivr/ivr-ensure_service_keeps_working,Garantir que o serviço continue funcionando
+ivr/ivr-please_contact,Entre em contato com
+ivr/ivr-the_billing_department,o departamento de faturamento
+ivr/ivr-by_dialing,discando
+ivr/ivr-credit_card_could_not_be_charged,Cartão de crédito não pôde ser cobrado
+ivr/ivr-units,unidades
+ivr/ivr-per_minute,por minuto
+ivr/ivr-your_caller_id_number_is_blocked,Seu número de identificador está bloqueado
+ivr/ivr-unblock_caller_id,Você deve desbloquear seu identificador de chamadas para autorização sem PIN no cartão telefônico.
+ivr/ivr-request_or_use_pin,"Alternativamente, você pode solicitar ou usar um código PIN em sua conta."
+ivr/ivr-you_have_used,Você usou
+ivr/ivr-out_of,de
+ivr/ivr-next_billing_cycle,próximo ciclo de faturamento
+ivr/ivr-nothing,nada
+ivr/ivr-to_skip,para pular
+ivr/ivr_connect_live_operator,Conectar com operador ao vivo
+ivr/ivr-connect_actual_human_being,Conectar com uma pessoa real
+ivr/ivr-system_down_for_maintenance,Sistema indisponível para manutenção
+ivr/ivr-system_back_up_in_approximately,Sistema volta em aproximadamente
+ivr/ivr-you_lose,"Está tudo aí, preto no branco, claro como cristal! Você roubou as bebidas efervescentes! Você bateu no teto que agora precisa ser lavado e esterilizado, então você não ganha nada! Você perde! Bom dia, senhor!"
+ivr/ivr-cold_pop,"Para pegar um refrigerante gelado, pressione..."
+ivr/ivr-barbecuing,"Se você achou que alguém estava fazendo churrasco, pressione..."
+ivr/ivr-no_shoes,"Se você não pegou sapatos nem nada e correu pela sua vida, pressione..."
+ivr/ivr-smoke_got_you,"Se a fumaça te pegou, pressione..."
+ivr/ivr-got_bronchitis,"Se você tem bronquite, pressione..."
+ivr/ivr-nobody_got_time_for_that,"Se ninguém tem tempo para isso, pressione..."
+ivr/ivr-reminder_for,Lembrete para
+ivr/ivr-appointment_schedule_for,Agendamento de compromisso para
+ivr/ivr-Your_verification_PIN_is,Seu PIN de verificação é
+ivr/ivr-hotseat_intro,Introdução ao hotdesking
+ivr/ivr-modify_main_prompt,Modificar prompt principal
+ivr/ivr-hotseat_pin,PIN do hotdesk
+ivr/ivr-hotseat_options,Opções de hotdesk
+ivr/ivr-maximum_number_of_channels,Você atingiu o número máximo de canais.
+ivr/ivr-to_do_a_echo_test,para fazer um teste de eco
+misc/call_secured,"Esta chamada esta sendo escutada ou pode ser gravada, com o obejtivo de treinamento e de testes de qualidade."
+misc/followed,...depois a tecla sustenido.
+misc/if_you_are_this_person,Se você é esta pessoa...
+misc/if_you_would_like_to,Se você deseja...
+misc/provide_reference_number,Indique o número de referência
+misc/transfer1,"Por favor, digite o ramal que deseja transferir."
+misc/transfer2,Transferir
+misc/we_are_trying_to_reach,Estamos tentando contatar...
+misc/error,"Houve uma falha, por favor entre em contato com o administrador."
+misc/misc-your_call_will_be_terminated_in,A sua ligação vai terminar em...
+misc/misc-your_call_has_been_terminated,A sua ligação foi finalizada.
+misc/misc-to_hear_about_cluecon,Para ouvir sobre ClueCon
+misc/misc-cluecon_is_premier_conference,ClueCon é a conferência principal
+misc/misc-chicago_each_summer,em Chicago cada verão
+misc/misc-wide_range_of_persons,uma ampla gama de pessoas
+misc/misc-support_open_source_by_attending,Apoie código aberto participando
+misc/misc-freeswitch_sponsored_by_ostag,FreeSWITCH é patrocinado por OSTAG
+misc/misc-ostag_learn_more,Saiba mais sobre OSTAG
+misc/misc-learn_more_about_freeswitch_solutions,Saiba mais sobre soluções FreeSWITCH
+misc/misc-information_about_freeswitch,Informações sobre FreeSWITCH
+misc/misc-freeswitch_is_state_of_the_art,FreeSWITCH é estado da arte
+misc/misc-it_is_stable_scalable_extensible,"É estável, escalável e extensível"
+misc/misc-free_to_download,Gratuito para baixar
+misc/misc-freeswitch_dot_org_more,FreeSWITCH.org para mais
+misc/misc-Sangoma,Sangoma
+misc/misc-fss_best_consulting,FSS melhor consultoria
+misc/misc-fss_network_of_experts,FSS rede de especialistas
+misc/misc-fss_contact_us,Entre em contato conosco na FSS
+misc/misc-soccer_mom,É típico de mãe de atleta!
+misc/misc-speak_live_with_community,Fale ao vivo com a comunidade
+misc/misc-join_us_each_wed,Junte-se a nós toda quarta
+misc/misc-more_info_wiki,Mais informações no wiki
+misc/misc-welcome_freeswitch_conf_call,Bem-vindo à chamada de conferência FreeSWITCH
+misc/misc-e164_dot_org,E164.org
+misc/phone_not_auth,Este telefone não esta autorizado para realizar ligações ao exterior.
+misc/sorry,Lamento.
+misc/call_monitoring_blurb,Esta chamada pode ser monitorada ou gravada para fins de qualidade e treinamento.
+misc/es,Espanhol
+misc/invalid_extension,Essa é uma extensão inválida.
+misc/en,Inglês
+base256/Algol,Algol
+base256/Apollo,Apolo
+base256/Athens,Atenas
+base256/Atlantic,Atlântico
+base256/Aztec,Asteca
+base256/Babylon,Babilônia
+base256/Belfast,Belfast
+base256/Bradbury,Bradbury
+base256/Brazilian,Brasileiro
+base256/Burbank,Burbank
+base256/Burlington,Burlington
+base256/Camelot,Camelot
+base256/Capricorn,Capricórnio
+base256/Cherokee,Cherokee
+base256/Chicago,Chicago
+base256/Christmas,Natal
+base256/Dakota,Dakota
+base256/December,Dezembro
+base256/Dupont,Dupont
+base256/Eskimo,Esquimó
+base256/Galveston,Galveston
+base256/Geiger,Geiger
+base256/Hamilton,Hamilton
+base256/Istanbul,Istambul
+base256/Jamaica,Jamaica
+base256/Jupiter,Júpiter
+base256/Medusa,Medusa
+base256/Mohawk,Moicano
+base256/Montana,Montana
+base256/Neptune,Netuno
+base256/Norwegian,Norueguês
+base256/Oakland,Oakland
+base256/October,Outubro
+base256/Ohio,Ohio
+base256/Orlando,Orlando
+base256/Pacific,Pacífico
+base256/Pandora,Pandora
+base256/Pegasus,Pégaso
+base256/Pluto,Plutão
+base256/Saturday,Sábado
+base256/Scotland,Escócia
+base256/Trojan,Troiano
+base256/Virginia,Virgínia
+base256/Vulcan,Vulcano
+base256/Waterloo,Waterloo
+base256/Wichita,Wichita
+base256/Wilmington,Wilmington
+base256/Wyoming,Wyoming
+base256/Yucatan,Yucatã
+base256/Zulu,Zulu
+base256/aardvark,Aardvark
+base256/absurd,Absurdo
+base256/accrue,Acumular
+base256/acme,Ápice
+base256/adrift,À deriva
+base256/adroitness,Habilidade
+base256/adult,Adulto
+base256/adviser,Conselheiro
+base256/afflict,Afligir
+base256/aftermath,Consequência
+base256/aggregate,Agregado
+base256/ahead,Adiante
+base256/aimless,Sem rumo
+base256/alkali,Álcali
+base256/allow,Permitir
+base256/almighty,Todo-poderoso
+base256/alone,Sozinho
+base256/ammo,Munição
+base256/amulet,Amuleto
+base256/amusement,Diversão
+base256/ancient,Antigo
+base256/antenna,Antena
+base256/apple,Maçã
+base256/applicant,Candidato
+base256/armistice,Armistício
+base256/article,Artigo
+base256/artist,Artista
+base256/assume,Assumir
+base256/asteroid,Asteróide
+base256/atlas,Atlas
+base256/atmosphere,Atmosfera
+base256/autopsy,Autópsia
+base256/baboon,Babuíno
+base256/backfield,Retaguarda
+base256/backward,Para trás
+base256/backwater,Água parada
+base256/banjo,Banjo
+base256/barbecue,Churrasco
+base256/beaming,Radiante
+base256/bedlamp,Abajur
+base256/beehive,Colmeia
+base256/beeswax,Cera de abelha
+base256/befriend,Fazer amizade
+base256/being,Ser
+base256/belowground,Subterrâneo
+base256/berserk,Furioso
+base256/bifocals,Bifocais
+base256/billiard,Bilhar
+base256/bison,Bisão
+base256/blackjack,Vinte e um
+base256/blockade,Bloqueio
+base256/blowtorch,Maçarico
+base256/bluebird,Pássaro azul
+base256/bodyguard,Guarda-costas
+base256/bombast,Bombástico
+base256/bookseller,Livreiro
+base256/bookshelf,Estante
+base256/borderline,Limite
+base256/bottomless,Sem fundo
+base256/brackish,Salobro
+base256/bravado,Bravata
+base256/breadline,Fila do pão
+base256/breakaway,Fuga
+base256/breakup,Separação
+base256/brickyard,Olaria
+base256/briefcase,Pasta
+base256/businessman,Empresário
+base256/butterfat,Gordura de manteiga
+base256/button,Botão
+base256/buzzard,Abutre
+base256/candidate,Candidato
+base256/cannonball,Bala de canhão
+base256/caravan,Caravana
+base256/caretaker,Zelador
+base256/celebrate,Celebrar
+base256/cellulose,Celulose
+base256/cement,Cimento
+base256/certify,Certificar
+base256/chairlift,Teleférico
+base256/chambermaid,Camareira
+base256/chatter,Tagarelice
+base256/checkup,Exame
+base256/chisel,Cinzel
+base256/choking,Engasgando
+base256/chopper,Helicóptero
+base256/clamshell,Concha
+base256/classic,Clássico
+base256/classroom,Sala de aula
+base256/cleanup,Limpeza
+base256/clergyman,Clérigo
+base256/clockwork,Mecanismo
+base256/cobra,Cobra
+base256/coherence,Coerência
+base256/combustion,Combustão
+base256/commando,Comandos
+base256/commence,Começar
+base256/company,Empresa
+base256/component,Componente
+base256/concert,Concerto
+base256/concurrent,Simultâneo
+base256/confidence,Confiança
+base256/conference,Conferência
+base256/conformist,Conformista
+base256/congregate,Congregar
+base256/consensus,Consenso
+base256/consulting,Consultoria
+base256/corporate,Corporativo
+base256/corrosion,Corrosão
+base256/councilman,Vereador
+base256/cowbell,Sino de vaca
+base256/crackdown,Repressão
+base256/cranky,Mal-humorado
+base256/crossover,Crossover
+base256/crowfoot,Pé de corvo
+base256/crucial,Crucial
+base256/crucifix,Crucifixo
+base256/crumpled,Amassado
+base256/crusade,Cruzada
+base256/cubic,Cúbico
+base256/cumbersome,Incômodo
+base256/customer,Cliente
+base256/dashboard,Painel
+base256/deadbolt,Trinco
+base256/decadence,Decadência
+base256/decimal,Decimal
+base256/deckhand,Marinheiro
+base256/designing,Projetando
+base256/detector,Detector
+base256/detergent,Detergente
+base256/determine,Determinar
+base256/dictator,Ditador
+base256/dinosaur,Dinossauro
+base256/direction,Direção
+base256/disable,Desabilitar
+base256/disbelief,Descrença
+base256/disruptive,Perturbador
+base256/distortion,Distorção
+base256/document,Documento
+base256/dogsled,Trenó de cães
+base256/dragnet,Rede de arrasto
+base256/drainage,Drenagem
+base256/dreadful,Terrível
+base256/drifter,Andarilho
+base256/dropper,Conta-gotas
+base256/drumbeat,Batida de tambor
+base256/drunken,Embriagado
+base256/dwelling,Moradia
+base256/eating,Comendo
+base256/edict,Edito
+base256/egghead,Intelectual
+base256/eightball,Bola oito
+base256/embezzle,Desviar
+base256/enchanting,Encantador
+base256/endorse,Endossar
+base256/endow,Dotar
+base256/enlist,Alistar
+base256/enrollment,Matrícula
+base256/enterprise,Empresa
+base256/equation,Equação
+base256/equipment,Equipamento
+base256/erase,Apagar
+base256/escapade,Escapada
+base256/escape,Fuga
+base256/everyday,Cotidiano
+base256/examine,Examinar
+base256/exceed,Exceder
+base256/existence,Existência
+base256/exodus,Êxodo
+base256/eyeglass,Óculos
+base256/eyetooth,Canino
+base256/facial,Facial
+base256/fallout,Consequências
+base256/fascinate,Fascinar
+base256/filament,Filamento
+base256/finicky,Exigente
+base256/flagpole,Mastro
+base256/flatfoot,Policial
+base256/flytrap,Armadilha
+base256/forever,Para sempre
+base256/fortitude,Fortaleza
+base256/fracture,Fratura
+base256/framework,Estrutura
+base256/freedom,Liberdade
+base256/frequency,Frequência
+base256/frighten,Assustar
+base256/gadgetry,Gadgets
+base256/gazelle,Gazela
+base256/getaway,Fuga
+base256/glitter,Brilho
+base256/glossary,Glossário
+base256/glucose,Glicose
+base256/goggles,Óculos de proteção
+base256/goldfish,Peixe dourado
+base256/gossamer,Teia de aranha
+base256/graduate,Formado
+base256/gravity,Gravidade
+base256/gremlin,Gremlin
+base256/guidance,Orientação
+base256/guitarist,Guitarrista
+base256/hamburger,Hambúrguer
+base256/hamlet,Aldeia
+base256/handiwork,Trabalho manual
+base256/hazardous,Perigoso
+base256/headwaters,Nascente
+base256/hemisphere,Hemisfério
+base256/hesitate,Hesitar
+base256/hideaway,Esconderijo
+base256/highchair,Cadeirão
+base256/hockey,Hóquei
+base256/holiness,Santidade
+base256/hurricane,Furacão
+base256/hydraulic,Hidráulico
+base256/impartial,Imparcial
+base256/impetus,Ímpeto
+base256/inception,Início
+base256/indigo,Índigo
+base256/indoors,Interior
+base256/indulge,Satisfazer
+base256/inertia,Inércia
+base256/infancy,Infância
+base256/inferno,Inferno
+base256/informant,Informante
+base256/insincere,Insincero
+base256/insurgent,Insurgente
+base256/integrate,Integrar
+base256/intention,Intenção
+base256/inventive,Inventivo
+base256/inverse,Inverso
+base256/involve,Envolver
+base256/is,É
+base256/island,Ilha
+base256/jawbone,Mandíbula
+base256/keyboard,Teclado
+base256/kickoff,Pontapé inicial
+base256/kiwi,Kiwi
+base256/klaxon,Buzina
+base256/leprosy,Lepra
+base256/letterhead,Papel timbrado
+base256/liberty,Liberdade
+base256/longer,Mais longo
+base256/locale,Local
+base256/lockup,Prisão
+base256/maritime,Marítimo
+base256/matchmaker,Casamenteiro
+base256/maverick,Inconformista
+base256/megaton,Megaton
+base256/merit,Mérito
+base256/microscope,Microscópio
+base256/microwave,Micro-ondas
+base256/midsummer,Meio do verão
+base256/millionaire,Milionário
+base256/minnow,Peixe pequeno
+base256/miracle,Milagre
+base256/miser,Avarento
+base256/misnomer,Nome errado
+base256/molasses,Melaço
+base256/molecule,Molécula
+base256/monument,Monumento
+base256/mosquito,Mosquito
+base256/mural,Mural
+base256/music,Música
+base256/narrative,Narrativa
+base256/nebula,Nebulosa
+base256/necklace,Colar
+base256/newborn,Recém-nascido
+base256/newsletter,Boletim
+base256/nightbird,Ave noturna
+base256/no,Não
+base256/obtuse,Obtuso
+base256/offload,Descarregar
+base256/onlooker,Espectador
+base256/optic,Óptico
+base256/opulent,Opulento
+base256/orca,Orca
+base256/outfielder,Jogador
+base256/pandemic,Pandemia
+base256/paperweight,Peso de papel
+base256/paragon,Modelo
+base256/paragraph,Parágrafo
+base256/paramount,Primordial
+base256/passenger,Passageiro
+base256/payday,Dia de pagamento
+base256/peachy,Ótimo
+base256/pedigree,Pedigree
+base256/penetrate,Penetrar
+base256/perceptive,Perspicaz
+base256/performance,Desempenho
+base256/pharmacy,Farmácia
+base256/pheasant,Faisão
+base256/phonetic,Fonético
+base256/photograph,Fotografia
+base256/physique,Físico
+base256/pioneer,Pioneiro
+base256/playhouse,Teatro
+base256/pocketful,Bolso cheio
+base256/politeness,Educação
+base256/positive,Positivo
+base256/potato,Batata
+base256/preclude,Excluir
+base256/prefer,Preferir
+base256/preshrunk,Pré-encolhido
+base256/printer,Impressora
+base256/processor,Processador
+base256/provincial,Provincial
+base256/prowler,Espreita
+base256/proximate,Próximo
+base256/puberty,Puberdade
+base256/publisher,Editor
+base256/pupil,Aluno
+base256/puppy,Filhote
+base256/pyramid,Pirâmide
+base256/python,Python
+base256/quadrant,Quadrante
+base256/quantity,Quantidade
+base256/quiver,Aljava
+base256/quota,Cota
+base256/racketeer,Gangster
+base256/ragtime,Ragtime
+base256/ratchet,Catraca
+base256/rebellion,Rebelião
+base256/rebirth,Renascimento
+base256/recipe,Receita
+base256/recover,Recuperar
+base256/reform,Reforma
+base256/regain,Recuperar
+base256/reindeer,Rena
+base256/rematch,Revanche
+base256/recorded,Gravado
+base256/repay,Repagar
+base256/repellent,Repelente
+base256/replica,Réplica
+base256/reproduce,Reproduzir
+base256/resistor,Resistor
+base256/responsive,Responsivo
+base256/retouch,Retocar
+base256/retraction,Retratação
+base256/retrieval,Recuperação
+base256/retrospect,Retrospecto
+base256/revenge,Vingança
+base256/revenue,Receita
+base256/revival,Renascimento
+base256/revolver,Revólver
+base256/reward,Recompensa
+base256/rhythm,Ritmo
+base256/ribcage,Caixa torácica
+base256/ringbolt,Argola
+base256/robust,Robusto
+base256/rocker,Balanço
+base256/ruffled,Despenteado
+base256/sailboat,Veleiro
+base256/sandalwood,Sândalo
+base256/sardonic,Sardônico
+base256/savagery,Selvageria
+base256/sawdust,Serragem
+base256/scallion,Cebolinha
+base256/scavenger,Catador
+base256/scenic,Pitoresco
+base256/scorecard,Placar
+base256/seabird,Ave marinha
+base256/select,Selecionar
+base256/sensation,Sensação
+base256/sentence,Frase
+base256/shadow,Sombra
+base256/shamrock,Trevo
+base256/showgirl,Dançarina
+base256/skullcap,Solidéu
+base256/skydive,Paraquedismo
+base256/slingshot,Estilingue
+base256/slowdown,Desaceleração
+base256/snapline,Linha de giz
+base256/snapshot,Instantâneo
+base256/snowcap,Cume nevado
+base256/snowslide,Avalanche
+base256/sociable,Sociável
+base256/solo,Solo
+base256/southward,Para o sul
+base256/souvenir,Lembrança
+base256/soybean,Soja
+base256/spaniel,Spaniel
+base256/spearhead,Vanguarda
+base256/specialist,Especialista
+base256/speculate,Especular
+base256/spellbind,Enfeitiçar
+base256/spheroid,Esferoide
+base256/spigot,Torneira
+base256/spindle,Fuso
+base256/spyglass,Luneta
+base256/stagehand,Maquinista
+base256/stagnate,Estagnar
+base256/stairway,Escada
+base256/standard,Padrão
+base256/stapler,Grampeador
+base256/steamship,Navio a vapor
+base256/sterling,Excelente
+base256/stethoscope,Estetoscópio
+base256/stockman,Pecuarista
+base256/stopwatch,Cronômetro
+base256/stormy,Tempestuoso
+base256/stupendous,Estupendo
+base256/sugar,Açúcar
+base256/supportive,Apoiador
+base256/surmount,Superar
+base256/surrender,Rendição
+base256/suspense,Suspense
+base256/suspicious,Suspeito
+base256/sweatband,Faixa de suor
+base256/swelter,Sufocar
+base256/sympathy,Simpatia
+base256/tactics,Táticas
+base256/talon,Garra
+base256/tambourine,Pandeiro
+base256/tapeworm,Tênia
+base256/telephone,Telefone
+base256/tempest,Tempestade
+base256/therapist,Terapeuta
+base256/this,Isto
+base256/tiger,Tigre
+base256/tissue,Tecido
+base256/tobacco,Tabaco
+base256/tolerance,Tolerância
+base256/tomorrow,Amanhã
+base256/tonic,Tônico
+base256/topmost,Mais alto
+base256/torpedo,Torpedo
+base256/tracker,Rastreador
+base256/tradition,Tradição
+base256/transit,Trânsito
+base256/trauma,Trauma
+base256/travesty,Paródia
+base256/treadmill,Esteira
+base256/trombonist,Trombonista
+base256/trouble,Problema
+base256/truncated,Truncado
+base256/tumor,Tumor
+base256/tunnel,Túnel
+base256/tycoon,Magnata
+base256/typewriter,Máquina de escrever
+base256/ultimate,Último
+base256/uncut,Não cortado
+base256/undaunted,Destemido
+base256/underfoot,Sob os pés
+base256/unearth,Desenterrar
+base256/unicorn,Unicórnio
+base256/unify,Unificar
+base256/universe,Universo
+base256/unravel,Desvendar
+base256/unwind,Relaxar
+base256/upcoming,Próximo
+base256/uproot,Desarraigar
+base256/upset,Chateado
+base256/upshot,Resultado
+base256/vacancy,Vaga
+base256/vagabond,Vagabundo
+base256/vapor,Vapor
+base256/vertigo,Vertigem
+base256/village,Vila
+base256/virus,Vírus
+base256/visitor,Visitante
+base256/vocalist,Vocalista
+base256/voyager,Viajante
+base256/waffle,Waffle
+base256/wallet,Carteira
+base256/warranty,Garantia
+base256/watchword,Senha
+base256/wayside,Beira da estrada
+base256/whimsical,Caprichoso
+base256/willow,Salgueiro
+base256/woodlark,Cotovia
+base256/yesteryear,Antigamente
+features/agent_logged_in,Agente conectado.
+features/agent_logged_out,Agente desconectado.
+features/agent_pause,Agente em pausa.
+features/agent_toggle_error,Erro ao alterar status do agente.
+features/agent_unpause,Agente disponível.
+features/anonymous_call_disabled,Chamada anônima desativada.
+features/anonymous_call_enabled,Chamada anônima ativada.
+features/authorization_code_invalid,Código de autorização inválido.
+features/authorization_code_saved,Código de autorização salvo.
+features/blacklist_added_success,Número adicionado à lista negra.
+features/blacklist_enter_number,Digite o número para bloquear.
+features/blacklist_enter_number_remove,Digite o número para desbloquear.
+features/blacklist_error_duplicate,Este número já está na lista negra.
+features/blacklist_error_generic,Erro na operação da lista negra.
+features/blacklist_error_invalid,Número inválido para lista negra.
+features/blacklist_last_success,Último chamador adicionado à lista negra.
+features/blacklist_removed_success,Número removido da lista negra.
+features/call_flow_disabled,Fluxo de chamadas desativado.
+features/call_flow_enabled,Fluxo de chamadas ativado.
+features/call_parked,Chamada estacionada.
+features/callback_invalid,Solicitação de retorno inválida.
+features/callback_scheduled,Retorno agendado.
+features/callback_unavailable,Serviço de retorno não disponível.
+features/cache_list_failed,Falha ao listar cache.
+features/cache_purge_failed,Falha ao limpar cache.
+features/cache_purged_successfully,Cache limpo com sucesso.
+features/confirm_new_feature_password,Confirme a nova senha de recurso.
+features/conference_ended,Conferência encerrada.
+features/conference_invalid,Conferência inválida.
+features/conference_max_participants,Número máximo de participantes atingido.
+features/conference_moderator_entry,Você agora é moderador.
+features/conference_recording,Esta conferência está sendo gravada.
+features/conference_wait_moderator,"Aguarde, o moderador ainda não chegou."
+features/current-time-is,A hora atual é...
+features/customer_code_saved,Código do cliente salvo.
+features/demo-echotest,Teste de eco de demonstração.
+features/dnd_disabled,Não perturbe desativado.
+features/dnd_enabled,Não perturbe ativado.
+features/enter_authorization_code,Digite o código de autorização.
+features/enter_current_feature_password,Digite a senha de recurso atual.
+features/enter_customer_code,Digite o código do cliente.
+features/enter_destination_number,Digite o número de destino.
+features/enter_extension_to_purge,Digite o ramal para limpar.
+features/enter_feature_password,Digite a senha de recurso.
+features/enter_new_feature_password,Digite a nova senha de recurso.
+features/enter_password,Digite a senha.
+features/enter_pin,Digite o código PIN.
+features/enter_queue,Digite o número da fila.
+features/fallback_routing,Roteamento de contingência ativado.
+features/feature_activated,Recurso ativado.
+features/feature_not_allowed,Este recurso não é permitido.
+features/feature_not_available,Este serviço não está disponível no momento.
+features/feature_password_mismatch,As senhas não coincidem.
+features/feature_password_updated_successfully,Senha de recurso atualizada com sucesso.
+features/features_password_ok,Senha de recurso correta.
+features/features_password_prompt,Digite sua senha de recurso.
+features/features_password_wrong,Senha de recurso incorreta.
+features/holiday_closure,Estamos fechados no momento por feriado. Ligue de volta durante o horário comercial.
+features/hotdesk_login,"Digite seu ramal para iniciar o hotdesking, seguido da tecla jogo da velha."
+features/hotdesk_login_required,"Por favor, faça login antes de fazer chamadas."
+features/hotdesk_logout,Você foi desconectado deste dispositivo.
+features/hotdesk_success,Você está agora conectado neste dispositivo.
+features/im-sorry,"Desculpe, esse não era um número válido."
+features/incorrect_current_feature_password,A senha de recurso que você digitou está incorreta.
+features/invalid_entry,Entrada inválida.
+features/invalid_feature_code,Opção inválida. Tente novamente.
+features/invalid_feature_password,Você não digitou uma senha de recurso válida.
+features/invalid_password,Senha inválida.
+features/invalid_pin,O PIN que você digitou não é válido.
+features/invalid_park_slot,O slot de estacionamento solicitado não é válido.
+features/ivr-test-goodbye,Obrigado por ligar para o IVR de Teste Ring2All. Tchau.
+features/ivr-test-instructions,Para ouvir a hora atual pressione 1. Para um teste de eco pressione 2. Para música de espera pressione 3.
+features/ivr-test-invalid,"A seleção digitada não é válida. Por favor, tente novamente."
+features/ivr-test-welcome,Bem-vindo ao IVR de Teste Ring2All.
+features/night_mode_disabled,O modo noturno global está agora desativado.
+features/night_mode_enabled,O modo noturno global está agora ativado.
+features/no_available_parking,Não há slots de estacionamento disponíveis.
+features/paging_group_invalid,O grupo de paginação que você discou não está disponível.
+features/paging_not_allowed,Você não tem permissão para acessar este grupo de paginação.
+features/phone_locked,Seu telefone está agora bloqueado.
+features/phone_unlocked,Seu telefone está agora desbloqueado.
+features/pickup_group_empty,Não há chamadas tocando para atender.
+features/pickup_not_allowed,Você não tem permissão para atender chamadas deste grupo.
+features/promo_april2025,Aproveite 20% de desconto em todos os planos este mês. Pergunte ao nosso agente para detalhes.
+features/queue_added,Adicionado à fila.
+features/queue_enter_queue,Digite o número da fila.
+features/queue_error,Erro na fila.
+features/queue_final_exit,Obrigado por aguardar. Até logo.
+features/queue_invalid,Fila inválida.
+features/queue_join_welcome,Bem-vindo à fila.
+features/queue_no_agents_available,Nenhum agente disponível no momento.
+features/queue_periodic_announcement,Obrigado por aguardar. Um agente atenderá você em breve.
+features/queue_position_number,Você é o número...
+features/queue_position_suffix,...na fila.
+features/queue_removed,Removido da fila.
+features/queue_wait_prefix,O tempo estimado de espera é...
+features/queue_wait_suffix,...minutos.
+features/reminder_enter_time,Digite o horário do lembrete.
+features/reminder_error,Ocorreu um erro ao configurar o lembrete.
+features/reminder_record_message,Grave sua mensagem de lembrete após o tom.
+features/reminder_saved,Seu lembrete foi salvo.
+features/remote_wakeup_enter_ext,Digite o ramal para a chamada despertador.
+features/remote_wakeup_enter_time,Digite o horário do despertador.
+features/remote_wakeup_error,Ocorreu um erro ao configurar a chamada despertador.
+features/remote_wakeup_scheduled,Sua chamada despertador foi agendada.
+features/select_cache_type,"Pressione 1 para limpar o cache de extensões, 2 para o plano de discagem ou 3 para perfis SIP."
+features/sim-incoming-call-did,"Por favor, digite o número de destino."
+features/sim-incoming-cid,Digite um número de identificação de chamadas se desejar alterá-lo.
+features/speak_last_call_prompt,"Para ligar de volta para este número pressione 1, caso contrário desligue."
+features/speak_last_not_found,Nenhum chamador recente foi encontrado.
+features/speed_dial_invalid,O código de discagem rápida é inválido.
+features/speed_dial_not_found,Nenhum número encontrado para este código de discagem rápida.
+features/speed_dial_set,Sua entrada de discagem rápida foi salva.
+features/status_dnd_enabled,O ramal que você está ligando não está disponível no momento.
+features/voicemail_goodbye,Até logo.
+features/voicemail_welcome,Bem-vindo à sua caixa de mensagens.
+features/wakeup_cancel_success,Despertar cancelado com sucesso.
+features/wakeup_enter_time,Digite o horário do despertar.
+features/wakeup_error_generic,Erro no despertar.
+features/wakeup_error_invalid,Horário de despertar inválido.
+features/wakeup_scheduled,Despertar agendado.
+features/wrong_password,Senha incorreta.
+features/your_extension_is,Seu ramal é...
+features/queue_callback_option,"Para receber uma ligação de retorno, pressione 1."
+features/queue_callback_confirm,Você solicitou uma ligação de retorno.
+features/queue_callback_enter_number,"Por favor, digite seu número para retorno."
+features/queue_callback_invalid_number,"O número digitado é inválido. Por favor, tente novamente."
+features/queue_callback_thanks,Obrigado. Ligaremos para você o mais breve possível. Até logo.
+features/queue_callback_announcement,"Esta é sua ligação de retorno solicitada. Por favor, aguarde enquanto conectamos você a um agente."
+features/callback_rate_limit,"Você atingiu o limite máximo de solicitações de retorno. Por favor, tente mais tarde."
+digits/100,Cem
+digits/200,Duzentos
+digits/300,Trezentos
+digits/500,Quinhentos
+digits/h-40,Quadragésimo
+digits/h-50,Quinquagésimo
+digits/h-60,Sexagésimo
+digits/h-70,Septuagésimo
+digits/h-80,Octogésimo
+digits/h-90,Nonagésimo
+digits/hundreds,Centos
+digits/millions,Milhões
+time/ats,às
+voicemail/vm-mark_urgent,Para marcar esta mensagem como urgente...
+ivr/ivr-begin_recording.wav ,Iniciar a gravação.
+ivr/ivr-youre_number_one,"Você é o cliente número um. Claro, todos os nossos clientes são número um na nossa lista, portanto você pode ter que esperar um pouco."

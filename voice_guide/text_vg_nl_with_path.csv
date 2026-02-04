@@ -1,0 +1,1369 @@
+Path/Name,Phrase
+ascii/32,Spatie
+ascii/35,Hekje
+ascii/42,Ster
+ascii/46,Punt
+ascii/45,Koppelteken
+ascii/33,Uitroepteken
+ascii/64,Apenstaartje
+ascii/36,Dollarteken
+ascii/37,Procent
+ascii/38,En-teken
+ascii/34,Dubbele aanhalingstekens
+ascii/39,Apostrof
+ascii/47,Schuine streep
+ascii/95,Onderstrepingsteken
+ascii/92,Backslash
+ascii/126,Tilde
+ascii/61,Is-gelijk-teken
+ascii/58,Dubbele punt
+ascii/59,Puntkomma
+ascii/94,Dakje
+ascii/124,Verticale streep
+ascii/43,Plus
+ascii/40,Haakje openen
+ascii/41,Haakje sluiten
+ascii/123,Accolade openen
+ascii/125,Accolade sluiten
+ascii/91,Vierkant haakje openen
+ascii/93,Vierkant haakje sluiten
+ascii/44,Komma
+ascii/96,Accent grave
+ascii/60,Kleiner-dan-teken
+ascii/62,Groter-dan-teken
+ascii/97,A
+ascii/98,B
+ascii/99,C
+ascii/100,D
+ascii/101,E
+ascii/102,F
+ascii/103,G
+ascii/104,H
+ascii/105,I
+ascii/106,J
+ascii/107,K
+ascii/108,L
+ascii/109,M
+ascii/110,N
+ascii/111,O
+ascii/112,P
+ascii/113,Q
+ascii/114,R
+ascii/115,S
+ascii/116,T
+ascii/117,U
+ascii/118,V
+ascii/119,W
+ascii/120,X
+ascii/121,Y
+ascii/122,Z
+phonetic-ascii/32,Spatie
+phonetic-ascii/46,Punt
+phonetic-ascii/97,Alpha
+phonetic-ascii/98,Bravo
+phonetic-ascii/99,Charlie
+phonetic-ascii/100,Delta
+phonetic-ascii/101,Echo
+phonetic-ascii/102,Foxtrot
+phonetic-ascii/103,Golf
+phonetic-ascii/104,Hotel
+phonetic-ascii/105,India
+phonetic-ascii/106,Juliet
+phonetic-ascii/107,Kilo
+phonetic-ascii/108,Lima
+phonetic-ascii/109,Mike
+phonetic-ascii/110,November
+phonetic-ascii/111,Oscar
+phonetic-ascii/112,Papa
+phonetic-ascii/113,Quebec
+phonetic-ascii/114,Romeo
+phonetic-ascii/115,Sierra
+phonetic-ascii/116,Tango
+phonetic-ascii/117,Unifor
+phonetic-ascii/118,Victor
+phonetic-ascii/119,Whiskey
+phonetic-ascii/120,Xray
+phonetic-ascii/121,Yankee
+phonetic-ascii/122,Zulu
+phonetic-ascii/42,Ster
+phonetic-ascii/35,Hekje
+digits/0,Nul
+digits/1,Een
+digits/2,Twee
+digits/3,Drie
+digits/4,Vier
+digits/5,Vijf
+digits/6,Zes
+digits/7,Zeven
+digits/8,Acht
+digits/9,Negen
+digits/10,Tien
+digits/11,Elf
+digits/12,Twaalf
+digits/13,Dertien
+digits/14,Veertien
+digits/15,Vijftien
+digits/16,Zestien
+digits/17,Zeventien
+digits/18,Achttien
+digits/19,Negentien
+digits/20,Twintig
+digits/30,Dertig
+digits/40,Veertig
+digits/50,Vijftig
+digits/60,Zestig
+digits/70,Zeventig
+digits/80,Tachtig
+digits/90,Negentig
+digits/dot,Punt
+digits/h-1,Eerste
+digits/h-2,Tweede
+digits/h-3,Derde
+digits/h-4,Vierde
+digits/h-5,Vijfde
+digits/h-6,Zesde
+digits/h-7,Zevende
+digits/h-8,Achtste
+digits/h-9,Negende
+digits/h-10,Tiende
+digits/h-11,Elfde
+digits/h-12,Twaalfde
+digits/h-13,Dertiende
+digits/h-14,Veertiende
+digits/h-15,Vijftiende
+digits/h-16,Zestiende
+digits/h-17,Zeventiende
+digits/h-18,Achtiende
+digits/h-19,Negentiende
+digits/h-20,Twintigste
+digits/h-30,Dertigste
+digits/hundred,Honderd
+digits/thousand,Duizend
+digits/million,Miljoen
+digits/period,Periode
+digits/point,Punt
+digits/pound,Hekje
+digits/star,Ster
+currency/and,En
+currency/cent,Cent
+currency/central,Centraal
+currency/cents-per-minute,Cent per minuut
+currency/cents,Centen
+currency/dollar,Euro
+currency/dollars,Euros
+currency/minus,Minus
+currency/negative,Negatief
+time/a-m,A.M.
+time/at,Op
+time/day-0,Zondag
+time/day-1,Maandag
+time/day-2,Dinsdag
+time/day-3,Woensdag
+time/day-4,Donderdag
+time/day-5,Vrijdag
+time/day-6,Zaterdag
+time/hour,Uur
+time/hours,Uren
+time/minute,Minuut
+time/minutes,Minuten
+time/second,Seconde
+time/seconds,Seconden
+time/mon-0,Januari
+time/mon-1,Febuari
+time/mon-2,Maart
+time/mon-3,April
+time/mon-4,Mei
+time/mon-5,Juni
+time/mon-6,July
+time/mon-7,Augustus
+time/mon-8,September
+time/mon-9,Oktober
+time/mon-10,November
+time/mon-11,December
+time/oclock,Uur
+time/oh,oh
+time/p-m,P.M.
+time/today,Vandaag
+time/tomorrow,Morgen
+time/yesterday,Gisteren
+voicemail/vm-person,De persoon op toestel
+voicemail/vm-marked-urgent,als dringend gemarkeerd
+voicemail/vm-marked_new,Gemarkeerd als nieuw.
+voicemail/vm-emailed,geë-maild
+voicemail/vm-you_have,u heeft
+voicemail/vm-from,van
+voicemail/vm-enter_id,toets uw i d in en sluit af met een
+voicemail/vm-enter_pass,toets uw wachtwoord in en sluit af met een
+voicemail/vm-fail_auth,login incorrect
+voicemail/vm-hello,welkom in uw voicemail
+voicemail/vm-goodbye,tot ziens
+voicemail/vm-record_name1,spreek uw naam in na de toon en druk op een toets of stop met praten om de opname te beëindigen.
+voicemail/vm-choose_greeting_choose,Kies een begroeting tussen 1 en 9.
+voicemail/vm-choose_greeting_fail,ongeldige waarde
+voicemail/vm-abort,te veel incorrecte pogingen
+voicemail/vm-change_password,om uw wachtwoord te wijzigen
+voicemail/vm-record_greeting,om een welkomstboodschap op te nemen
+voicemail/vm-record_message,spreek uw bericht in na de toon en druk op een toets of stop met praten om de opname te beëindigen
+voicemail/vm-play_greeting,is niet bereikbaar
+voicemail/vm-urgent-new,dringend nieuw
+voicemail/vm-new,nieuw
+voicemail/vm-urgent-saved,dringend opgeslagen
+voicemail/vm-saved,opgeslagen
+voicemail/vm-message,bericht
+voicemail/vm-message_alt,bericht
+voicemail/vm-messages,berichten
+voicemail/vm-messages_alt,berichten
+voicemail/vm-no_more_messages,Geen berichten meer.
+voicemail/vm-repeat_message,Om dit bericht te herhalen...
+voicemail/vm-delete_message,Om dit bericht te verwijderen...
+voicemail/vm-save_message,Om dit bericht op te slaan...
+voicemail/vm-play_next_message,Om het volgende bericht af te spelen...
+voicemail/vm-play_previous_message,Om het vorige bericht af te spelen...
+voicemail/vm-undelete_message,Om dit bericht te herstellen...
+voicemail/vm-send_message_now,Om dit bericht nu te verzenden...
+voicemail/vm-message_envelope,Om de details van dit bericht te horen...
+voicemail/vm-has_been_changed_to,...is gewijzigd naar...
+voicemail/vm-press,toets
+voicemail/vm-received,ontvangen
+voicemail/vm-followed_by,...gevolgd door...
+voicemail/vm-that_was_an_invalid_ext,Dat was een ongeldige extensie.
+voicemail/vm-undeleted,Hersteld.
+voicemail/vm-followed_by_pound,...gevolgd door het hekje.
+voicemail/vm-next,volgende
+voicemail/vm-listen_new,om nieuwe berichten af te spelen
+voicemail/vm-listen_saved,om opgeslagen berichten af te spelen
+voicemail/vm-advanced,voor speciale opties
+voicemail/vm-advanced_alt,voor geavanceerde opties
+voicemail/vm-to_exit,om te beëindigen
+voicemail/vm-to_exit_alt,om af te sluiten
+voicemail/vm-to_record_greeting,Om een begroeting op te nemen...
+voicemail/vm-choose_greeting,om een welkomstboodschap te kiezen
+voicemail/vm-record_name2,om uw naam op te nemen
+voicemail/vm-main_menu,voor het hoofd menu
+voicemail/vm-listen_to_recording,om naar de opname te luisteren
+voicemail/vm-save_recording,om de opname op te slaan
+voicemail/vm-rerecord,om opnieuw op te nemen
+voicemail/vm-mark-urgent,Om dit bericht als urgent te markeren...
+voicemail/vm-mark_message_new,Om dit bericht als nieuw te markeren...
+voicemail/vm-continue,om door te gaan
+voicemail/vm-listen_to_recording_again,om nogmaals naar de opname te luisteren
+voicemail/vm-delete_recording,om de opname te wissen
+voicemail/vm-forward_to_email,om de opname door te sturen naar uw email
+voicemail/vm-to_forward,Om dit bericht door te sturen...
+voicemail/vm-forward_enter_ext,Voer de extensie in waarnaar u dit bericht wilt doorsturen.
+voicemail/vm-forward_add_intro,Om een introductie aan dit bericht toe te voegen...
+voicemail/vm-greeting,welkomstboodschap
+voicemail/vm-selected,gekozen
+voicemail/vm-not_available,Niet beschikbaar.
+voicemail/vm-message_number,bericht nummer
+voicemail/vm-deleted,verwijderd
+voicemail/vm-too-small,"Uw opname is korter dan de minimaal aanvaardbare lengte, probeer het opnieuw"
+voicemail/vm-in_folder,in de map postvak in
+voicemail/vm-return_call,om nu terug te bellen
+voicemail/vm-urgent,dringend
+voicemail/vm-mailbox_full,Deze mailbox is vol. Probeer uw oproep later opnieuw.
+voicemail/vm-tutorial_yes_no,"Welkom bij uw nieuwe voicemail. Om te luisteren naar een uitleg en het opzetten van uw voice mail box, druk op 1. Om dit over te slaan, druk op 2."
+voicemail/vm-tutorial_record_name,Ik moet uw voor- en achternaam opnemen. Deze opname wordt gebruikt in het systeem zoals het bedrijfsmatige telefoonboek
+voicemail/vm-tutorial_change_pin,"Uw persoonlijk identificatienummer, ofwel 'pin', wordt gebruikt om te voorkomen dat anderen toegang krijgen tot uw voicemailberichten. Wilt u deze nu wijzigen?"
+voicemail/vm-not_available_no_voicemail,De persoon die u probeert te bereiken is niet beschikbaar en heeft geen voicemail.
+voicemail/vm-pin_below_minimum_length,De ingevoerde PIN is korter dan de minimale lengte.
+voicemail/vm-minimum_pin_length_is,De minimale PIN-lengte is...
+voicemail/vm-password_has_been_changed,Uw wachtwoord is gewijzigd.
+voicemail/vm-enter_new_pin,"Voer uw nieuwe wachtwoord in, gevolgd door het hekje."
+voicemail/vm-password_not_valid,Het ingevoerde wachtwoord is niet geldig in dit systeem.
+voicemail/vm-password_is_not_secure,Een wachtwoord zoals '1111' of '1234' is niet veilig.
+voicemail/vm-choose_password,Kies een wachtwoord zonder herhaalde of opeenvolgende cijfers.
+voicemail/vm-voicemail_password_is_web_password,Vergeet niet dat uw voicemail wachtwoord ook uw webinterface wachtwoord is.
+voicemail/vm-message_from,Bericht van...
+voicemail/vm-nobody_leaving_message,Er wordt momenteel geen bericht achtergelaten in deze voicemail.
+voicemail/vm-last,laatste
+voicemail/vm-delete_greeting,Om de begroeting te verwijderen
+voicemail/vm-listen_to_greeting,Om de begroeting te beluisteren...
+voicemail/vm-main_menu_alt,Voor het hoofdmenu...
+voicemail/vm-message_forwarded,Bericht doorgestuurd
+voicemail/vm-no_answer_no_vm,Het gekozen toestel neemt niet op en heeft geen voicemail.
+directory/dir-enter_person,Geef de eerste paar letters op van de persoons
+directory/dir-last_name,...achternaam...
+directory/dir-to_search_by,Om te zoeken met...
+directory/dir-first_name,...voornaam...
+directory/dir-no_matching_results,Er zijn geen resultaten gevonden
+directory/dir-result_match,...resultaten gevonden.
+directory/dir-too_many_result,Er zijn teveel resultaten gevonden.
+directory/dir-no_more_results,Geen andere resultaten gevonden.
+directory/dir-result_number,Resultaat nummer...
+directory/dir-at_extension,...bij toestel...
+directory/dir-to_select_entry,Om deze te kiezen...
+directory/dir-for_next,For the next entry...
+directory/dir-for_prev,Voor de vorige...
+directory/dir-start_new_search,Om een nieuwe zoekopdracht te beginnen...
+directory/dir-specify_mininum,U moet een minimum van...
+directory/dir-letters_of_person_name,...letters van de naam opgeven.
+directory/dir-please_try_again,Probeer het opnieuw.
+directory/dir-press,toets
+directory/dir-for_next,For the next entry...
+directory/dir-enter_person_first_or_last,Geef de eerste paar letters op van de persoons voor- of achternaam
+directory/dir-enter-person,Voer de eerste letters in van
+directory/dir-no_match_entry,"Uw zoekopdracht leverde geen resultaten op, probeer opnieuw."
+directory/dir-no_more_result,Geen verdere resultaten
+directory/dir-specify_mininum_first,U moet minimaal opgeven...
+directory/dir-to_make_new_search,Om een nieuwe zoekopdracht te starten
+directory/dir-to_many_result,Uw zoekopdracht leverde te veel resultaten op.
+conference/conf-ack,NULL
+conference/conf-nack,NULL
+conference/conf-muted,U bent nu gedempt.
+conference/conf-unmuted,U bent niet gedempt.
+conference/conf-alone,U bent momenteel de enige persoon in deze conferentie.
+conference/conf-perpetual,NULL
+conference/conf-enter,NULL
+conference/conf-exit,NULL
+conference/conf-kicked,U bent verwijderd uit deze conferentie.
+conference/conf-locked,Deze conferentie is vergrendeld.
+conference/conf-is-locked,Deze conferentie is nu vergrendeld.
+conference/conf-is-unlocked,Deze conferentie is nu ontgrendeld.
+conference/conf-pin,Geef de conferentie pincode op.
+conference/conf-bad-pin,"Incorrecte pin nummer, probeer het nogmaals."
+conference/conf-goodbye,tot ziens
+conference/conf-welcome,Welkom op de conferentie.
+conference/conf-enter_conf_number,"Geef het conferentie nummer op, gevolgd door een hekje."
+conference/conf-enter_conf_pin,"Geef het conferentie pin nummer op, gevolgd door een hekje."
+conference/conf-has_joined,...heeft zich aangesloten aan de conferentie.
+conference/conf-has_left,...heeft conferentie verlaten.
+conference/conf-you_are_already_muted,U bent al gedempt.
+conference/conf-you_are_now_bidirectionally_muted,U bent nu bidirectioneel gedempt.
+conference/conf-number_of_listeners,"Voer het aantal luisteraars in, gevolgd door het hekje."
+conference/conf-listeners_in_conference,...luisteraars in deze conferentie.
+conference/conf-listener_in_conference,...luisteraar in deze conferentie.
+conference/conf-members_in_conference,...leden in deze conferentie.
+conference/conf-conference_is_in_qna_mode,Deze conferentie is in vraag-en-antwoord modus.
+conference/conf-qna_mode,Vraag-en-antwoord modus
+conference/conf-entry_sound,Entreegeluid
+conference/conf-exit_sound,Exitgeluid
+conference/conf-conference_is_full,Deze conferentie is vol. Neem contact op met de moderator.
+conference/conf-conference_will_start_shortly,Uw conferentie begint binnenkort. Blijf aan de lijn.
+conference/conf-other_persons_conference,andere personen in de conferentie.
+conference/conf-one_other_person_conference,één andere persoon in de conferentie.
+conference/conf-one_other_member_conference,één ander lid in de conferentie.
+conference/conf-being_recorded,Deze conferentie wordt opgenomen.
+conference/conf-no_longer_being_recorded,Deze conferentie wordt niet langer opgenomen.
+ivr/ivr-account_number,Account nummer
+ivr/ivr-connect_to_caller,Verbinden naar beller
+ivr/ivr-enter_ext_pound,"Als u het nummer weet van de persoon die u wilt bereiken, kunt u dat nu intoetsen"
+ivr/ivr-enter_ext,"Toets een toestel nummer in, gevolgd door een hekje"
+ivr/ivr-for_this_person,Voor deze persoon
+ivr/ivr-hold_connect_call,"Een moment geduld alstublieft, uw gesprek wordt doorverbonden"
+ivr/ivr-im_sorry,Pardon
+ivr/ivr-please,Alstublieft
+ivr/ivr-please_return_our_call_at,Bel ons aub terug op
+ivr/ivr-regarding_reference_number,In verband met referentienummer
+ivr/ivr-sample_submenu,Dit is een voorbeeld van een IVR submenu...
+ivr/ivr-say_name,Spreek u naam in na de toon
+ivr/ivr-send_to_voicemail,Stuur deze beller naar de voicemail
+ivr/ivr-speak_to_a_customer_service_representative,Om te spreken met een medewerker van de klantenservice
+ivr/ivr-take_a_message,Een bericht doorgeven
+ivr/ivr-that_was_an_invalid_entry,Dat was een verkeerde invoer
+ivr/ivr-this_is_a_call_from,Dit is een gesprek van
+ivr/ivr-this_ivr_will_let_you_test_features,Deze IVR stelt u instaat om een aantal functies te testen...
+ivr/ivr-to_call_the_freeswitch_conference,Om de FreeSWITCH conferentie te bellen
+ivr/ivr-to_do_a_freeswitch_echo_test,Om een FreeSWITCH echo test uit te voeren
+ivr/ivr-to_do_a_fwd_echo_test,Om een Free World Dial Up echo test uit te voeren
+ivr/ivr-to_hear_sample_submenu,Om een een voorbeeld IVR submenu te hoeren
+ivr/ivr-to_hear_screaming_monkeys,Om schreeuwende apen te horen
+ivr/ivr-to_listen_to_moh,Om naar wachtstand muziek te luisteren
+ivr/ivr-to_repeat_these_options,Om deze keuzes nog een keer te horen
+ivr/ivr-to_return_to_previous_menu,Om terug te keren naar het vorige menu
+ivr/ivr-to_speak_with_an_operator,Om met een mederwerker te spreken
+ivr/ivr-welcome_to_freeswitch,"Welkom bij FreeSWITCH, de toekomst in telefonie"
+ivr/ivr-you_may_exit_by_hanging_up,U kunt op elk moment dit menu verlaten door op te hangen
+ivr/ivr-or,of
+ivr/ivr-not,niet
+ivr/ivr-call,bellen
+ivr/ivr-you_may,u mag
+ivr/ivr-hello,hallo
+ivr/ivr-use_telephone_keypad,U kunt uw telefoon toetsten gebruiken...
+ivr/ivr-spell_name,Spel de naam van de persoon die u probeert te bereiken.
+ivr/ivr-last_name_first,Achternaam eerst
+ivr/ivr-first_name_first,Voornaam eerst
+ivr/ivr-press_one_q_or_z,Toest 1 voor Q of Z.
+ivr/ivr-sales,Verkoop
+ivr/ivr-customer_service,Klanten service
+ivr/ivr-technical_support,Technische ondersteuning
+ivr/ivr-operator,telefonist
+ivr/ivr-you_have_dialed_an_invalid_extension,U heeft een ongeldige toestel nummer gebeld.
+ivr/ivr-please_enter_extension_followed_by_pound,"Toets uw toestel nummer in, gevolgd door een hekje."
+ivr/ivr-please_enter_pin_followed_by_pound,"Toets uw pin in, gevolgd door een hekje."
+ivr/ivr-pin_or_extension_is-invalid,Uw pin of toestel nummer is ongeldig.
+ivr/ivr-you_are_about_to_provision_this_phone,U staat op het punt om dit toestel te koppelen aan uw account...
+ivr/ivr-please_reenter_your_pin,Toets uw pin nogmaals in om te bevestigen.
+ivr/ivr-register_for_cluecon,"Om te registreten voor ClueCon, toets een..."
+ivr/ivr-to_log_in,om in te loggen
+ivr/ivr-to_log_out,om uit te loggen
+ivr/ivr-you_are_now_logged_in,U bent nu ingelogd
+ivr/ivr-you_are_now_logged_out,U bent nu uitgelogd
+ivr/ivr-please_try_again,Probeer het aub nogmaals.
+ivr/ivr-provision_phone_permanently_to_extension,U staat op het punt om dit toestel permanent te koppelen aan uw account nummer.
+ivr/ivr-extension_to_provision_this_phone,"Toets het toestel nummer in die uw wilt koppellen aan deze telefoon, gevolgd door een hekje."
+ivr/ivr-this_phone_will_now_reboot,"Bedankt, deze telefoon zal nu opnieuw opstarten."
+ivr/ivr-recording_saved,"Bedankt, Uw opname wordt bewaard."
+ivr/ivr-save_review_record,Toets 1 om uw opnamen op te slaan. Toets 2 om uw opanmen te beluisteren. Toets 3 om overnieuw op te nemen.
+ivr/ivr-unable_save,"Het systeem is niet in staat om uw opanme op te slaan op dit moment, probeer het aub later nog een keer."
+ivr/ivr-you_are_number,U bent nummer...
+ivr/ivr-in_line,...in de wachtrij
+ivr/ivr-thank_you_for_holding,Bedankt voor het wachten.
+ivr/ivr-estimated_hold_time,De geschatte wachttijd is...
+ivr/ivr-more_than,Meer dan...
+ivr/ivr-less_than,Minder dan...
+ivr/ivr-begin_recording,Begin met opnemen na de toon.
+ivr/ivr-call_forwarding_has_been_cancelled,Doorschakelen is geannuleerd.
+ivr/ivr-call_forwarding_has_been_set,Doorschakelen is ingesteld.
+ivr/ivr-please_enter_the_phone_number,Toets uw telefoon nummer in.
+ivr/ivr-please_state_your_name_and_reason_for_calling,Geef uw naam op en de reden waarom u belt.
+ivr/ivr-accept_reject_voicemail,Om te accepteren toets 1. Om te weigeren toets 2. Om een voicemail te sturen toets 3
+ivr/ivr-accept_reject,"Om te accepteren, druk 1. Om te weigeren, druk 2."
+ivr/ivr-to_accept_press_one,"Om te accepteren, druk 1."
+ivr/ivr-incoming_call,Binnekomend gesprek.
+ivr/ivr-thank_you_for_calling,Bedankt voor het bellen.
+ivr/ivr-stay_on_line_call_answered_momentarily,"Blijft uw aan de lijn, uw wordt zo spoedig mogelijk te woord gestaan."
+ivr/ivr-call_being_transferred,U wordt doorgeschakeld.
+ivr/ivr-enjoy_music_while_transfer,Geniet van de muziek terwijl u wordt door geschakeld.
+ivr/ivr-call_from,U heeft een binnekomend gesprek van...
+ivr/ivr-no_menu_items,Dit menu heeft geen keuzes. Neem aub contact op met de beheerder.
+ivr/ivr-for_directory_press,Voor het telefoonboek toets...
+ivr/ivr-using_telephone_keypad,Gebruik de toetsen van uw telefoon toestel...
+ivr/ivr-enter_letters_last_name,Geef de eerste paar letters op van de persoons achternaam.
+ivr/ivr-enter_letters_first_name,Geef de eerste paar letters op van de persoons voornaam.
+ivr/ivr-enter_letters_first_or_last_name,Geef de eerste paar letters op van de persoons voornaam of achternaam.
+ivr/ivr-if_correct_press,"Als dit correct is, toest..."
+ivr/ivr-if_not_press,"Zo niet, toets..."
+ivr/ivr-finished_pound_hash_key,Als u klaar bent druk op hekje
+ivr/ivr-dnd_activated,Niet storen is nu geactiveerd.
+ivr/ivr-dnd_cancelled,Niet storen is nu gedactiveerd.
+ivr/ivr-any_other_digit,Druk een op toets...
+ivr/ivr-one_yes_two_no,Druk 1 voor ja. Druk 2 voor nee.
+ivr/ivr-enter_queue_number,"Toets het wachtrij nummer in, gevolgd door een hekje."
+ivr/ivr-please_enter_the,Geef aub de...
+ivr/ivr-number,Nummer.
+ivr/ivr-followed_by_pound,...gevolgd door een hekje.
+ivr/ivr-account_balance_is,Het saldo is...
+ivr/ivr-file,...bestand...
+ivr/ivr-files,bestanden
+ivr/ivr-for_a_wakeup_call,Om een wekdienst in te stellen...
+ivr/ivr-this_is_your_wakeup_call,Dit is uw wekdienst.
+ivr/ivr-request_wakeup_call,Om een wekdienst aan te vragen...
+ivr/ivr-confirm_wakeup_call,Om de wekdienst te bevestigen...
+ivr/ivr-cancel_wakeup_call,Om de wekdienst te annuleren...
+ivr/ivr-requested_wakeup_call_for,U heeft een wekdienst aangevraagd voor...
+ivr/ivr-not_requested_wakeup_call,U heeft geen wekdienst aangevraagd.
+ivr/ivr-wakeup_call_cancelled,Uw wekdienst is geannuleerd.
+ivr/ivr-for_daily_wakeup_call,Voor een dagelijkse wekdienst...
+ivr/ivr-daily_wakeup_call,Dagelijkse wekdienst...
+ivr/ivr-for_daily_wakeup_calls,Voor dagelijkse wekdiensten...
+ivr/ivr-for_one_time_wakeup_call,Voor een eenmalig wekdienst...
+ivr/ivr-one_time_wakeup_call,Eenmalig wekdiesnt...
+ivr/ivr-wakeup_call,...wekdienst...
+ivr/ivr-wakey_wakey_sunshine,Wakker worden!
+ivr/ivr-welcome,Welkom.
+ivr/ivr-welcome_to,Welkom bij...
+ivr/ivr-good_morning,Goedemorgen.
+ivr/ivr-good_afternoon,Goedemiddag.
+ivr/ivr-good_evening,Goedeavond.
+ivr/ivr-thank_you,Bedankt
+ivr/ivr-for,Voor...
+ivr/ivr-longer_than_usual_hold_times,Momenteel zijn de wachttijden langer dan normaal.
+ivr/ivr-you_are_the,U bent de...
+ivr/ivr-one_moment_please,Een moment geduld alstublieft.
+ivr/ivr-call_answered_order_received,Uw gesprek wordt beantwoord in de volgorde van binnekomst.
+ivr/ivr-you_entered,U heeft ingevoerd...
+ivr/ivr-extension_number,Toestel nummer...
+ivr/ivr-please_hold_while_party_contacted,"Een moment geduld alstublieft, Uw gesprekspartner wordt gecontacteerd."
+ivr/ivr-please_enjoy_music_while_party_reached,Geniet van de muziek terwijl uw gesrpeks partner gecontacteerd wordt.
+ivr/ivr-generic_greeting,"Bedankt voor het bellen. Als u het toestel nummer weet van de persoon die u wilt bereiken, kunt u dat nu intoetsen of toets een 9 voor het telefoonboek."
+ivr/ivr-if_correct_one_if_not_two,"Als dit correct is toets een 1, is dit niet correct toets dan een 2."
+ivr/ivr-repeat_this_information,Om deze gegevens te herhalen...
+ivr/ivr-no_no_no,Nee nee nee!
+ivr/ivr-did_you_mean_to_press_key,Was het de bedoeling dat u die toets indrukte?
+ivr/ivr-seriously_mean_to_press_key,Serieus. Was het ECHT de bedoeling dat u die toets indrukte?
+ivr/ivr-oh_whatever,Het zal wel!
+ivr/ivr-one_more_mistake,Nu moet je oppassen! Nog één zo'n fout en ik verbreek de verbinding.
+ivr/ivr-congratulations_you_pressed_star,"Gefeliciteerd, U heeft op de ster gedrukt. Dit betekent overigens niet dat u een ster bent. Dit betekent dat u op knopjes kunt drukken en naar alle waarschijnlijkheid vingers heeft."
+ivr/ivr-engineers_busy_assisting_other_sales,Al onze technische mederwerkers zijn bezig onze verkoop medewerkers te ondersteunen met het demonstreren hoe goed de CudaTel is.
+ivr/ivr-message_self_destruct,"Dit bericht zal zichzelf vernietigen in 5, 4, 3, 2, 1..."
+ivr/ivr-all_your_call_are_belong_to_us,Al u telefoongesprek zijn de onze.
+ivr/ivr-love_those_touch_tones,Ik hou ervan hoe je die knoppen indrukt!
+ivr/ivr-yes_we_have_no_bananas,"Correct, we hebben geen bananen."
+ivr/ivr-dude_you_suck,"Kerel, je zuigt!"
+ivr/ivr-on_hold_indefinitely,"Uw oproep is erg belangrijk voor ons, maar uw geestelijke welzijn niet, dus we zullen u graag in de wacht houden, voor eeuwig martelen met onze vervelende wachtstandmuziek."
+ivr/ivr-has_left_the_building,...heeft het pand verlaten.
+ivr/ivr-phone_is_unassigned,Deze telefoon is niet toegekend en kan niet gebruikt worden voor externe oproepen.
+ivr/ivr-phone_not_configured,Deze telefoon is niet correct geconfigureerd.
+ivr/ivr-phone_is_configured_properly,Gefeliciteerd! Deze telefoon is correct geconfigureerd en kan nu aan een gebruiker toegekend worden.
+ivr/ivr-contact_system_administrator,Neem aub contact op met de systeem beheerder voor ondersteuning.
+ivr/ivr-no_calls_waiting_in_queue,Er zijn geen gesprekken aanwezig in deze wachtrij.
+ivr/ivr-you_are_number_one,U bent nummer één in de wachtrij.
+ivr/ivr-has_called_emergency_services,...heeft een nood oproep geplaatst
+ivr/ivr-there_are,Er zijn...
+ivr/ivr-enter_source_telephone_number,"Geef het bron telefoon nummer op, gevolgd door een hekje."
+ivr/ivr-enter_destination_telephone_number,"Geef het bestemmings telefoon nummer op, gevolgd door een hekje."
+ivr/ivr-recording_started,Opname gestart.
+ivr/ivr-recording_stopped,Opname gestopt.
+ivr/ivr-recording_paused,Opname gepauzeerd.
+ivr/ivr-recording_deleted,Opname verwijderd.
+ivr/ivr-no_longer_in_queue,U bent niet langer in de wachtrij.
+ivr/ivr-withdrawn,teruggetrokken
+ivr/ivr-question,vraag
+ivr/ivr-questions,vragen
+ivr/ivr-has_been_answered,is beantwoord
+ivr/ivr-has_been_removed,is verwijderd
+ivr/ivr-no_questions_in_queue,Geen vragen in de wachtrij.
+ivr/ivr-is_now_on,is nu aan
+ivr/ivr-is_now_off,is nu uit
+ivr/ivr-phone_not_make_external_calls,Dit toestel mag geen externe gesprekken voeren.
+ivr/ivr-id_number,ID-nummer
+ivr/ivr-skip_instructions,Druk op een toets om instructies over te slaan.
+ivr/ivr-hangup_to_discard,Hang op om te annuleren.
+ivr/ivr-or_press,of druk op
+ivr/ivr-for_english_press,"Voor Engels, druk op"
+ivr/ivr-call_cannot_be_completed_as_dialed,Uw oproep kan niet worden voltooid zoals gekozen.
+ivr/ivr-please_check_number_try_again,Controleer het nummer en probeer opnieuw.
+ivr/ivr-failure_reason_is,De reden van de fout is
+ivr/ivr-unallocated_number,Niet-toegewezen nummer
+ivr/ivr-no_user_response,Geen reactie van gebruiker
+ivr/ivr-invalid_number_format,Ongeldig nummerformaat
+ivr/ivr-invalid_sound_prompt,Ongeldige geluidsprompt
+ivr/ivr-gateway_down,Gateway niet beschikbaar
+ivr/ivr-no_route_destination,Geen route naar bestemming
+ivr/ivr-user_busy,Gebruiker bezet
+ivr/ivr-call_rejected,Oproep geweigerd
+ivr/ivr-normal_unspecified,"Normaal, niet gespecificeerd"
+ivr/ivr-incompatible_destination,Incompatibele bestemming
+ivr/ivr-normal_clearing,Normaal beëindigd
+ivr/ivr-not_have_permission,U heeft geen toestemming
+ivr/ivr-youre_doing_it_wrong,U doet het verkeerd!
+ivr/ivr-were_asterisk_free,Wij zijn Asterisk-vrij!
+ivr/ivr-douche_telecom,Douche Telecom
+ivr/ivr-to_learn_more_about_freeswitch,Voor meer informatie over FreeSWITCH
+ivr/ivr-there_is,Er is
+ivr/ivr-do_not_call_list,Bel-me-niet lijst
+ivr/ivr-call_attempt_aborted,Oproeppoging afgebroken
+ivr/ivr-to_wait_stay_on_the_line,"Om te wachten, blijf aan de lijn."
+ivr/ivr-if_you_would_like_us_to_call_back,Als u wilt dat wij u terugbellen
+ivr/ivr-it_appears_that_your_phone_number_is,Het lijkt erop dat uw telefoonnummer is
+ivr/ivr-would_you_like_to_receive_a_call_at_this_number,Wilt u een oproep ontvangen op dit nummer?
+ivr/ivr-please_enter_the_number_where_we_can_reach_you,Voer het nummer in waarop wij u kunnen bereiken.
+ivr/ivr-we_will_return_your_call_at_this_number,Wij bellen u terug op dit nummer.
+ivr/ivr-anonymous_caller,Anonieme beller
+ivr/ivr-freeguipy,Neem een stukje gratis taart!
+ivr/ivr-learn_more_freeguipydotorg,Meer informatie op F-R-E-E-G-U-I-P-Y punt O-R-G
+ivr/ivr-terribly_wrong_awkward,"Er ging iets vreselijk, vreselijk mis... (ongemakkelijk!)"
+ivr/ivr-it_was_that_bug,"Nou, het was inderdaad die bug!"
+ivr/ivr-concentrate,CONCENTREER! Focus op het konijn! FOCUS OP HET KONIJN!
+ivr/ivr-file_a_jira,"Als u het niet leuk vindt, kunt u een JIRA aanmaken!"
+ivr/ivr-founder_of_freesource,"Mag ik u voorstellen, de oprichter van FreeSOURCE, Anthony Ministrone."
+ivr/ivr-cold_foolish,"Man, dat is wel heel dom... HEEL dom"
+ivr/ivr-trollover_minutes,Gefeliciteerd! U heeft deze maand 1500 Trollover minuten verdiend!
+ivr/ivr-yuno_silent_drill,Waarom geen stille modus?!
+ivr/ivr-beacuase,Omdat de stemmen best goed waren
+ivr/ivr-day_mode,Dagmodus...
+ivr/ivr-night_mode,Nachtmodus...
+ivr/ivr-lunch_mode,Lunchmodus...
+ivr/ivr-custom_mode_number,Aangepaste modus nummer
+ivr/ivr-not_have_permission_to_edit,U heeft geen toestemming om te bewerken
+ivr/ivr-this_feature,Deze functie
+ivr/ivr-feature,functie
+ivr/ivr-automated_attendants,Automatische telefonistes
+ivr/ivr-automated_attendant,Automatische telefoniste
+ivr/ivr-please_enter_extension_number_of,Voer het toestelnummer in van
+ivr/ivr-that_you_would_like_to_modify,dat u wilt wijzigen
+ivr/ivr-invalid_extension_try_again,"Ongeldig toestel, probeer opnieuw."
+ivr/ivr-modify_main_prompts,Wijzig hoofdprompts
+ivr/ivr-modify_option_prompts,Wijzig optieprompts
+ivr/ivr-hear_usage_stats,Luister naar gebruiksstatistieken
+ivr/ivr-at_the_tone,Na de toon
+ivr/ivr-record_prompt,Neem prompt op
+ivr/ivr-record_short_greeting,Neem korte begroeting op
+ivr/ivr-record_invalid_sound,Neem ongeldig geluid op
+ivr/ivr-record_exit_sound,Neem exitgeluid op
+ivr/ivr-when_finished_press_any_key,Druk op een toets wanneer u klaar bent.
+ivr/ivr-press_key_of_prompt_to_modify,Druk op de toets van de prompt die u wilt wijzigen.
+ivr/ivr-key,toets
+ivr/ivr-does_not_contain_a_recording,bevat geen opname
+ivr/ivr-already_contains_a_recording,bevat al een opname
+ivr/ivr-option,optie
+ivr/ivr-has_had,heeft gehad
+ivr/ivr-visitors,bezoekers
+ivr/ivr-visitor,bezoeker
+ivr/ivr-reset_usage_totals,Reset gebruikstotalen
+ivr/ivr-reset_usage_totals_confirm,Bevestig reset van gebruikstotalen
+ivr/ivr-to_confirm,om te bevestigen
+ivr/ivr-usage_totals_have_been_reset,Gebruikstotalen zijn gereset.
+ivr/ivr-to_modify,om te wijzigen
+ivr/ivr-to_modify_main_prompt,om hoofdprompt te wijzigen
+ivr/ivr-short_greeting,Korte begroeting
+ivr/ivr-ivalid_sound_prompt,Ongeldige geluidsprompt
+ivr/ivr-exit_sound_prompt,Exit geluidsprompt
+ivr/ivr-not_accept_anonymous_calls,Accepteert geen anonieme oproepen
+ivr/ivr-to_accept_press,"Om te accepteren, druk op"
+ivr/ivr-to_reject,om te weigeren
+ivr/ivr-hang_up,Hang op
+ivr/ivr-to_reject_hangup,"Om te weigeren, hang op"
+ivr/ivr-access_denied,Toegang geweigerd.
+ivr/ivr-perform_dtmf_test,Voer DTMF-test uit
+ivr/ivr-perform_echo_test,Voer echotest uit
+ivr/ivr-perform_delayed_echo_test,Voer vertraagde echotest uit
+ivr/ivr-hangup_to_end_test,Hang op om test te beëindigen.
+ivr/ivr-read_each_key_press_back,Lees elke toetsaanslag terug
+ivr/ivr-echo_your_audio_back,Echo uw audio terug
+ivr/ivr-delayed_echo_your_audio_back,Vertraagde echo van uw audio
+ivr/ivr-send_fax,Fax verzenden
+ivr/ivr-enter_number_send_fax,Voer nummer in om fax te verzenden
+ivr/ivr-send_fax_now,Verzend fax nu
+ivr/ivr-has_been_added_to_the_blacklist,is toegevoegd aan de zwarte lijst
+ivr/ivr-has_been_removed_from_blacklist,is verwijderd van de zwarte lijst
+ivr/ivr-enter_number_to_add_to_blacklist,Voer nummer in om toe te voegen aan zwarte lijst
+ivr/ivr-enter_number_to_remove_from_blacklist,Voer nummer in om te verwijderen van zwarte lijst
+ivr/ivr-is_not_on_the_blacklist,staat niet op de zwarte lijst
+ivr/ivr-is_already_on_the_blacklist,staat al op de zwarte lijst
+ivr/ivr-for_other_options,Voor andere opties
+ivr/ivr-your_caller_id_information_is,Uw nummerweergave-informatie is
+ivr/ivr-call_screening_enabled,Oproepscreening ingeschakeld
+ivr/ivr-call_screening_disabled,Oproepscreening uitgeschakeld
+ivr/ivr-prompt,prompt
+ivr/ivr-enabled,ingeschakeld
+ivr/ivr-disabled,uitgeschakeld
+ivr/ivr-aint_nobody_got_time_for_that,Niemand heeft daar tijd voor!
+ivr/ivr-we_would_support,We zouden u graag ondersteunen als u onze telefoontjes en e-mails zou beantwoorden.
+ivr/ivr-suck,...slecht.
+ivr/ivr-sucks,...slecht.
+ivr/ivr-to_redial_last_call,Om laatste oproep opnieuw te bellen
+ivr/ivr-ensure_service_keeps_working,Zorg dat service blijft werken
+ivr/ivr-please_contact,Neem contact op met
+ivr/ivr-the_billing_department,de factureringsafdeling
+ivr/ivr-by_dialing,door te bellen naar
+ivr/ivr-credit_card_could_not_be_charged,Creditcard kon niet worden belast
+ivr/ivr-units,eenheden
+ivr/ivr-per_minute,per minuut
+ivr/ivr-your_caller_id_number_is_blocked,Uw nummerweergave is geblokkeerd
+ivr/ivr-unblock_caller_id,U moet uw nummerweergave deblokkeren voor PIN-loze autorisatie op de belkaart.
+ivr/ivr-request_or_use_pin,U kunt ook een PIN-code aanvragen of gebruiken op uw account.
+ivr/ivr-you_have_used,U heeft gebruikt
+ivr/ivr-out_of,van
+ivr/ivr-next_billing_cycle,volgende factuurperiode
+ivr/ivr-nothing,niets
+ivr/ivr-to_skip,om over te slaan
+ivr/ivr_connect_live_operator,Verbinden met live operator
+ivr/ivr-connect_actual_human_being,Verbinden met een echt persoon
+ivr/ivr-system_down_for_maintenance,Systeem niet beschikbaar wegens onderhoud
+ivr/ivr-system_back_up_in_approximately,Systeem weer beschikbaar over ongeveer
+ivr/ivr-you_lose,"Het staat er allemaal, zwart op wit, kristalhelder! U stal bruisende drankjes! U stootte tegen het plafond dat nu gewassen en gesteriliseerd moet worden, dus u krijgt niets! U verliest! Goedendag, meneer!"
+ivr/ivr-cold_pop,"Om een koele frisdrank te nemen, druk..."
+ivr/ivr-barbecuing,"Als u dacht dat iemand aan het barbecueën was, druk..."
+ivr/ivr-no_shoes,"Als u geen schoenen heeft gepakt en voor uw leven bent gerend, druk..."
+ivr/ivr-smoke_got_you,"Als de rook u te pakken heeft gekregen, druk..."
+ivr/ivr-got_bronchitis,"Als u bronchitis heeft, druk..."
+ivr/ivr-nobody_got_time_for_that,"Als niemand daar tijd voor heeft, druk..."
+ivr/ivr-reminder_for,Herinnering voor
+ivr/ivr-appointment_schedule_for,Afspraak gepland voor
+ivr/ivr-Your_verification_PIN_is,Uw verificatie-PIN is
+ivr/ivr-hotseat_intro,Hotdesk introductie
+ivr/ivr-modify_main_prompt,Wijzig hoofdprompt
+ivr/ivr-hotseat_pin,Hotdesk PIN
+ivr/ivr-hotseat_options,Hotdesk opties
+ivr/ivr-maximum_number_of_channels,U heeft het maximale aantal kanalen bereikt.
+ivr/ivr-to_do_a_echo_test,om een echotest te doen
+misc/call_secured,Dit telefoon gesprek is beveiligd
+misc/followed,Gevolgd door een hekje
+misc/if_you_are_this_person,Als u deze persoon bent
+misc/if_you_would_like_to,Als u wilt
+misc/provide_reference_number,Geef een referentie nummer op
+misc/transfer1,Geef het toestel nummer op waar naar door verbonden wilt worden
+misc/transfer2,Doorschakelen
+misc/we_are_trying_to_reach,We proberen te bereiken
+misc/error,"Er heeft zich een fout voorgedaan, neem contact op met de systeem beheerder."
+misc/misc-your_call_will_be_terminated_in,Uw gesprek wordt beëindigd in...
+misc/misc-your_call_has_been_terminated,Uw gesprek is beëindigd.
+misc/misc-to_hear_about_cluecon,Om over ClueCon te horen
+misc/misc-cluecon_is_premier_conference,ClueCon is de toonaangevende conferentie
+misc/misc-chicago_each_summer,in Chicago elke zomer
+misc/misc-wide_range_of_persons,een breed scala aan personen
+misc/misc-support_open_source_by_attending,Ondersteun open source door deel te nemen
+misc/misc-freeswitch_sponsored_by_ostag,FreeSWITCH wordt gesponsord door OSTAG
+misc/misc-ostag_learn_more,Meer informatie over OSTAG
+misc/misc-learn_more_about_freeswitch_solutions,Meer informatie over FreeSWITCH-oplossingen
+misc/misc-information_about_freeswitch,Informatie over FreeSWITCH
+misc/misc-freeswitch_is_state_of_the_art,FreeSWITCH is state-of-the-art
+misc/misc-it_is_stable_scalable_extensible,"Het is stabiel, schaalbaar en uitbreidbaar"
+misc/misc-free_to_download,Gratis te downloaden
+misc/misc-freeswitch_dot_org_more,FreeSWITCH.org voor meer
+misc/misc-Sangoma,Sangoma
+misc/misc-fss_best_consulting,FSS beste consulting
+misc/misc-fss_network_of_experts,FSS netwerk van experts
+misc/misc-fss_contact_us,Neem contact met ons op bij FSS
+misc/misc-soccer_mom,Het is typisch voetbalmoeder gedoe!
+misc/misc-speak_live_with_community,Spreek live met de community
+misc/misc-join_us_each_wed,Doe elke woensdag mee
+misc/misc-more_info_wiki,Meer informatie op de wiki
+misc/misc-welcome_freeswitch_conf_call,Welkom bij de FreeSWITCH conferentiegesprek
+misc/misc-e164_dot_org,E164.org
+misc/phone_not_auth,Dit toestel mag geen externe gesprekken voeren.
+misc/sorry,Sorry.
+misc/call_monitoring_blurb,Dit gesprek kan worden gemonitord of opgenomen voor kwaliteit en training.
+misc/es,Spaans.
+misc/invalid_extension,Ongeldige extensie.
+misc/en,Engels.
+base256/Algol,Algol
+base256/Apollo,Apollo
+base256/Athens,Athene
+base256/Atlantic,Atlantisch
+base256/Aztec,Azteek
+base256/Babylon,Babylon
+base256/Belfast,Belfast
+base256/Bradbury,Bradbury
+base256/Brazilian,Braziliaans
+base256/Burbank,Burbank
+base256/Burlington,Burlington
+base256/Camelot,Camelot
+base256/Capricorn,Steenbok
+base256/Cherokee,Cherokee
+base256/Chicago,Chicago
+base256/Christmas,Kerstmis
+base256/Dakota,Dakota
+base256/December,December
+base256/Dupont,Dupont
+base256/Eskimo,Eskimo
+base256/Galveston,Galveston
+base256/Geiger,Geiger
+base256/Hamilton,Hamilton
+base256/Istanbul,Istanboel
+base256/Jamaica,Jamaica
+base256/Jupiter,Jupiter
+base256/Medusa,Medusa
+base256/Mohawk,Mohawk
+base256/Montana,Montana
+base256/Neptune,Neptunus
+base256/Norwegian,Noors
+base256/Oakland,Oakland
+base256/October,Oktober
+base256/Ohio,Ohio
+base256/Orlando,Orlando
+base256/Pacific,Pacifisch
+base256/Pandora,Pandora
+base256/Pegasus,Pegasus
+base256/Pluto,Pluto
+base256/Saturday,Zaterdag
+base256/Scotland,Schotland
+base256/Trojan,Trojaans
+base256/Virginia,Virginia
+base256/Vulcan,Vulkaan
+base256/Waterloo,Waterloo
+base256/Wichita,Wichita
+base256/Wilmington,Wilmington
+base256/Wyoming,Wyoming
+base256/Yucatan,Yucatan
+base256/Zulu,Zoeloe
+base256/aardvark,Aardvarken
+base256/absurd,Absurd
+base256/accrue,Opbouwen
+base256/acme,Toppunt
+base256/adrift,Afdrijvend
+base256/adroitness,Behendighed
+base256/adult,Volwassene
+base256/adviser,Adviseur
+base256/afflict,Teisteren
+base256/aftermath,Nasleep
+base256/aggregate,Aggregaat
+base256/ahead,Vooruit
+base256/aimless,Doelloos
+base256/alkali,Alkali
+base256/allow,Toestaan
+base256/almighty,Almachtig
+base256/alone,Alleen
+base256/ammo,Munitie
+base256/amulet,Amulet
+base256/amusement,Amusement
+base256/ancient,Oud
+base256/antenna,Antenne
+base256/apple,Appel
+base256/applicant,Aanvrager
+base256/armistice,Wapenstilstand
+base256/article,Artikel
+base256/artist,Kunstenaar
+base256/assume,Aannemen
+base256/asteroid,Asteroïde
+base256/atlas,Atlas
+base256/atmosphere,Atmosfeer
+base256/autopsy,Autopsie
+base256/baboon,Baviaan
+base256/backfield,Achterhoede
+base256/backward,Achterwaarts
+base256/backwater,Achterwater
+base256/banjo,Banjo
+base256/barbecue,Barbecue
+base256/beaming,Stralend
+base256/bedlamp,Bedlamp
+base256/beehive,Bijenkorf
+base256/beeswax,Bijenwas
+base256/befriend,Bevrienden
+base256/being,Wezen
+base256/belowground,Ondergronds
+base256/berserk,Razend
+base256/bifocals,Bifocale bril
+base256/billiard,Biljart
+base256/bison,Bizon
+base256/blackjack,Blackjack
+base256/blockade,Blokkade
+base256/blowtorch,Brander
+base256/bluebird,Blauwe vogel
+base256/bodyguard,Lijfwacht
+base256/bombast,Bombast
+base256/bookseller,Boekhandelaar
+base256/bookshelf,Boekenplank
+base256/borderline,Grens
+base256/bottomless,Bodemloos
+base256/brackish,Brak
+base256/bravado,Bravour
+base256/breadline,Broodlijn
+base256/breakaway,Ontsnapping
+base256/breakup,Breuk
+base256/brickyard,Steenbakkerij
+base256/briefcase,Aktetas
+base256/businessman,Zakenman
+base256/butterfat,Botervet
+base256/button,Knop
+base256/buzzard,Buizerd
+base256/candidate,Kandidaat
+base256/cannonball,Kanonskogel
+base256/caravan,Caravan
+base256/caretaker,Conciërge
+base256/celebrate,Vieren
+base256/cellulose,Cellulose
+base256/cement,Cement
+base256/certify,Certifiëren
+base256/chairlift,Stoeltjeslift
+base256/chambermaid,Kamermeisje
+base256/chatter,Geklets
+base256/checkup,Controle
+base256/chisel,Beitel
+base256/choking,Verstikkend
+base256/chopper,Helikopter
+base256/clamshell,Schelpvorm
+base256/classic,Klassiek
+base256/classroom,Klaslokaal
+base256/cleanup,Opruiming
+base256/clergyman,Geestelijke
+base256/clockwork,Uurwerk
+base256/cobra,Cobra
+base256/coherence,Samenhang
+base256/combustion,Verbranding
+base256/commando,Commando
+base256/commence,Beginnen
+base256/company,Bedrijf
+base256/component,Component
+base256/concert,Concert
+base256/concurrent,Gelijktijdig
+base256/confidence,Vertrouwen
+base256/conference,Conferentie
+base256/conformist,Conformist
+base256/congregate,Verzamelen
+base256/consensus,Consensus
+base256/consulting,Consulting
+base256/corporate,Zakelijk
+base256/corrosion,Corrosie
+base256/councilman,Raadslid
+base256/cowbell,Koebel
+base256/crackdown,Hardhandig optreden
+base256/cranky,Kribbig
+base256/crossover,Crossover
+base256/crowfoot,Kraaipoot
+base256/crucial,Cruciaal
+base256/crucifix,Kruisbeeld
+base256/crumpled,Verfrommeld
+base256/crusade,Kruistocht
+base256/cubic,Kubiek
+base256/cumbersome,Omslachtig
+base256/customer,Klant
+base256/dashboard,Dashboard
+base256/deadbolt,Nachtslot
+base256/decadence,Decadentie
+base256/decimal,Decimaal
+base256/deckhand,Dekknecht
+base256/designing,Ontwerpend
+base256/detector,Detector
+base256/detergent,Wasmiddel
+base256/determine,Bepalen
+base256/dictator,Dictator
+base256/dinosaur,Dinosaurus
+base256/direction,Richting
+base256/disable,Uitschakelen
+base256/disbelief,Ongeloof
+base256/disruptive,Verstorend
+base256/distortion,Vervorming
+base256/document,Document
+base256/dogsled,Hondenslede
+base256/dragnet,Sleepnet
+base256/drainage,Drainage
+base256/dreadful,Verschrikkelijk
+base256/drifter,Zwerver
+base256/dropper,Druppelaar
+base256/drumbeat,Tromgeroffel
+base256/drunken,Dronken
+base256/dwelling,Woning
+base256/eating,Eten
+base256/edict,Edict
+base256/egghead,Intellectueel
+base256/eightball,Achtbal
+base256/embezzle,Verduisteren
+base256/enchanting,Betoverend
+base256/endorse,Onderschrijven
+base256/endow,Begiftigen
+base256/enlist,Aanmelden
+base256/enrollment,Inschrijving
+base256/enterprise,Onderneming
+base256/equation,Vergelijking
+base256/equipment,Uitrusting
+base256/erase,Wissen
+base256/escapade,Escapade
+base256/escape,Ontsnapping
+base256/everyday,Dagelijks
+base256/examine,Onderzoeken
+base256/exceed,Overtreffen
+base256/existence,Bestaan
+base256/exodus,Exodus
+base256/eyeglass,Bril
+base256/eyetooth,Hoektand
+base256/facial,Gezichts
+base256/fallout,Gevolgen
+base256/fascinate,Fascineren
+base256/filament,Gloeidraad
+base256/finicky,Kieskeurig
+base256/flagpole,Vlaggenmast
+base256/flatfoot,Agent
+base256/flytrap,Vliegenval
+base256/forever,Altijd
+base256/fortitude,Standvastigheid
+base256/fracture,Breuk
+base256/framework,Raamwerk
+base256/freedom,Vrijheid
+base256/frequency,Frequentie
+base256/frighten,Schrikken
+base256/gadgetry,Gadgets
+base256/gazelle,Gazelle
+base256/getaway,Ontsnapping
+base256/glitter,Glitter
+base256/glossary,Woordenlijst
+base256/glucose,Glucose
+base256/goggles,Bril
+base256/goldfish,Goudvis
+base256/gossamer,Spinnenweb
+base256/graduate,Afgestudeerde
+base256/gravity,Zwaartekracht
+base256/gremlin,Gremlin
+base256/guidance,Begeleiding
+base256/guitarist,Gitarist
+base256/hamburger,Hamburger
+base256/hamlet,Gehucht
+base256/handiwork,Handwerk
+base256/hazardous,Gevaarlijk
+base256/headwaters,Brongebied
+base256/hemisphere,Halfrond
+base256/hesitate,Aarzelen
+base256/hideaway,Schuilplaats
+base256/highchair,Kinderstoel
+base256/hockey,Hockey
+base256/holiness,Heiligheid
+base256/hurricane,Orkaan
+base256/hydraulic,Hydraulisch
+base256/impartial,Onpartijdig
+base256/impetus,Impuls
+base256/inception,Begin
+base256/indigo,Indigo
+base256/indoors,Binnen
+base256/indulge,Verwennen
+base256/inertia,Traagheid
+base256/infancy,Kindertijd
+base256/inferno,Inferno
+base256/informant,Informant
+base256/insincere,Onoprecht
+base256/insurgent,Opstandeling
+base256/integrate,Integreren
+base256/intention,Intentie
+base256/inventive,Inventief
+base256/inverse,Omgekeerd
+base256/involve,Betrekken
+base256/is,Is
+base256/island,Eiland
+base256/jawbone,Kaakbeen
+base256/keyboard,Toetsenbord
+base256/kickoff,Aftrap
+base256/kiwi,Kiwi
+base256/klaxon,Claxon
+base256/leprosy,Lepra
+base256/letterhead,Briefhoofd
+base256/liberty,Vrijheid
+base256/longer,Langer
+base256/locale,Locatie
+base256/lockup,Gevangenis
+base256/maritime,Maritiem
+base256/matchmaker,Koppelaar
+base256/maverick,Vrijdenker
+base256/megaton,Megaton
+base256/merit,Verdienste
+base256/microscope,Microscoop
+base256/microwave,Magnetron
+base256/midsummer,Midzomer
+base256/millionaire,Miljonair
+base256/minnow,Elrits
+base256/miracle,Wonder
+base256/miser,Vrek
+base256/misnomer,Verkeerde naam
+base256/molasses,Melasse
+base256/molecule,Molecuul
+base256/monument,Monument
+base256/mosquito,Mug
+base256/mural,Muurschildering
+base256/music,Muziek
+base256/narrative,Verhaal
+base256/nebula,Nevel
+base256/necklace,Halsketting
+base256/newborn,Pasgeborene
+base256/newsletter,Nieuwsbrief
+base256/nightbird,Nachtvogel
+base256/no,Nee
+base256/obtuse,Stomp
+base256/offload,Afladen
+base256/onlooker,Toeschouwer
+base256/optic,Optisch
+base256/opulent,Weelderig
+base256/orca,Orka
+base256/outfielder,Veldspeler
+base256/pandemic,Pandemie
+base256/paperweight,Presse-papier
+base256/paragon,Toonbeeld
+base256/paragraph,Paragraaf
+base256/paramount,Uiterst belangrijk
+base256/passenger,Passagier
+base256/payday,Betaaldag
+base256/peachy,Prima
+base256/pedigree,Stamboom
+base256/penetrate,Doordringen
+base256/perceptive,Scherpzinnig
+base256/performance,Prestatie
+base256/pharmacy,Apotheek
+base256/pheasant,Fazant
+base256/phonetic,Fonetisch
+base256/photograph,Foto
+base256/physique,Lichaamsbouw
+base256/pioneer,Pionier
+base256/playhouse,Speelhuis
+base256/pocketful,Zakje vol
+base256/politeness,Beleefdheid
+base256/positive,Positief
+base256/potato,Aardappel
+base256/preclude,Uitsluiten
+base256/prefer,Voorkeur
+base256/preshrunk,Voorgewassen
+base256/printer,Printer
+base256/processor,Processor
+base256/provincial,Provinciaal
+base256/prowler,Sluiper
+base256/proximate,Nabij
+base256/puberty,Puberteit
+base256/publisher,Uitgever
+base256/pupil,Leerling
+base256/puppy,Puppy
+base256/pyramid,Piramide
+base256/python,Python
+base256/quadrant,Kwadrant
+base256/quantity,Hoeveelheid
+base256/quiver,Pijlkoker
+base256/quota,Quotum
+base256/racketeer,Gangster
+base256/ragtime,Ragtime
+base256/ratchet,Ratel
+base256/rebellion,Opstand
+base256/rebirth,Wedergeboorte
+base256/recipe,Recept
+base256/recover,Herstellen
+base256/reform,Hervorming
+base256/regain,Terugwinnen
+base256/reindeer,Rendier
+base256/rematch,Herkansing
+base256/recorded,Opgenomen
+base256/repay,Terugbetalen
+base256/repellent,Afstotend
+base256/replica,Replica
+base256/reproduce,Reproduceren
+base256/resistor,Weerstand
+base256/responsive,Responsief
+base256/retouch,Retoucheren
+base256/retraction,Intrekking
+base256/retrieval,Ophalen
+base256/retrospect,Terugblik
+base256/revenge,Wraak
+base256/revenue,Omzet
+base256/revival,Opleving
+base256/revolver,Revolver
+base256/reward,Beloning
+base256/rhythm,Ritme
+base256/ribcage,Ribbenkast
+base256/ringbolt,Ringbout
+base256/robust,Robuust
+base256/rocker,Schommelstoel
+base256/ruffled,Gekreukt
+base256/sailboat,Zeilboot
+base256/sandalwood,Sandelhout
+base256/sardonic,Sardonisch
+base256/savagery,Wreedheid
+base256/sawdust,Zaagsel
+base256/scallion,Sjalot
+base256/scavenger,Aaseter
+base256/scenic,Schilderachtig
+base256/scorecard,Scorekaart
+base256/seabird,Zeevogel
+base256/select,Selecteren
+base256/sensation,Sensatie
+base256/sentence,Zin
+base256/shadow,Schaduw
+base256/shamrock,Klavertje
+base256/showgirl,Showgirl
+base256/skullcap,Kalot
+base256/skydive,Parachutespringen
+base256/slingshot,Katapult
+base256/slowdown,Vertraging
+base256/snapline,Krijtlijn
+base256/snapshot,Momentopname
+base256/snowcap,Sneeuwkap
+base256/snowslide,Lawine
+base256/sociable,Gezellig
+base256/solo,Solo
+base256/southward,Zuidwaarts
+base256/souvenir,Souvenir
+base256/soybean,Sojaboon
+base256/spaniel,Spaniël
+base256/spearhead,Speerpunt
+base256/specialist,Specialist
+base256/speculate,Speculeren
+base256/spellbind,Betoveren
+base256/spheroid,Sferoïde
+base256/spigot,Kraan
+base256/spindle,Spil
+base256/spyglass,Verrekijker
+base256/stagehand,Toneelknecht
+base256/stagnate,Stagneren
+base256/stairway,Trap
+base256/standard,Standaard
+base256/stapler,Nietmachine
+base256/steamship,Stoomschip
+base256/sterling,Uitstekend
+base256/stethoscope,Stethoscoop
+base256/stockman,Veehouder
+base256/stopwatch,Stopwatch
+base256/stormy,Stormachtig
+base256/stupendous,Verbazingwekkend
+base256/sugar,Suiker
+base256/supportive,Ondersteunend
+base256/surmount,Overwinnen
+base256/surrender,Overgave
+base256/suspense,Spanning
+base256/suspicious,Verdacht
+base256/sweatband,Zweetband
+base256/swelter,Zwelgen
+base256/sympathy,Sympathie
+base256/tactics,Tactiek
+base256/talon,Klauw
+base256/tambourine,Tamboerijn
+base256/tapeworm,Lintworm
+base256/telephone,Telefoon
+base256/tempest,Storm
+base256/therapist,Therapeut
+base256/this,Dit
+base256/tiger,Tijger
+base256/tissue,Weefsel
+base256/tobacco,Tabak
+base256/tolerance,Tolerantie
+base256/tomorrow,Morgen
+base256/tonic,Tonic
+base256/topmost,Bovenste
+base256/torpedo,Torpedo
+base256/tracker,Tracker
+base256/tradition,Traditie
+base256/transit,Transit
+base256/trauma,Trauma
+base256/travesty,Parodie
+base256/treadmill,Loopband
+base256/trombonist,Trombonist
+base256/trouble,Problemen
+base256/truncated,Afgekapt
+base256/tumor,Tumor
+base256/tunnel,Tunnel
+base256/tycoon,Magnaat
+base256/typewriter,Typemachine
+base256/ultimate,Ultiem
+base256/uncut,Ongesneden
+base256/undaunted,Onverschrokken
+base256/underfoot,Onder de voet
+base256/unearth,Opgraven
+base256/unicorn,Eenhoorn
+base256/unify,Verenigen
+base256/universe,Universum
+base256/unravel,Ontrafelen
+base256/unwind,Ontspannen
+base256/upcoming,Aankomend
+base256/uproot,Ontwortelen
+base256/upset,Overstuur
+base256/upshot,Resultaat
+base256/vacancy,Vacature
+base256/vagabond,Zwerver
+base256/vapor,Damp
+base256/vertigo,Duizeling
+base256/village,Dorp
+base256/virus,Virus
+base256/visitor,Bezoeker
+base256/vocalist,Zanger
+base256/voyager,Reiziger
+base256/waffle,Wafel
+base256/wallet,Portemonnee
+base256/warranty,Garantie
+base256/watchword,Wachtwoord
+base256/wayside,Wegkant
+base256/whimsical,Grillig
+base256/willow,Wilg
+base256/woodlark,Boomleeuwerik
+base256/yesteryear,Vroeger
+features/agent_logged_in,Agent aangemeld.
+features/agent_logged_out,Agent afgemeld.
+features/agent_pause,Agent gepauzeerd.
+features/agent_toggle_error,Fout bij wijzigen agentstatus.
+features/agent_unpause,Agent beschikbaar.
+features/anonymous_call_disabled,Anoniem bellen uitgeschakeld.
+features/anonymous_call_enabled,Anoniem bellen ingeschakeld.
+features/authorization_code_invalid,Autorisatiecode ongeldig.
+features/authorization_code_saved,Autorisatiecode opgeslagen.
+features/blacklist_added_success,Nummer toegevoegd aan zwarte lijst.
+features/blacklist_enter_number,Voer het te blokkeren nummer in.
+features/blacklist_enter_number_remove,Voer het te deblokkeren nummer in.
+features/blacklist_error_duplicate,Dit nummer staat al op de zwarte lijst.
+features/blacklist_error_generic,Fout bij bewerking zwarte lijst.
+features/blacklist_error_invalid,Ongeldig nummer voor zwarte lijst.
+features/blacklist_last_success,Laatste beller toegevoegd aan zwarte lijst.
+features/blacklist_removed_success,Nummer verwijderd van zwarte lijst.
+features/call_flow_disabled,Oproepstroom uitgeschakeld.
+features/call_flow_enabled,Oproepstroom ingeschakeld.
+features/call_parked,Oproep geparkeerd.
+features/callback_invalid,Ongeldig terugbelverzoek.
+features/callback_scheduled,Terugbelverzoek gepland.
+features/callback_unavailable,Terugbeldienst niet beschikbaar.
+features/cache_list_failed,Cache lijst mislukt.
+features/cache_purge_failed,Cache wissen mislukt.
+features/cache_purged_successfully,Cache succesvol gewist.
+features/confirm_new_feature_password,Bevestig het nieuwe functiewachtwoord.
+features/conference_ended,Conferentie beëindigd.
+features/conference_invalid,Ongeldige conferentie.
+features/conference_max_participants,Maximum aantal deelnemers bereikt.
+features/conference_moderator_entry,U bent nu moderator.
+features/conference_recording,Deze conferentie wordt opgenomen.
+features/conference_wait_moderator,"Even geduld, de moderator is nog niet aangekomen."
+features/current-time-is,De huidige tijd is...
+features/customer_code_saved,Klantcode opgeslagen.
+features/demo-echotest,Demo echotest.
+features/dnd_disabled,Niet storen uitgeschakeld.
+features/dnd_enabled,Niet storen ingeschakeld.
+features/enter_authorization_code,Voer de autorisatiecode in.
+features/enter_current_feature_password,Voer het huidige functiewachtwoord in.
+features/enter_customer_code,Voer de klantcode in.
+features/enter_destination_number,Voer het bestemmingsnummer in.
+features/enter_extension_to_purge,Voer de extensie in om te wissen.
+features/enter_feature_password,Voer het functiewachtwoord in.
+features/enter_new_feature_password,Voer het nieuwe functiewachtwoord in.
+features/enter_password,Voer het wachtwoord in.
+features/enter_pin,Voer de PIN-code in.
+features/enter_queue,Voer het wachtrijnummer in.
+features/fallback_routing,Terugvalrouting geactiveerd.
+features/feature_activated,Functie geactiveerd.
+features/feature_not_allowed,Deze functie is niet toegestaan.
+features/feature_not_available,Deze dienst is momenteel niet beschikbaar.
+features/feature_password_mismatch,Wachtwoorden komen niet overeen.
+features/feature_password_updated_successfully,Functiewachtwoord succesvol bijgewerkt.
+features/features_password_ok,Functiewachtwoord correct.
+features/features_password_prompt,Voer uw functiewachtwoord in.
+features/features_password_wrong,Functiewachtwoord onjuist.
+features/holiday_closure,We zijn momenteel gesloten voor vakantie. Bel terug tijdens kantooruren.
+features/hotdesk_login,"Voer uw toestelnummer in om te beginnen met hotdesking, gevolgd door de hekjetoets."
+features/hotdesk_login_required,Log in voordat u kunt bellen.
+features/hotdesk_logout,U bent uitgelogd van dit apparaat.
+features/hotdesk_success,U bent nu ingelogd op dit apparaat.
+features/im-sorry,"Sorry, dat was geen geldig nummer."
+features/incorrect_current_feature_password,Het ingevoerde functiewachtwoord is onjuist.
+features/invalid_entry,Ongeldige invoer.
+features/invalid_feature_code,Ongeldige optie. Probeer opnieuw.
+features/invalid_feature_password,U heeft geen geldig functiewachtwoord ingevoerd.
+features/invalid_password,Ongeldig wachtwoord.
+features/invalid_pin,De ingevoerde PIN is ongeldig.
+features/invalid_park_slot,De gevraagde parkeerplaats is niet geldig.
+features/ivr-test-goodbye,Bedankt voor uw oproep naar de Ring2All Test IVR. Tot ziens.
+features/ivr-test-instructions,"Om de huidige tijd te horen, druk op 1. Voor een echo test, druk op 2. Voor wachtmuziek, druk op 3."
+features/ivr-test-invalid,De ingevoerde selectie is niet geldig. Probeer het opnieuw.
+features/ivr-test-welcome,Welkom bij de Ring2All Test IVR.
+features/night_mode_disabled,Globale nachtmodus is nu uitgeschakeld.
+features/night_mode_enabled,Globale nachtmodus is nu ingeschakeld.
+features/no_available_parking,Er zijn geen beschikbare parkeerplaatsen.
+features/paging_group_invalid,De gekozen pagineringsgroep is niet beschikbaar.
+features/paging_not_allowed,U bent niet bevoegd om toegang te krijgen tot deze pagineringsgroep.
+features/phone_locked,Uw telefoon is nu vergrendeld.
+features/phone_unlocked,Uw telefoon is nu ontgrendeld.
+features/pickup_group_empty,Er zijn geen inkomende oproepen om op te nemen.
+features/pickup_not_allowed,U bent niet bevoegd om oproepen voor deze groep op te nemen.
+features/promo_april2025,Geniet deze maand van 20% korting op alle abonnementen. Vraag onze agent om details.
+features/queue_added,Toegevoegd aan de wachtrij.
+features/queue_enter_queue,Voer het wachtrij nummer in.
+features/queue_error,Wachtrij fout.
+features/queue_final_exit,Bedankt voor het wachten. Tot ziens.
+features/queue_invalid,Ongeldige wachtrij.
+features/queue_join_welcome,Welkom in de wachtrij.
+features/queue_no_agents_available,Momenteel zijn er geen agenten beschikbaar.
+features/queue_periodic_announcement,Bedankt voor het wachten. Een agent helpt u zo snel mogelijk.
+features/queue_position_number,U bent nummer...
+features/queue_position_suffix,...in de wachtrij.
+features/queue_removed,Verwijderd uit de wachtrij.
+features/queue_wait_prefix,De geschatte wachttijd is...
+features/queue_wait_suffix,...minuten.
+features/reminder_enter_time,Voer de herinneringstijd in.
+features/reminder_error,Er is een fout opgetreden bij het instellen van de herinnering.
+features/reminder_record_message,Neem uw herinneringsbericht op na de toon.
+features/reminder_saved,Uw herinnering is opgeslagen.
+features/remote_wakeup_enter_ext,Voer het toestelnummer in voor de wekoproep.
+features/remote_wakeup_enter_time,Voer de wektijd in.
+features/remote_wakeup_error,Er is een fout opgetreden bij het instellen van de wekoproep.
+features/remote_wakeup_scheduled,Uw wekoproep is gepland.
+features/select_cache_type,"Druk op 1 om de extensiecache te wissen, 2 voor het kiesplan of 3 voor SIP-profielen."
+features/sim-incoming-call-did,Voer het bestemmingsnummer in.
+features/sim-incoming-cid,Voer een beller-ID nummer in als u dit wilt wijzigen.
+features/speak_last_call_prompt,"Om dit nummer terug te bellen, druk op 1, anders hang op."
+features/speak_last_not_found,Geen recente beller gevonden.
+features/speed_dial_invalid,De snelkeuze code is ongeldig.
+features/speed_dial_not_found,Geen nummer gevonden voor deze snelkeuze code.
+features/speed_dial_set,Uw snelkeuze invoer is opgeslagen.
+features/status_dnd_enabled,De extensie die u belt is momenteel niet beschikbaar.
+features/voicemail_goodbye,Tot ziens.
+features/voicemail_welcome,Welkom bij uw voicemail.
+features/wakeup_cancel_success,Wekker geannuleerd.
+features/wakeup_enter_time,Voer de wektijd in.
+features/wakeup_error_generic,Wekker fout.
+features/wakeup_error_invalid,Ongeldige wektijd.
+features/wakeup_scheduled,Wekker ingesteld.
+features/wrong_password,Verkeerd wachtwoord.
+features/your_extension_is,Uw extensie is...
+features/queue_callback_option,"Om teruggebeld te worden, druk 1."
+features/queue_callback_confirm,U heeft een terugbelverzoek ingediend.
+features/queue_callback_enter_number,Voer uw terugbelnummer in.
+features/queue_callback_invalid_number,Het ingevoerde nummer is ongeldig. Probeer opnieuw.
+features/queue_callback_thanks,Dank u. We bellen u zo snel mogelijk terug. Tot ziens.
+features/queue_callback_announcement,Dit is uw gevraagde terugbelgesprek. Even geduld terwijl we u verbinden.
+features/callback_rate_limit,U heeft het maximum aantal terugbelverzoeken bereikt. Probeer later opnieuw.
+voicemail/vm-mark_urgent,om dit bericht als dringend te markeren
+voicemail/vm-not_avaliable,is niet bereikbaar
+ivr/ivr-begin_recording.wav ,Begin met opnemen.
+ivr/ivr-files-,...bestanden...
+ivr/ivr-Thank_you,Bedankt.
+ivr/ivr-youre_number_one,U bent beller nummer 1. Uiteraard is *elke* beller nummer 1 bij ons dus het kan best dat u nog een tijdje moet wachten.
+ivr/conf-number_of_listeners,"Geef het aantal luisteraars op, gevolgd door een hekje."
+ivr/conf-listeners_in_conference,...luisteraars in deze conferentie.
+ivr/conf-members_in_conference,...leden in deze conferentie.

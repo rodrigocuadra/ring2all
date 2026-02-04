@@ -1,0 +1,1371 @@
+Path/Name,Phrase
+ascii/32,Espacio
+ascii/35,Signo de número
+ascii/42,Asterisco
+ascii/46,Punto
+ascii/45,Guión
+ascii/33,Signo de exclamación
+ascii/64,Arroba
+ascii/36,Signo de dólar
+ascii/37,Porcentaje
+ascii/38,Ampersand
+ascii/34,Comillas dobles
+ascii/39,Comilla simple
+ascii/47,Barra diagonal
+ascii/95,Guión bajo
+ascii/92,Barra invertida
+ascii/126,Tilde
+ascii/61,Signo igual
+ascii/58,Dos puntos
+ascii/59,Punto y coma
+ascii/94,Acento circunflejo
+ascii/124,Barra vertical
+ascii/43,Más
+ascii/40,Paréntesis abierto
+ascii/41,Paréntesis cerrado
+ascii/123,Llave abierta
+ascii/125,Llave cerrada
+ascii/91,Corchete abierto
+ascii/93,Corchete cerrado
+ascii/44,Coma
+ascii/96,Acento grave
+ascii/60,Signo menor que
+ascii/62,Signo mayor que
+ascii/97,A
+ascii/98,B
+ascii/99,C
+ascii/100,D
+ascii/101,E
+ascii/102,F
+ascii/103,G
+ascii/104,H
+ascii/105,I
+ascii/106,J
+ascii/107,K
+ascii/108,L
+ascii/109,M
+ascii/110,N
+ascii/111,O
+ascii/112,P
+ascii/113,Q
+ascii/114,R
+ascii/115,S
+ascii/116,T
+ascii/117,U
+ascii/118,V
+ascii/119,W
+ascii/120,X
+ascii/121,Y
+ascii/122,Z
+ascii/165,Ñ
+phonetic-ascii/32,Espacio
+phonetic-ascii/46,Punto
+phonetic-ascii/97,Alpha
+phonetic-ascii/98,Bravo
+phonetic-ascii/99,Charlie
+phonetic-ascii/100,Delta
+phonetic-ascii/101,Echo
+phonetic-ascii/102,Foxtrot
+phonetic-ascii/103,Golf
+phonetic-ascii/104,Hotel
+phonetic-ascii/105,India
+phonetic-ascii/106,Juliet
+phonetic-ascii/107,Kilo
+phonetic-ascii/108,Lima
+phonetic-ascii/109,Mike
+phonetic-ascii/110,November
+phonetic-ascii/111,Oscar
+phonetic-ascii/112,Papa
+phonetic-ascii/113,Quebec
+phonetic-ascii/114,Romeo
+phonetic-ascii/115,Sierra
+phonetic-ascii/116,Tango
+phonetic-ascii/117,Unifor
+phonetic-ascii/118,Victor
+phonetic-ascii/119,Whiskey
+phonetic-ascii/120,Xray
+phonetic-ascii/121,Yankee
+phonetic-ascii/122,Zulu
+phonetic-ascii/42,Asterisco
+phonetic-ascii/35,Signo de número
+digits/0,Cero
+digits/1,Uno
+digits/un,Un
+digits/2,Dos
+digits/3,Tres
+digits/4,Cuatro
+digits/5,Cinco
+digits/6,Seis
+digits/7,Siete
+digits/8,Ocho
+digits/9,Nueve
+digits/10,Diez
+digits/11,Once
+digits/12,Doce
+digits/13,Trece
+digits/14,Catorce
+digits/15,Quince
+digits/16,Dieciséis
+digits/17,Diecisiete
+digits/18,Dieciocho
+digits/19,Diecinueve
+digits/20,Veinte
+digits/30,Treinta
+digits/40,Cuarenta
+digits/50,Cincuenta
+digits/60,Sesenta
+digits/70,Setenta
+digits/80,Ochenta
+digits/90,Noventa
+digits/dot,Punto
+digits/h-1,Primero
+digits/h-2,Segundo
+digits/h-3,Tercero
+digits/h-4,Cuarto
+digits/h-5,Quinto
+digits/h-6,Sexto
+digits/h-7,Séptimo
+digits/h-8,Octavo
+digits/h-9,Noveno
+digits/h-10,Décimo
+digits/h-11,Undécimo
+digits/h-12,Duodécimo
+digits/h-13,Decimotercero
+digits/h-14,Decimocuarto
+digits/h-15,Decimoquinto
+digits/h-16,Decimosexto
+digits/h-17,Decimoséptimo
+digits/h-18,Decimoctavo
+digits/h-19,Decimonoveno
+digits/h-20,Vigésimo
+digits/veinti,Veinti
+digits/h-30,Trigésimo
+digits/100,Cien
+digits/500,Quinientos
+digits/700,Setecientos
+digits/900,Novecientos
+digits/hundred,Ciento
+digits/hundreds,Cientos
+digits/thousand,Mil
+digits/million,Millón
+digits/millions,Millones
+digits/period,Período
+digits/point,Punto
+digits/pound,Signo de número
+digits/star,Asterisco
+currency/and,Y
+currency/cent,Centavo
+currency/central,Central
+currency/cents-per-minute,Centavos por minuto
+currency/cents,Centavos
+currency/dollar,Dólar
+currency/dollars,Dólares
+currency/minus,Menos
+currency/negative,Negativo
+time/a-m,A.M.
+time/at,A
+time/of,de
+time/day-0,Domingo
+time/day-1,Lunes
+time/day-2,Martes
+time/day-3,Miércoles
+time/day-4,Jueves
+time/day-5,Viernes
+time/day-6,Sábado
+time/hour,Hora
+time/hours,Horas
+time/minute,Minuto
+time/minutes,Minutos
+time/second,Segundo
+time/seconds,Segundos
+time/mon-0,Enero
+time/mon-1,Febrero
+time/mon-2,Marzo
+time/mon-3,Abril
+time/mon-4,Mayo
+time/mon-5,Junio
+time/mon-6,Julio
+time/mon-7,Agosto
+time/mon-8,Septiembre
+time/mon-9,Octubre
+time/mon-10,Noviembre
+time/mon-11,Diciembre
+time/oclock,En punto
+time/oh,oh
+time/p-m,P.M.
+time/today,Hoy
+time/tomorrow,Mañana
+time/yesterday,Ayer
+voicemail/vm-person,La persona en la extensión...
+voicemail/vm-marked-urgent,Marcado urgente.
+voicemail/vm-marked_new,marcado nuevo
+voicemail/vm-emailed,Mandado por correo electrónico.
+voicemail/vm-you_have,Usted tiene...
+voicemail/vm-from,de
+voicemail/vm-enter_id,"Por favor ingrese su número de usuario, seguido por..."
+voicemail/vm-enter_pass,"Por favor ingrese su contraseña, seguido por..."
+voicemail/vm-fail_auth,Inicio de sesión incorrecto.
+voicemail/vm-hello,Bienvenido a su buzon de voz.
+voicemail/vm-goodbye,Adiós.
+voicemail/vm-record_name1,"Después del tono, por favor anote su nombre, pulse cualquier tecla o deje de hablar para poner fin a la grabación."
+voicemail/vm-choose_greeting_choose,Elija un saludo entre 1 y 9.
+voicemail/vm-choose_greeting_fail,Valor inválido.
+voicemail/vm-abort,Demasiados intentos fallidos.
+voicemail/vm-change_password,Para cambiar su clave.
+voicemail/vm-record_greeting,Para guardar un saludo...
+voicemail/vm-record_message,"Grabe su mensaje después del tono, pulse cualquier tecla o deje de hablar para poner fin a la grabación"
+voicemail/vm-play_greeting,...no está disponible.
+voicemail/vm-urgent-new,Urgente nuevo
+voicemail/vm-new,Nuevo
+voicemail/vm-urgent-saved,Urgente guardado
+voicemail/vm-saved,Guardado
+voicemail/vm-message,Mensaje
+voicemail/vm-message_alt,mensaje
+voicemail/vm-messages,Mensajes
+voicemail/vm-messages_alt,mensajes
+voicemail/vm-no_more_messages,No hay más mensajes.
+voicemail/vm-repeat_message,Para repetir este mensaje...
+voicemail/vm-delete_message,Para borrar este mensaje...
+voicemail/vm-save_message,Para guardar este mensaje...
+voicemail/vm-play_next_message,Para escuchar el mensaje siguiente...
+voicemail/vm-play_previous_message,Para escuchar el mensaje previo...
+voicemail/vm-undelete_message,Para recuperar este mensaje...
+voicemail/vm-send_message_now,Para mandar este mensaje ahora...
+voicemail/vm-message_envelope,Para escuchar el encabezado del mensaje...
+voicemail/vm-has_been_changed_to,...ha sido cambiado a...
+voicemail/vm-press,Presione
+voicemail/vm-received,recibido
+voicemail/vm-followed_by,...seguido de...
+voicemail/vm-that_was_an_invalid_ext,Esa fue una extensión inválida.
+voicemail/vm-undeleted,recuperado
+voicemail/vm-followed_by_pound,...seguido de almohadilla.
+voicemail/vm-next,siguiente
+voicemail/vm-listen_new,Para escuchar mensajes nuevos...
+voicemail/vm-listen_saved,Para escuchar mensajes guardados...
+voicemail/vm-advanced,Para opciones avanzadas...
+voicemail/vm-advanced_alt,para opciones avanzadas
+voicemail/vm-to_exit,Para salir...
+voicemail/vm-to_exit_alt,para salir
+voicemail/vm-to_record_greeting,Para grabar un saludo...
+voicemail/vm-choose_greeting,Para elegir un saludo...
+voicemail/vm-record_name2,Para grabar su nombre...
+voicemail/vm-main_menu,Para el menú principal...
+voicemail/vm-listen_to_recording,Para escuchar la grabación...
+voicemail/vm-save_recording,Para guardar la grabación...
+voicemail/vm-rerecord,Para regrabar...
+voicemail/vm-mark-urgent,Para marcar este mensaje como urgente...
+voicemail/vm-mark_message_new,Para marcar este mensaje como nuevo...
+voicemail/vm-continue,Para continuar...
+voicemail/vm-listen_to_recording_again,Para escuchar la grabación de nuevo...
+voicemail/vm-delete_recording,Para eliminar la grabación...
+voicemail/vm-forward_to_email,Para enviar la grabación a su e-mail...
+voicemail/vm-to_forward,Para remandar este mensaje...
+voicemail/vm-forward_enter_ext,"Por favor, introduzca la extensión de destino para remandar este mensaje."
+voicemail/vm-forward_add_intro,Para añadir una introducción a este mensaje...
+voicemail/vm-greeting,Saludo
+voicemail/vm-selected,Seleccionado
+voicemail/vm-not_available,...no está disponible.
+voicemail/vm-message_number,Mensaje número...
+voicemail/vm-deleted,Eliminado
+voicemail/vm-too-small,"Su grabación es demasiado corta, por favor intente de nuevo."
+voicemail/vm-in_folder,...en la bandeja de entrada.
+voicemail/vm-return_call,Para devolver la llamada...
+voicemail/vm-urgent,Urgente
+voicemail/vm-mailbox_full,Este buzón está lleno. Por favor intente llamar mas tarde.
+voicemail/vm-tutorial_yes_no,"Bienvenido a su nuevo buzón de voz. Para escuchar el tutorial y configurar su buzón, pulse 1. Para saltarlo pulse 2."
+voicemail/vm-tutorial_record_name,Necesito grabar su nombre y apellido. Esta grabación se usará entre otros en el servicio de directorio.
+voicemail/vm-tutorial_change_pin,Su número de identificación personal o PIN sirve para impedir a terceros el acceso a sus mensajes. ¿Desea cambiar su PIN ahora?
+voicemail/vm-not_available_no_voicemail,La persona con la que intenta hablar no está disponible y no tiene buzón de voz.
+voicemail/vm-pin_below_minimum_length,El PIN que ingresó está por debajo de la longitud mínima.
+voicemail/vm-minimum_pin_length_is,La longitud mínima del PIN es...
+voicemail/vm-password_has_been_changed,Su contraseña ha sido cambiada.
+voicemail/vm-enter_new_pin,"Por favor ingrese su nueva contraseña, luego presione la tecla numeral."
+voicemail/vm-password_not_valid,La contraseña que ingresó no es válida en este sistema.
+voicemail/vm-password_is_not_secure,Una contraseña como '1111' o '1234' no es segura.
+voicemail/vm-choose_password,Por favor elija una contraseña que no contenga dígitos repetidos o consecutivos.
+voicemail/vm-voicemail_password_is_web_password,Recuerde que su contraseña de buzón de voz también es su contraseña de la interfaz web.
+voicemail/vm-message_from,Mensaje de...
+voicemail/vm-nobody_leaving_message,Nadie está dejando un mensaje en este buzón de voz actualmente.
+voicemail/vm-last,último
+voicemail/vm-delete_greeting,Para eliminar el saludo
+voicemail/vm-listen_to_greeting,Para escuchar el saludo...
+voicemail/vm-main_menu_alt,Para el menú principal...
+voicemail/vm-message_forwarded,mensaje reenviado
+voicemail/vm-no_answer_no_vm,La extensión que marcó no contesta y no tiene buzón de voz configurado.
+directory/dir-enter_person,Por favor ingrese las primeras letras del nombre buscado.
+directory/dir-last_name,...apellido...
+directory/dir-to_search_by,Para buscar por...
+directory/dir-first_name,...nombre...
+directory/dir-no_matching_results,No hay resultados que coincidan con su búsqueda.
+directory/dir-result_match,...resultados coinciden con su búsqueda.
+directory/dir-too_many_result,Su búsqueda genera demasiados resultados.
+directory/dir-no_more_results,No hay más resultados.
+directory/dir-result_number,Resultado número...
+directory/dir-at_extension,...en la extensión...
+directory/dir-to_select_entry,Para seleccionar este resultado...
+directory/dir-for_next,Para el resultado siguiente...
+directory/dir-for_prev,Para el resultado previo...
+directory/dir-start_new_search,Para empezar una nueva búsqueda...
+directory/dir-specify_mininum,Necesita especificar un mínimo de...
+directory/dir-letters_of_person_name,...letras del nombre buscado.
+directory/dir-please_try_again,Por favor intentelo de nuevo.
+directory/dir-press,Pulse...
+directory/dir-for_next,Para el resultado siguiente...
+directory/dir-enter_person_first_or_last,Por favor ingrese las primeras letras del nombre o apellido de la persona.
+directory/dir-enter-person,Por favor ingrese las primeras letras del
+directory/dir-no_match_entry,"Su búsqueda no obtuvo resultados, intente de nuevo."
+directory/dir-no_more_result,No hay más resultados
+directory/dir-specify_mininum_first,Necesita especificar un mínimo de...
+directory/dir-to_make_new_search,Para iniciar una nueva búsqueda
+directory/dir-to_many_result,"Su búsqueda obtuvo demasiados resultados, por favor intente de nuevo."
+conference/conf-ack,NULL
+conference/conf-nack,NULL
+conference/conf-muted,Usted ahora está silenciado.
+conference/conf-unmuted,Usted ya no está silenciado.
+conference/conf-alone,En este momento usted es la única persona en la conferencia.
+conference/conf-perpetual,NULL
+conference/conf-enter,NULL
+conference/conf-exit,NULL
+conference/conf-kicked,Usted ha sido expulsado de la conferencia.
+conference/conf-locked,Esta conferencia está bloqueada.
+conference/conf-is-locked,La conferencia está ahora bloqueada.
+conference/conf-is-unlocked,La conferencia está ahora desbloqueada.
+conference/conf-pin,Por favor ingrese el PIN de la conferencia.
+conference/conf-bad-pin,"PIN inválido, intente de nuevo."
+conference/conf-goodbye,Hasta luego.
+conference/conf-welcome,Bienvenido a la conferencia.
+conference/conf-enter_conf_number,"Por favor ingrese el número de conferencia, seguido del signo de número."
+conference/conf-enter_conf_pin,"Ingrese el PIN de la conferencia, seguido del signo de número."
+conference/conf-has_joined,...se incorporó a la conferencia.
+conference/conf-has_left,...ha abandonado la conferencia.
+conference/conf-you_are_already_muted,Su llamada ya está silenciada.
+conference/conf-you_are_now_bidirectionally_muted,Su llamada ha sido silenciada en ambos sentidos.
+conference/conf-number_of_listeners,"Ingrese el número de oyentes en esta ubicación, luego presione numeral."
+conference/conf-listeners_in_conference,...oyentes en esta conferencia.
+conference/conf-listener_in_conference,...oyente en esta conferencia.
+conference/conf-members_in_conference,...miembros en esta conferencia.
+conference/conf-conference_is_in_qna_mode,Esta conferencia está en modo de preguntas y respuestas.
+conference/conf-qna_mode,Modo de preguntas y respuestas...
+conference/conf-entry_sound,Sonido de entrada...
+conference/conf-exit_sound,Sonido de salida...
+conference/conf-conference_is_full,Esta conferencia está llena. Por favor contacte al moderador.
+conference/conf-conference_will_start_shortly,Su conferencia comenzará en breve. Por favor permanezca en la línea.
+conference/conf-other_persons_conference,...otras personas en esta conferencia.
+conference/conf-one_other_person_conference,Hay otra persona en esta conferencia.
+conference/conf-one_other_member_conference,Hay otro miembro en esta conferencia.
+conference/conf-being_recorded,Esta conferencia está siendo grabada.
+conference/conf-no_longer_being_recorded,Esta conferencia ya no está siendo grabada.
+ivr/ivr-account_number,Número de cuenta
+ivr/ivr-connect_to_caller,Conectar con quien llama
+ivr/ivr-enter_ext_pound,"Si conoce la extensión, por favor ingrésela ahora"
+ivr/ivr-enter_ext,por favor ingrese el número de una extensión seguido del signo de número
+ivr/ivr-for_this_person,Para esta persona...
+ivr/ivr-hold_connect_call,Por favor espere mientras conecto su llamada.
+ivr/ivr-im_sorry,Lo siento...
+ivr/ivr-please,Por favor...
+ivr/ivr-please_return_our_call_at,Por favor devuelva nuestra llamada al...
+ivr/ivr-regarding_reference_number,Acerca del número de referencia
+ivr/ivr-sample_submenu,Este es un ejemplo de un submenú de audio respuesta...
+ivr/ivr-say_name,Por favor diga su nombre después del tono.
+ivr/ivr-send_to_voicemail,Enviar a esta persona que llama al buzón de voz.
+ivr/ivr-speak_to_a_customer_service_representative,Para hablar con un representante de servicio al cliente...
+ivr/ivr-take_a_message,Tomar un mensaje
+ivr/ivr-that_was_an_invalid_entry,Esa fue una entrada inválida.
+ivr/ivr-this_is_a_call_from,Esta es una llamada de...
+ivr/ivr-this_ivr_will_let_you_test_features,Este menú de audiorrespuesta le permitirá probar algunas de las características...
+ivr/ivr-to_call_the_freeswitch_conference,Para llamar a la conferencia de FreeSWITCH...
+ivr/ivr-to_do_a_freeswitch_echo_test,Para hacer una prueba de eco de FreeSWITCH...
+ivr/ivr-to_do_a_fwd_echo_test,Para hacer una prueba de eco de FWD...
+ivr/ivr-to_hear_sample_submenu,Para escuchar un ejemplo de un submenú de audio respuesta...
+ivr/ivr-to_hear_screaming_monkeys,Para escuchar simios gritando...
+ivr/ivr-to_listen_to_moh,Para escuchar música de llamada en espera...
+ivr/ivr-to_repeat_these_options,Para repetir estas opciones...
+ivr/ivr-to_return_to_previous_menu,Para regresar al menú anterior...
+ivr/ivr-to_speak_with_an_operator,Para hablar con un operador...
+ivr/ivr-welcome_to_freeswitch,"Bienvenido a FreeSWITCH, el futuro de la telefonía."
+ivr/ivr-you_may_exit_by_hanging_up,Usted puede colgar en cualquier momento para salir.
+ivr/ivr-or,O
+ivr/ivr-not,No
+ivr/ivr-call,Llamar
+ivr/ivr-you_may,Usted puede...
+ivr/ivr-hello,Hola
+ivr/ivr-use_telephone_keypad,Usando el teclado de su teléfono...
+ivr/ivr-spell_name,por favor deletree el nombre de la persona a la cual está intentando contactar.
+ivr/ivr-last_name_first,Primero el apellido
+ivr/ivr-first_name_first,Primero el nombre
+ivr/ivr-press_one_q_or_z,Presione 1 para Q ó Z.
+ivr/ivr-sales,Ventas
+ivr/ivr-customer_service,Servicio al cliente
+ivr/ivr-technical_support,Soporte técnico
+ivr/ivr-operator,Operador
+ivr/ivr-you_have_dialed_an_invalid_extension,Usted marcó una extensión inválida.
+ivr/ivr-please_enter_extension_followed_by_pound,"Por favor ingrese su número de extensión, seguido del signo de número."
+ivr/ivr-please_enter_pin_followed_by_pound,"Por favor ingrese su contraseña, seguido del signo de número."
+ivr/ivr-pin_or_extension_is-invalid,Su contraseña o extensión es inválida.
+ivr/ivr-you_are_about_to_provision_this_phone,Usted esta a punto de asociar este teléfono a su cuenta...
+ivr/ivr-please_reenter_your_pin,Por favor vuelva a introducir su contraseña para confirmar.
+ivr/ivr-register_for_cluecon,"Para registrarse en ClueCon, por favor pulse..."
+ivr/ivr-to_log_in,Para conectarse...
+ivr/ivr-to_log_out,Para desconectarse...
+ivr/ivr-you_are_now_logged_in,Usted está ahora conectado.
+ivr/ivr-you_are_now_logged_out,Usted está ahora desconectado.
+ivr/ivr-please_try_again,Por favor intentelo de nuevo.
+ivr/ivr-provision_phone_permanently_to_extension,Usted está a punto de asociar este teléfono a su cuenta de forma permanente.
+ivr/ivr-extension_to_provision_this_phone,"Por favor ingrese su número de extensión con la cual desea asociar su teléfono, seguido del signo de número."
+ivr/ivr-this_phone_will_now_reboot,"Gracias, este teléfono va a reiniciarse ahora."
+ivr/ivr-recording_saved,"Gracias, su grabación ha sido guardada."
+ivr/ivr-save_review_record,Pulse 1 para guardar su grabación. Pulse 2 para escuchar su grabación. Pulse 3 para volver a grabar.
+ivr/ivr-unable_save,"En este momento, el sistema no puede guardar su fichero de audio. Por favor intentelo de nuevo."
+ivr/ivr-you_are_number,Usted está en la posición...
+ivr/ivr-in_line,...en la cola de espera.
+ivr/ivr-thank_you_for_holding,Gracias por permanecer en espera.
+ivr/ivr-estimated_hold_time,El tiempo estimado de espera es...
+ivr/ivr-more_than,Más de...
+ivr/ivr-less_than,Menos de...
+ivr/ivr-begin_recording,Empiece a grabar.
+ivr/ivr-call_forwarding_has_been_cancelled,El desvío de llamada ha sido desactivado.
+ivr/ivr-call_forwarding_has_been_set,El desvío de llamada ha sido activado.
+ivr/ivr-please_enter_the_phone_number,Por favor ingrese el número de teléfono.
+ivr/ivr-please_state_your_name_and_reason_for_calling,"Por favor diga su nombre, y la razón de la llamada."
+ivr/ivr-accept_reject_voicemail,"Para aceptar, pulse 1. Para rechazar, pulse 2. Para mandar a buzón de voz, pulse 3."
+ivr/ivr-accept_reject,"Para aceptar, pulse 1. Para rechazar, pulse 2."
+ivr/ivr-to_accept_press_one,"Para aceptar, pulse 1."
+ivr/ivr-incoming_call,Llamada entrante.
+ivr/ivr-thank_you_for_calling,Gracias por llamar.
+ivr/ivr-stay_on_line_call_answered_momentarily,Por favor manténgase a la espera. Su llamada será atendida en un momento.
+ivr/ivr-call_being_transferred,Su llamada está siendo procesada.
+ivr/ivr-enjoy_music_while_transfer,Por favor disfrute de la música mientras su llamada está siendo procesada...
+ivr/ivr-call_from,Usted tiene una llamada de...
+ivr/ivr-no_menu_items,Este menú no tiene entradas. Por favor contacte con el administrador.
+ivr/ivr-for_directory_press,"Para el servicio de directorio, pulse..."
+ivr/ivr-using_telephone_keypad,Usando las teclas de su teléfono...
+ivr/ivr-enter_letters_last_name,Ingrese las primeras letras del apellido de la persona.
+ivr/ivr-enter_letters_first_name,Ingrese las primeras letras del nombre de la persona.
+ivr/ivr-enter_letters_first_or_last_name,Ingrese las primeras letras del nombre o apellido de la persona.
+ivr/ivr-if_correct_press,"Si es correcto, pulse..."
+ivr/ivr-if_not_press,"Sino, pulse..."
+ivr/ivr-finished_pound_hash_key,"Cuando termine, pulse el signo de número."
+ivr/ivr-dnd_activated,La función de No Molestar ha sido activada.
+ivr/ivr-dnd_cancelled,La función de No Molestar ha sido desactivada.
+ivr/ivr-any_other_digit,Pulse cualquier otro dígito...
+ivr/ivr-one_yes_two_no,Pulse uno si su respuesta es sí. Pulse dos si su respuesta es no.
+ivr/ivr-enter_queue_number,"Por favor ingrese el número de la cola, seguido del signo de número."
+ivr/ivr-please_enter_the,Por favor ingrese el...
+ivr/ivr-number,Número.
+ivr/ivr-followed_by_pound,...seguido del signo de número.
+ivr/ivr-account_balance_is,El balance de la cuenta es...
+ivr/ivr-file,...fichero...
+ivr/ivr-files,...ficheros...
+ivr/ivr-for_a_wakeup_call,Para una llamada de despertador...
+ivr/ivr-this_is_your_wakeup_call,Este es el servicio de despertador.
+ivr/ivr-request_wakeup_call,Para solicitar una llamada de despertador...
+ivr/ivr-confirm_wakeup_call,Para confirmar la llamada de despertador...
+ivr/ivr-cancel_wakeup_call,Para anular la llamada de despertador...
+ivr/ivr-requested_wakeup_call_for,Usted ha solicitado una llamada de despertador para...
+ivr/ivr-not_requested_wakeup_call,Usted no ha solicitado llamadas de despertador.
+ivr/ivr-wakeup_call_cancelled,Su llamada de despertador ha sido anulada.
+ivr/ivr-for_daily_wakeup_call,Para una llamada diaria de despertador...
+ivr/ivr-daily_wakeup_call,Llamada diaria de despertador...
+ivr/ivr-for_daily_wakeup_calls,Para llamadas diarias de despertador...
+ivr/ivr-for_one_time_wakeup_call,Para una llamada de despertador única...
+ivr/ivr-one_time_wakeup_call,Llamada de despertador única...
+ivr/ivr-wakeup_call,...llamada de despertador...
+ivr/ivr-wakey_wakey_sunshine,"¡Vamos, despierta cielo!"
+ivr/ivr-welcome,Bienvenido.
+ivr/ivr-welcome_to,Bienvenido a...
+ivr/ivr-good_morning,Buenos días.
+ivr/ivr-good_afternoon,Buenas tardes.
+ivr/ivr-good_evening,Buenas noches.
+ivr/ivr-thank_you,Gracias
+ivr/ivr-for,Para...
+ivr/ivr-longer_than_usual_hold_times,El tiempo de espera esta siendo anormalmente elevado.
+ivr/ivr-you_are_the,Usted es el...
+ivr/ivr-one_moment_please,Un momento por favor.
+ivr/ivr-call_answered_order_received,Su llamada será atendida según el orden de entrada.
+ivr/ivr-you_entered,Usted entró...
+ivr/ivr-extension_number,Número de extensión...
+ivr/ivr-please_hold_while_party_contacted,Por favor manténgase a la espera mientras contactamos con su destino.
+ivr/ivr-please_enjoy_music_while_party_reached,Por favor disfrute de la música mientras le conectamos con su destino.
+ivr/ivr-generic_greeting,"Gracias por llamar. Si conoce la extensión de su destino, por favor márquela ahora, o marque nueve para el servicio de directorio."
+ivr/ivr-if_correct_one_if_not_two,"Si es correcto, pulse 1. Sino, pulse 2."
+ivr/ivr-repeat_this_information,Para repetir esta información...
+ivr/ivr-no_no_no,¡No no no!
+ivr/ivr-did_you_mean_to_press_key,¿Era su intención pulsar esta tecla?
+ivr/ivr-seriously_mean_to_press_key,¿Pensaba Usted DE VERDAD pulsar esta tecla?
+ivr/ivr-oh_whatever,Oh DA IGUAL.
+ivr/ivr-one_more_mistake,¡No más! Un error más y le colgaré a la cara.
+ivr/ivr-congratulations_you_pressed_star,¡Felicitaciones! Ha pulsado estrella. Esto no significa que ES una estrella. Tan solo significa que puede pulsar teclas y probablemente tiene dedos.
+ivr/ivr-engineers_busy_assisting_other_sales,Todos nuestros ingenieros están ocupados en demostrar lo impresionante que es el CudaTel.
+ivr/ivr-message_self_destruct,"Este mensaje se auto-destruirá en 5, 4, 3, 2, 1..."
+ivr/ivr-all_your_call_are_belong_to_us,Todas sus llamadas nos pertenecen.
+ivr/ivr-love_those_touch_tones,¡Me encanta como está pulsando estas teclas!
+ivr/ivr-yes_we_have_no_bananas,"No, no tenemos bananas."
+ivr/ivr-dude_you_suck,"¡Hombre, estas siendo ridículo!"
+ivr/ivr-on_hold_indefinitely,"Su llamada es muy importante para nosotros, pero su bienestar mental no lo es, asi que estamos felices de mantenerle a la espera, torturandole indefinidamente con nuestra péssima música en espera."
+ivr/ivr-has_left_the_building,...ha dejado el edificio.
+ivr/ivr-phone_is_unassigned,Este teléfono no está asignado y no puede ser usado para realizar llamadas externas.
+ivr/ivr-phone_not_configured,Este teléfono no está configurado correctamente.
+ivr/ivr-phone_is_configured_properly,¡Felicitaciones! Este teléfono está configurado correctamente y puede ahora ser asociado a un usuario.
+ivr/ivr-contact_system_administrator,Por favor contacte con el administrador del sistema para obtener asistencia.
+ivr/ivr-no_calls_waiting_in_queue,No hay llamadas en espera en esta cola.
+ivr/ivr-you_are_number_one,"Usted es el llamante número uno. Por supuesto, todos los llamantes son número uno para nosotros, así que puede tener que esperar un poco."
+ivr/ivr-has_called_emergency_services,...ha llamado a servicios de emergencia
+ivr/ivr-there_are,Hay...
+ivr/ivr-enter_source_telephone_number,"Por favor ingrese el número de teléfono de origen, luego presione numeral."
+ivr/ivr-enter_destination_telephone_number,"Por favor ingrese el número de teléfono de destino, luego presione numeral."
+ivr/ivr-recording_started,Grabación iniciada.
+ivr/ivr-recording_stopped,Grabación detenida.
+ivr/ivr-recording_paused,Grabación pausada.
+ivr/ivr-recording_deleted,Grabación eliminada.
+ivr/ivr-no_longer_in_queue,Usted ya no está en la cola.
+ivr/ivr-withdrawn,...retirado.
+ivr/ivr-question,pregunta...
+ivr/ivr-questions,...preguntas.
+ivr/ivr-has_been_answered,...ha sido respondida.
+ivr/ivr-has_been_removed,...ha sido removido.
+ivr/ivr-no_questions_in_queue,No hay preguntas en cola.
+ivr/ivr-is_now_on,...está ahora activado.
+ivr/ivr-is_now_off,...está ahora desactivado.
+ivr/ivr-phone_not_make_external_calls,Este teléfono no está autorizado para hacer llamadas externas.
+ivr/ivr-id_number,Número de identificación...
+ivr/ivr-skip_instructions,Para saltar estas instrucciones...
+ivr/ivr-hangup_to_discard,Cuelgue la llamada sin presionar una tecla para descartar la grabación.
+ivr/ivr-or_press,...o presione...
+ivr/ivr-for_english_press,"Para inglés, presione..."
+ivr/ivr-call_cannot_be_completed_as_dialed,Su llamada no puede ser completada como fue marcada.
+ivr/ivr-please_check_number_try_again,Por favor verifique el número e intente de nuevo.
+ivr/ivr-failure_reason_is,La razón del fallo es...
+ivr/ivr-unallocated_number,Número no asignado
+ivr/ivr-no_user_response,Sin respuesta del usuario
+ivr/ivr-invalid_number_format,Formato de número inválido
+ivr/ivr-invalid_sound_prompt,Archivo de audio inválido.
+ivr/ivr-gateway_down,Gateway no disponible
+ivr/ivr-no_route_destination,Sin ruta al destino
+ivr/ivr-user_busy,Usuario ocupado
+ivr/ivr-call_rejected,Llamada rechazada
+ivr/ivr-normal_unspecified,Normal no especificado
+ivr/ivr-incompatible_destination,Destino incompatible
+ivr/ivr-normal_clearing,Terminación normal
+ivr/ivr-not_have_permission,Usted no tiene permiso para realizar esta acción.
+ivr/ivr-youre_doing_it_wrong,"Lo está haciendo mal, pero intentaré conectarlo de todas formas."
+ivr/ivr-were_asterisk_free,3... 2... 1... ¡ESTAMOS LIBRES DE ASTERISK!
+ivr/ivr-douche_telecom,"Gracias por llamar a Telecom Premium, donde nos aseguramos de que sus comunicaciones siempre sean de primera calidad."
+ivr/ivr-to_learn_more_about_freeswitch,Para aprender más sobre FreeSWITCH...
+ivr/ivr-there_is,Hay...
+ivr/ivr-do_not_call_list,Ese número está en la lista de No Llamar.
+ivr/ivr-call_attempt_aborted,El intento de llamada ha sido abortado.
+ivr/ivr-to_wait_stay_on_the_line,"Para esperar al próximo representante disponible, por favor permanezca en la línea."
+ivr/ivr-if_you_would_like_us_to_call_back,"Si desea que le devolvamos la llamada, presione..."
+ivr/ivr-it_appears_that_your_phone_number_is,Parece que su número de teléfono es...
+ivr/ivr-would_you_like_to_receive_a_call_at_this_number,¿Desea recibir una llamada en este número?
+ivr/ivr-please_enter_the_number_where_we_can_reach_you,Por favor ingrese el número donde podemos contactarlo.
+ivr/ivr-we_will_return_your_call_at_this_number,Le devolveremos la llamada a este número lo antes posible.
+ivr/ivr-anonymous_caller,Llamante anónimo.
+ivr/ivr-freeguipy,¡Disfrute una rebanada de pastel gratis!
+ivr/ivr-learn_more_freeguipydotorg,Aprenda más en F-R-E-E-G-U-I-P-Y punto O-R-G
+ivr/ivr-terribly_wrong_awkward,Algo salió terriblemente mal... ¡qué incómodo!
+ivr/ivr-it_was_that_bug,¡Vaya! ¡Sí era ese error!
+ivr/ivr-concentrate,¡CONCÉNTRESE! ¡Enfóquese en el objetivo!
+ivr/ivr-file_a_jira,"Si no le gusta, puede reportar un problema."
+ivr/ivr-founder_of_freesource,"Permítame presentarle al fundador de FreeSOURCE, Anthony Ministrone."
+ivr/ivr-cold_foolish,Eso es muy frío... MUY frío.
+ivr/ivr-trollover_minutes,¡Felicitaciones! Ha ganado 1500 minutos adicionales este mes.
+ivr/ivr-yuno_silent_drill,¿Por qué no modo silencioso?
+ivr/ivr-beacuase,Porque las voces eran bastante buenas
+ivr/ivr-day_mode,Modo día...
+ivr/ivr-night_mode,Modo noche...
+ivr/ivr-lunch_mode,Modo almuerzo...
+ivr/ivr-custom_mode_number,Modo personalizado número...
+ivr/ivr-not_have_permission_to_edit,Usted no tiene permiso para editar...
+ivr/ivr-this_feature,Esta función.
+ivr/ivr-feature,Función.
+ivr/ivr-automated_attendants,Operadoras automáticas.
+ivr/ivr-automated_attendant,Operadora automática.
+ivr/ivr-please_enter_extension_number_of,Por favor ingrese el número de extensión de...
+ivr/ivr-that_you_would_like_to_modify,...que desea modificar.
+ivr/ivr-invalid_extension_try_again,Extensión inválida - por favor intente de nuevo.
+ivr/ivr-modify_main_prompts,Para modificar las indicaciones principales...
+ivr/ivr-modify_option_prompts,Para modificar las indicaciones de opciones...
+ivr/ivr-hear_usage_stats,Para escuchar estadísticas de uso...
+ivr/ivr-at_the_tone,Al escuchar el tono...
+ivr/ivr-record_prompt,Por favor grabe la indicación.
+ivr/ivr-record_short_greeting,Por favor grabe el saludo corto.
+ivr/ivr-record_invalid_sound,Por favor grabe el sonido de entrada inválida.
+ivr/ivr-record_exit_sound,Por favor grabe el sonido de salida.
+ivr/ivr-when_finished_press_any_key,"Cuando termine, presione cualquier tecla."
+ivr/ivr-press_key_of_prompt_to_modify,Presione la tecla de la indicación que desea modificar.
+ivr/ivr-key,Tecla...
+ivr/ivr-does_not_contain_a_recording,...no contiene una grabación.
+ivr/ivr-already_contains_a_recording,...ya contiene una grabación.
+ivr/ivr-option,Opción...
+ivr/ivr-has_had,...ha tenido...
+ivr/ivr-visitors,...visitantes.
+ivr/ivr-visitor,...visitante.
+ivr/ivr-reset_usage_totals,Para reiniciar los totales de uso...
+ivr/ivr-reset_usage_totals_confirm,Ha elegido reiniciar los totales de uso.
+ivr/ivr-to_confirm,...para confirmar.
+ivr/ivr-usage_totals_have_been_reset,Los totales de uso han sido reiniciados a cero.
+ivr/ivr-to_modify,Para modificar...
+ivr/ivr-to_modify_main_prompt,Para modificar la indicación principal...
+ivr/ivr-short_greeting,...el saludo corto.
+ivr/ivr-ivalid_sound_prompt,...el sonido de entrada inválida.
+ivr/ivr-exit_sound_prompt,...el sonido de salida.
+ivr/ivr-not_accept_anonymous_calls,Esa persona no acepta llamadas anónimas.
+ivr/ivr-to_accept_press,"Para aceptar, presione..."
+ivr/ivr-to_reject,Para rechazar...
+ivr/ivr-hang_up,...cuelgue.
+ivr/ivr-to_reject_hangup,"Para rechazar, cuelgue la llamada sin presionar una tecla."
+ivr/ivr-access_denied,Acceso denegado.
+ivr/ivr-perform_dtmf_test,"Para realizar una prueba de tonos DTMF, presione..."
+ivr/ivr-perform_echo_test,"Para realizar una prueba de eco, presione..."
+ivr/ivr-perform_delayed_echo_test,"Para realizar una prueba de eco con retraso, presione..."
+ivr/ivr-hangup_to_end_test,Cuelgue para terminar la prueba.
+ivr/ivr-read_each_key_press_back,Presione una o más teclas. Le repetiré cada tecla que presione.
+ivr/ivr-echo_your_audio_back,"Después del tono, le devolveré el eco de su audio."
+ivr/ivr-delayed_echo_your_audio_back,"Después del tono, le enviaré un eco con retraso de su audio."
+ivr/ivr-send_fax,"Para enviar un fax, presione..."
+ivr/ivr-enter_number_send_fax,"Por favor ingrese el número al cual enviar este fax, luego presione numeral."
+ivr/ivr-send_fax_now,Envíe su fax ahora.
+ivr/ivr-has_been_added_to_the_blacklist,...ha sido agregado a la lista negra.
+ivr/ivr-has_been_removed_from_blacklist,...ha sido removido de la lista negra.
+ivr/ivr-enter_number_to_add_to_blacklist,Por favor ingrese el número a agregar a la lista negra.
+ivr/ivr-enter_number_to_remove_from_blacklist,Por favor ingrese el número a remover de la lista negra.
+ivr/ivr-is_not_on_the_blacklist,...no está en la lista negra.
+ivr/ivr-is_already_on_the_blacklist,...ya está en la lista negra.
+ivr/ivr-for_other_options,"Para otras opciones, presione..."
+ivr/ivr-your_caller_id_information_is,Su información de identificador de llamadas es...
+ivr/ivr-call_screening_enabled,El filtrado de llamadas ha sido activado.
+ivr/ivr-call_screening_disabled,El filtrado de llamadas ha sido desactivado.
+ivr/ivr-prompt,Indicación.
+ivr/ivr-enabled,...activado.
+ivr/ivr-disabled,...desactivado.
+ivr/ivr-aint_nobody_got_time_for_that,¡Nadie tiene tiempo para eso!
+ivr/ivr-we_would_support,Le brindaríamos el mejor soporte si tan solo devolviera nuestras llamadas y correos.
+ivr/ivr-suck,...apesta.
+ivr/ivr-sucks,...apesta.
+ivr/ivr-to_redial_last_call,Para remarcar su última llamada...
+ivr/ivr-ensure_service_keeps_working,Para asegurar que su servicio siga funcionando...
+ivr/ivr-please_contact,Por favor contacte...
+ivr/ivr-the_billing_department,...al departamento de facturación...
+ivr/ivr-by_dialing,...marcando...
+ivr/ivr-credit_card_could_not_be_charged,No se pudo cargar la tarjeta de crédito registrada.
+ivr/ivr-units,...unidades...
+ivr/ivr-per_minute,...por minuto.
+ivr/ivr-your_caller_id_number_is_blocked,Su número de identificador de llamadas está bloqueado.
+ivr/ivr-unblock_caller_id,Debe desbloquear su identificador de llamadas para autorización sin PIN.
+ivr/ivr-request_or_use_pin,"Alternativamente, puede solicitar o usar un código PIN en su cuenta."
+ivr/ivr-you_have_used,Usted ha usado...
+ivr/ivr-out_of,...de...
+ivr/ivr-next_billing_cycle,Su próximo ciclo de facturación comienza el...
+ivr/ivr-nothing,Nada.
+ivr/ivr-to_skip,Para saltar...
+ivr/ivr_connect_live_operator,Por favor espere mientras lo conectamos con un operador en vivo.
+ivr/ivr-connect_actual_human_being,Por favor espere mientras lo conectamos con un ser humano real.
+ivr/ivr-system_down_for_maintenance,El sistema entrará en mantenimiento.
+ivr/ivr-system_back_up_in_approximately,El sistema estará disponible en aproximadamente...
+ivr/ivr-you_lose,"¡Todo está ahí, en blanco y negro! ¡Robaste bebidas efervescentes! ¡Chocaste con el techo que ahora tiene que ser lavado y esterilizado, así que no obtienes nada! ¡Pierdes! ¡Buen día, señor!"
+ivr/ivr-cold_pop,"Para agarrar una bebida fría, presione..."
+ivr/ivr-barbecuing,"Si pensó que alguien estaba asando, presione..."
+ivr/ivr-no_shoes,"Si no agarró zapatos ni nada y corrió por su vida, presione..."
+ivr/ivr-smoke_got_you,"Si el humo lo atrapó, presione..."
+ivr/ivr-got_bronchitis,"Si tiene bronquitis, presione..."
+ivr/ivr-nobody_got_time_for_that,"Si nadie tiene tiempo para eso, presione..."
+ivr/ivr-reminder_for,Este es un recordatorio para...
+ivr/ivr-appointment_schedule_for,Tiene una cita programada para...
+ivr/ivr-Your_verification_PIN_is,Su PIN de verificación es...
+ivr/ivr-hotseat_intro,"Para escuchar el menú de hotseat, por favor ingrese su extensión seguida de la tecla numeral."
+ivr/ivr-modify_main_prompt,Para modificar la indicación principal...
+ivr/ivr-hotseat_pin,Por favor ingrese su pin seguido de la tecla numeral.
+ivr/ivr-hotseat_options,"Para asignar este teléfono a su extensión, presione 1. Para remover la asignación de este teléfono, presione 2."
+ivr/ivr-maximum_number_of_channels,Ha alcanzado el número máximo de canales.
+ivr/ivr-to_do_a_echo_test,Para hacer una prueba de eco
+ivr/ivr-youre_number_one,"Usted es el llamante prioritario. Por supuesto, todos nuestros llamantes son prioritarios, por lo que puede tener que esperar un poco."
+misc/call_secured,"Por motivos de entrenamiento y calidad, esta llamada puede ser escuchada o grabada."
+misc/followed,...seguido del signo de número.
+misc/if_you_are_this_person,Si usted es esta persona...
+misc/if_you_would_like_to,Si usted desea...
+misc/provide_reference_number,Diga el número de referencia...
+misc/transfer1,Por favor pulse la extensión a la cual desea transferir.
+misc/transfer2,Transferir
+misc/we_are_trying_to_reach,Estamos tratando de contactar...
+misc/error,"Un error ha ocurrido, por favor contacte al administrador."
+misc/misc-your_call_will_be_terminated_in,Su llamada será terminada en...
+misc/misc-your_call_has_been_terminated,Su llamada ha sido terminada.
+misc/misc-to_hear_about_cluecon,Para escuchar sobre ClueCon...
+misc/misc-cluecon_is_premier_conference,ClueCon es la conferencia premier de desarrolladores de telefonía de código abierto.
+misc/misc-chicago_each_summer,Se lleva a cabo en el centro de Chicago cada verano.
+misc/misc-wide_range_of_persons,"ClueCon reúne una amplia gama de ingenieros de VoIP, desarrolladores de software y empresarios."
+misc/misc-support_open_source_by_attending,"Al asistir a ClueCon, muestra su apoyo no solo a FreeSWITCH sino a todo el espectro de software de telefonía de código abierto."
+misc/misc-freeswitch_sponsored_by_ostag,FreeSWITCH es software de código abierto patrocinado por OSTAG - el Grupo de Avance de Telefonía de Código Abierto.
+misc/misc-ostag_learn_more,OSTAG está avanzando la próxima generación de telefonía a través de software de código abierto. Aprenda más en www.ostag.org.
+misc/misc-learn_more_about_freeswitch_solutions,"Para aprender más sobre FreeSWITCH Solutions, presione..."
+misc/misc-information_about_freeswitch,"Para información sobre FreeSWITCH, presione..."
+misc/misc-freeswitch_is_state_of_the_art,FreeSWITCH es una plataforma de telecomunicaciones de última generación.
+misc/misc-it_is_stable_scalable_extensible,"Es estable, altamente escalable y extensible."
+misc/misc-free_to_download,Lo mejor de todo es que es gratis para que cualquiera lo descargue y use.
+misc/misc-freeswitch_dot_org_more,Visite www punto freeswitch punto org para aprender más sobre nuestro proyecto y comunidad mundial.
+misc/misc-Sangoma,Sangoma.
+misc/misc-fss_best_consulting,FreeSWITCH Solutions ofrece la mejor consultoría de FreeSWITCH que el dinero puede comprar.
+misc/misc-fss_network_of_experts,Tenemos una red de expertos en FreeSWITCH que incluye al equipo principal de desarrollo de FreeSWITCH.
+misc/misc-fss_contact_us,Contáctenos en W-W-W punto freeswitchsolutions punto com para ver cómo podemos ayudarle a llevar su experiencia con FreeSWITCH al siguiente nivel.
+misc/misc-soccer_mom,¡Es totalmente cosa de mamás!
+misc/misc-speak_live_with_community,¿Le gustaría hablar en vivo con otros miembros de la comunidad FreeSWITCH?
+misc/misc-join_us_each_wed,Únase a nosotros cada miércoles a la 1PM hora del este en la conferencia pública de FreeSWITCH.
+misc/misc-more_info_wiki,Más información está disponible en línea en wiki punto FreeSWITCH punto org.
+misc/misc-welcome_freeswitch_conf_call,¡Bienvenido a la llamada de conferencia de la comunidad FreeSWITCH!
+misc/misc-e164_dot_org,E uno sesenta y cuatro punto org.
+misc/phone_not_auth,Este teléfono no está autorizado para realizar llamadas hacia fuera.
+misc/sorry,Lo siento.
+misc/call_monitoring_blurb,Esta llamada puede ser monitoreada o grabada con fines de calidad y capacitación.
+misc/es,Español
+misc/invalid_extension,Esa es una extensión inválida.
+misc/en,Inglés
+base256/Algol,Algol
+base256/Apollo,Apollo
+base256/Athens,Athens
+base256/Atlantic,Atlantic
+base256/Aztec,Aztec
+base256/Babylon,Babylon
+base256/Belfast,Belfast
+base256/Bradbury,Bradbury
+base256/Brazilian,Brazilian
+base256/Burbank,Burbank
+base256/Burlington,Burlington
+base256/Camelot,Camelot
+base256/Capricorn,Capricorn
+base256/Cherokee,Cherokee
+base256/Chicago,Chicago
+base256/Christmas,Christmas
+base256/Dakota,Dakota
+base256/December,December
+base256/Dupont,Dupont
+base256/Eskimo,Eskimo
+base256/Galveston,Galveston
+base256/Geiger,Geiger
+base256/Hamilton,Hamilton
+base256/Istanbul,Istanbul
+base256/Jamaica,Jamaica
+base256/Jupiter,Jupiter
+base256/Medusa,Medusa
+base256/Mohawk,Mohawk
+base256/Montana,Montana
+base256/Neptune,Neptune
+base256/Norwegian,Norwegian
+base256/Oakland,Oakland
+base256/October,October
+base256/Ohio,Ohio
+base256/Orlando,Orlando
+base256/Pacific,Pacific
+base256/Pandora,Pandora
+base256/Pegasus,Pegasus
+base256/Pluto,Pluto
+base256/Saturday,Saturday
+base256/Scotland,Scotland
+base256/Trojan,Trojan
+base256/Virginia,Virginia
+base256/Vulcan,Vulcan
+base256/Waterloo,Waterloo
+base256/Wichita,Wichita
+base256/Wilmington,Wilmington
+base256/Wyoming,Wyoming
+base256/Yucatan,Yucatan
+base256/Zulu,Zulu
+base256/aardvark,aardvark
+base256/absurd,absurd
+base256/accrue,accrue
+base256/acme,acme
+base256/adrift,adrift
+base256/adroitness,adroitness
+base256/adult,adult
+base256/adviser,adviser
+base256/afflict,afflict
+base256/aftermath,aftermath
+base256/aggregate,aggregate
+base256/ahead,ahead
+base256/aimless,aimless
+base256/alkali,alkali
+base256/allow,allow
+base256/almighty,almighty
+base256/alone,alone
+base256/ammo,ammo
+base256/amulet,amulet
+base256/amusement,amusement
+base256/ancient,ancient
+base256/antenna,antenna
+base256/apple,apple
+base256/applicant,applicant
+base256/armistice,armistice
+base256/article,article
+base256/artist,artist
+base256/assume,assume
+base256/asteroid,asteroid
+base256/atlas,atlas
+base256/atmosphere,atmosphere
+base256/autopsy,autopsy
+base256/baboon,baboon
+base256/backfield,backfield
+base256/backward,backward
+base256/backwater,backwater
+base256/banjo,banjo
+base256/barbecue,barbecue
+base256/beaming,beaming
+base256/bedlamp,bedlamp
+base256/beehive,beehive
+base256/beeswax,beeswax
+base256/befriend,befriend
+base256/being,siendo
+base256/belowground,belowground
+base256/berserk,berserk
+base256/bifocals,bifocals
+base256/billiard,billiard
+base256/bison,bison
+base256/blackjack,blackjack
+base256/blockade,blockade
+base256/blowtorch,blowtorch
+base256/bluebird,bluebird
+base256/bodyguard,bodyguard
+base256/bombast,bombast
+base256/bookseller,bookseller
+base256/bookshelf,bookshelf
+base256/borderline,borderline
+base256/bottomless,bottomless
+base256/brackish,brackish
+base256/bravado,bravado
+base256/breadline,breadline
+base256/breakaway,breakaway
+base256/breakup,breakup
+base256/brickyard,brickyard
+base256/briefcase,briefcase
+base256/businessman,businessman
+base256/butterfat,butterfat
+base256/button,button
+base256/buzzard,buzzard
+base256/candidate,candidate
+base256/cannonball,cannonball
+base256/caravan,caravan
+base256/caretaker,caretaker
+base256/celebrate,celebrate
+base256/cellulose,cellulose
+base256/cement,cement
+base256/certify,certify
+base256/chairlift,chairlift
+base256/chambermaid,chambermaid
+base256/chatter,chatter
+base256/checkup,checkup
+base256/chisel,chisel
+base256/choking,choking
+base256/chopper,chopper
+base256/clamshell,clamshell
+base256/classic,classic
+base256/classroom,classroom
+base256/cleanup,cleanup
+base256/clergyman,clergyman
+base256/clockwork,clockwork
+base256/cobra,cobra
+base256/coherence,coherence
+base256/combustion,combustion
+base256/commando,commando
+base256/commence,commence
+base256/company,company
+base256/component,component
+base256/concert,concert
+base256/concurrent,concurrent
+base256/confidence,confidence
+base256/conference,conferencia
+base256/conformist,conformist
+base256/congregate,congregate
+base256/consensus,consensus
+base256/consulting,consulting
+base256/corporate,corporate
+base256/corrosion,corrosion
+base256/councilman,councilman
+base256/cowbell,cowbell
+base256/crackdown,crackdown
+base256/cranky,cranky
+base256/crossover,crossover
+base256/crowfoot,crowfoot
+base256/crucial,crucial
+base256/crucifix,crucifix
+base256/crumpled,crumpled
+base256/crusade,crusade
+base256/cubic,cubic
+base256/cumbersome,cumbersome
+base256/customer,customer
+base256/dashboard,dashboard
+base256/deadbolt,deadbolt
+base256/decadence,decadence
+base256/decimal,decimal
+base256/deckhand,deckhand
+base256/designing,designing
+base256/detector,detector
+base256/detergent,detergent
+base256/determine,determine
+base256/dictator,dictator
+base256/dinosaur,dinosaur
+base256/direction,direction
+base256/disable,disable
+base256/disbelief,disbelief
+base256/disruptive,disruptive
+base256/distortion,distortion
+base256/document,document
+base256/dogsled,dogsled
+base256/dragnet,dragnet
+base256/drainage,drainage
+base256/dreadful,dreadful
+base256/drifter,drifter
+base256/dropper,dropper
+base256/drumbeat,drumbeat
+base256/drunken,drunken
+base256/dwelling,dwelling
+base256/eating,eating
+base256/edict,edict
+base256/egghead,egghead
+base256/eightball,eightball
+base256/embezzle,embezzle
+base256/enchanting,enchanting
+base256/endorse,endorse
+base256/endow,endow
+base256/enlist,enlist
+base256/enrollment,enrollment
+base256/enterprise,enterprise
+base256/equation,equation
+base256/equipment,equipment
+base256/erase,erase
+base256/escapade,escapade
+base256/escape,escape
+base256/everyday,everyday
+base256/examine,examine
+base256/exceed,exceed
+base256/existence,existence
+base256/exodus,exodus
+base256/eyeglass,eyeglass
+base256/eyetooth,eyetooth
+base256/facial,facial
+base256/fallout,fallout
+base256/fascinate,fascinate
+base256/filament,filament
+base256/finicky,finicky
+base256/flagpole,flagpole
+base256/flatfoot,flatfoot
+base256/flytrap,flytrap
+base256/forever,forever
+base256/fortitude,fortitude
+base256/fracture,fracture
+base256/framework,framework
+base256/freedom,freedom
+base256/frequency,frequency
+base256/frighten,frighten
+base256/gadgetry,gadgetry
+base256/gazelle,gazelle
+base256/getaway,getaway
+base256/glitter,glitter
+base256/glossary,glossary
+base256/glucose,glucose
+base256/goggles,goggles
+base256/goldfish,goldfish
+base256/gossamer,gossamer
+base256/graduate,graduate
+base256/gravity,gravity
+base256/gremlin,gremlin
+base256/guidance,guidance
+base256/guitarist,guitarist
+base256/hamburger,hamburger
+base256/hamlet,hamlet
+base256/handiwork,handiwork
+base256/hazardous,hazardous
+base256/headwaters,headwaters
+base256/hemisphere,hemisphere
+base256/hesitate,hesitate
+base256/hideaway,hideaway
+base256/highchair,highchair
+base256/hockey,hockey
+base256/holiness,holiness
+base256/hurricane,hurricane
+base256/hydraulic,hydraulic
+base256/impartial,impartial
+base256/impetus,impetus
+base256/inception,inception
+base256/indigo,indigo
+base256/indoors,indoors
+base256/indulge,indulge
+base256/inertia,inertia
+base256/infancy,infancy
+base256/inferno,inferno
+base256/informant,informant
+base256/insincere,insincere
+base256/insurgent,insurgent
+base256/integrate,integrate
+base256/intention,intention
+base256/inventive,inventive
+base256/inverse,inverse
+base256/involve,involve
+base256/is,es
+base256/island,island
+base256/jawbone,jawbone
+base256/keyboard,keyboard
+base256/kickoff,kickoff
+base256/kiwi,kiwi
+base256/klaxon,klaxon
+base256/leprosy,leprosy
+base256/letterhead,letterhead
+base256/liberty,liberty
+base256/longer,más largo
+base256/locale,locale
+base256/lockup,lockup
+base256/maritime,maritime
+base256/matchmaker,matchmaker
+base256/maverick,maverick
+base256/megaton,megaton
+base256/merit,merit
+base256/microscope,microscope
+base256/microwave,microwave
+base256/midsummer,midsummer
+base256/millionaire,millionaire
+base256/minnow,minnow
+base256/miracle,miracle
+base256/miser,miser
+base256/misnomer,misnomer
+base256/molasses,molasses
+base256/molecule,molecule
+base256/monument,monument
+base256/mosquito,mosquito
+base256/mural,mural
+base256/music,music
+base256/narrative,narrative
+base256/nebula,nebula
+base256/necklace,necklace
+base256/newborn,newborn
+base256/newsletter,newsletter
+base256/nightbird,nightbird
+base256/no,no
+base256/obtuse,obtuse
+base256/offload,offload
+base256/onlooker,onlooker
+base256/optic,optic
+base256/opulent,opulent
+base256/orca,orca
+base256/outfielder,outfielder
+base256/pandemic,pandemic
+base256/paperweight,paperweight
+base256/paragon,paragon
+base256/paragraph,paragraph
+base256/paramount,paramount
+base256/passenger,passenger
+base256/payday,payday
+base256/peachy,peachy
+base256/pedigree,pedigree
+base256/penetrate,penetrate
+base256/perceptive,perceptive
+base256/performance,performance
+base256/pharmacy,pharmacy
+base256/pheasant,pheasant
+base256/phonetic,phonetic
+base256/photograph,photograph
+base256/physique,physique
+base256/pioneer,pioneer
+base256/playhouse,playhouse
+base256/pocketful,pocketful
+base256/politeness,politeness
+base256/positive,positive
+base256/potato,potato
+base256/preclude,preclude
+base256/prefer,prefer
+base256/preshrunk,preshrunk
+base256/printer,printer
+base256/processor,processor
+base256/provincial,provincial
+base256/prowler,prowler
+base256/proximate,proximate
+base256/puberty,puberty
+base256/publisher,publisher
+base256/pupil,pupil
+base256/puppy,puppy
+base256/pyramid,pyramid
+base256/python,python
+base256/quadrant,quadrant
+base256/quantity,quantity
+base256/quiver,quiver
+base256/quota,quota
+base256/racketeer,racketeer
+base256/ragtime,ragtime
+base256/ratchet,ratchet
+base256/rebellion,rebellion
+base256/rebirth,rebirth
+base256/recipe,recipe
+base256/recover,recover
+base256/reform,reform
+base256/regain,regain
+base256/reindeer,reindeer
+base256/rematch,rematch
+base256/recorded,grabado
+base256/repay,repay
+base256/repellent,repellent
+base256/replica,replica
+base256/reproduce,reproduce
+base256/resistor,resistor
+base256/responsive,responsive
+base256/retouch,retouch
+base256/retraction,retraction
+base256/retrieval,retrieval
+base256/retrospect,retrospect
+base256/revenge,revenge
+base256/revenue,revenue
+base256/revival,revival
+base256/revolver,revolver
+base256/reward,reward
+base256/rhythm,rhythm
+base256/ribcage,ribcage
+base256/ringbolt,ringbolt
+base256/robust,robust
+base256/rocker,rocker
+base256/ruffled,ruffled
+base256/sailboat,sailboat
+base256/sandalwood,sandalwood
+base256/sardonic,sardonic
+base256/savagery,savagery
+base256/sawdust,sawdust
+base256/scallion,scallion
+base256/scavenger,scavenger
+base256/scenic,scenic
+base256/scorecard,scorecard
+base256/seabird,seabird
+base256/select,select
+base256/sensation,sensation
+base256/sentence,sentence
+base256/shadow,shadow
+base256/shamrock,shamrock
+base256/showgirl,showgirl
+base256/skullcap,skullcap
+base256/skydive,skydive
+base256/slingshot,slingshot
+base256/slowdown,slowdown
+base256/snapline,snapline
+base256/snapshot,snapshot
+base256/snowcap,snowcap
+base256/snowslide,snowslide
+base256/sociable,sociable
+base256/solo,solo
+base256/southward,southward
+base256/souvenir,souvenir
+base256/soybean,soybean
+base256/spaniel,spaniel
+base256/spearhead,spearhead
+base256/specialist,specialist
+base256/speculate,speculate
+base256/spellbind,spellbind
+base256/spheroid,spheroid
+base256/spigot,spigot
+base256/spindle,spindle
+base256/spyglass,spyglass
+base256/stagehand,stagehand
+base256/stagnate,stagnate
+base256/stairway,stairway
+base256/standard,standard
+base256/stapler,stapler
+base256/steamship,steamship
+base256/sterling,sterling
+base256/stethoscope,stethoscope
+base256/stockman,stockman
+base256/stopwatch,stopwatch
+base256/stormy,stormy
+base256/stupendous,stupendous
+base256/sugar,sugar
+base256/supportive,supportive
+base256/surmount,surmount
+base256/surrender,surrender
+base256/suspense,suspense
+base256/suspicious,suspicious
+base256/sweatband,sweatband
+base256/swelter,swelter
+base256/sympathy,sympathy
+base256/tactics,tactics
+base256/talon,talon
+base256/tambourine,tambourine
+base256/tapeworm,tapeworm
+base256/telephone,telephone
+base256/tempest,tempest
+base256/therapist,therapist
+base256/this,esto
+base256/tiger,tiger
+base256/tissue,tissue
+base256/tobacco,tobacco
+base256/tolerance,tolerance
+base256/tomorrow,tomorrow
+base256/tonic,tonic
+base256/topmost,topmost
+base256/torpedo,torpedo
+base256/tracker,tracker
+base256/tradition,tradition
+base256/transit,transit
+base256/trauma,trauma
+base256/travesty,travesty
+base256/treadmill,treadmill
+base256/trombonist,trombonist
+base256/trouble,trouble
+base256/truncated,truncated
+base256/tumor,tumor
+base256/tunnel,tunnel
+base256/tycoon,tycoon
+base256/typewriter,typewriter
+base256/ultimate,ultimate
+base256/uncut,uncut
+base256/undaunted,undaunted
+base256/underfoot,underfoot
+base256/unearth,unearth
+base256/unicorn,unicorn
+base256/unify,unify
+base256/universe,universe
+base256/unravel,unravel
+base256/unwind,unwind
+base256/upcoming,upcoming
+base256/uproot,uproot
+base256/upset,upset
+base256/upshot,upshot
+base256/vacancy,vacancy
+base256/vagabond,vagabond
+base256/vapor,vapor
+base256/vertigo,vertigo
+base256/village,village
+base256/virus,virus
+base256/visitor,visitor
+base256/vocalist,vocalist
+base256/voyager,voyager
+base256/waffle,waffle
+base256/wallet,wallet
+base256/warranty,warranty
+base256/watchword,watchword
+base256/wayside,wayside
+base256/whimsical,whimsical
+base256/willow,willow
+base256/woodlark,woodlark
+base256/yesteryear,yesteryear
+features/agent_logged_in,Ha iniciado sesión.
+features/agent_logged_out,Ahora está logged out.
+features/agent_pause,Ahora está en pausa.
+features/agent_toggle_error,"No fue posible cambiar su estado. Por favor, inténtelo nuevamente."
+features/agent_unpause,Ahora está disponible.
+features/anonymous_call_disabled,Las llamadas anónimas han sido deshabilitadas.
+features/anonymous_call_enabled,Las llamadas anónimas han sido habilitadas.
+features/authorization_code_invalid,Código de autorización inválido.
+features/authorization_code_saved,Código de autorización aceptado.
+features/blacklist_added_success,El número se ha añadido exitosamente a la lista negra.
+features/blacklist_enter_number,"Por favor, ingrese el número que desea agregar a la lista negra, seguido de la tecla numeral."
+features/blacklist_enter_number_remove,"Por favor, ingrese el número que desea eliminar de la lista negra y luego presione la tecla numeral."
+features/blacklist_error_duplicate,Este número ya está en la lista negra.
+features/blacklist_error_generic,"Ocurrió un error al procesar su solicitud. Por favor, inténtelo más tarde."
+features/blacklist_error_invalid,"Número inválido. Por favor, inténtelo de nuevo."
+features/blacklist_last_success,La última llamada ha sido añadida exitosamente a la lista negra.
+features/blacklist_removed_success,El número se ha eliminado exitosamente de la lista negra.
+features/call_flow_disabled,El flujo de llamadas ha sido deshabilitado.
+features/call_flow_enabled,El flujo de llamadas ha sido habilitado.
+features/call_parked,Su llamada ha sido puesta en parqueo.
+features/callback_invalid,El número que ingresó no es válido.
+features/callback_scheduled,Su devolución de llamada se ha programado.
+features/callback_unavailable,El servicio de devolución de llamada no está disponible en este momento.
+features/cache_list_failed,No fue posible obtener la lista de claves de caché.
+features/cache_purge_failed,"No se pudo purgar la caché. Por favor, inténtelo más tarde."
+features/cache_purged_successfully,Caché purgado correctamente.
+features/confirm_new_feature_password,"Por favor confirme su nueva clave de función, seguida de la tecla numeral."
+features/conference_ended,La conferencia ha finalizado. Gracias por participar.
+features/conference_invalid,La sala de conferencia que solicitó no está disponible o ha expirado.
+features/conference_max_participants,"Esta conferencia ha alcanzado el número máximo de participantes. Por favor, inténtelo más tarde."
+features/conference_moderator_entry,El moderador se ha unido a la conferencia.
+features/conference_recording,Esta conferencia está siendo grabada.
+features/conference_wait_moderator,"Por favor, espere a que el moderador se una a la conferencia."
+features/current-time-is,La hora actual es...
+features/customer_code_saved,Su código de cliente se ha guardado.
+features/demo-echotest,"Está a punto de ingresar a una prueba de eco. En este modo, todo lo que diga será repetido de vuelta tan pronto como sea recibido. El propósito de esta prueba es darle una percepción audible de la latencia entre usted y la máquina que está ejecutando la aplicación de prueba de eco. Puede finalizar la prueba colgando o presionando la tecla numeral."
+features/dnd_disabled,No molestar ha sido desactivado.
+features/dnd_enabled,No molestar ha sido activado.
+features/enter_authorization_code,"Por favor, ingrese su código de autorización."
+features/enter_current_feature_password,"Por favor ingrese su clave de función actual, seguida de la tecla numeral."
+features/enter_customer_code,"Por favor, ingrese su código de cliente."
+features/enter_destination_number,"Por favor, ingrese el número de destino."
+features/enter_extension_to_purge,"Por favor, ingrese el número de extensión a purgar."
+features/enter_feature_password,"Por favor, ingrese su contraseña de función."
+features/enter_new_feature_password,"Por favor ingrese una nueva clave de función, seguida de la tecla numeral."
+features/enter_password,"Por favor, ingrese su contraseña de acceso."
+features/enter_pin,"Por favor ingrese su PIN, seguido de la tecla numeral."
+features/enter_queue,"Por favor, ingrese el nombre de la cola seguido de la tecla numeral."
+features/fallback_routing,Estamos transfiriéndolo a la destino predeterminado.
+features/feature_activated,La condición de tiempo se ha actualizado exitosamente.
+features/feature_not_allowed,Esta función no está permitida para su extensión.
+features/feature_not_available,Este servicio no está disponible en este momento.
+features/feature_password_mismatch,Las claves de función que ingresó no coinciden. Por favor inténtelo de nuevo.
+features/feature_password_updated_successfully,Su clave de función ha sido actualizada correctamente.
+features/features_password_ok,Contraseña aceptada. Procediendo.
+features/features_password_prompt,"Por favor, ingrese su contraseña de función."
+features/features_password_wrong,"Contraseña incorrecta. Por favor, inténtelo nuevamente."
+features/holiday_closure,"Nuestras oficinas están cerradas por motivo de las festividades. Por favor, vuelva a llamar durante el horario de atención."
+features/hotdesk_login,"Ingrese su extensión para iniciar sesión mediante hotdesking, seguido de la tecla numeral."
+features/hotdesk_login_required,"Su dispositivo Hot Desking no está registrado. Por favor, inicie sesión con su extensión antes de realizar llamadas."
+features/hotdesk_logout,Se ha cerrado su sesión en este dispositivo.
+features/hotdesk_success,Ahora ha iniciado sesión en este dispositivo.
+features/im-sorry,Ingrese un número de identificador de llamadas si desea cambiarlo.
+features/incorrect_current_feature_password,La clave de función que ingresó es incorrecta.
+features/invalid_entry,"Entrada inválida. Por favor, inténtelo nuevamente."
+features/invalid_feature_code,"Opción inválida. Por favor, inténtelo nuevamente."
+features/invalid_feature_password,No ingresó una clave válida de función.
+features/invalid_password,Contraseña inválida. Adiós.
+features/invalid_pin,El PIN que ingresó no es válido. Por favor inténtelo de nuevo.
+features/invalid_park_slot,El espacio de parqueo solicitado no es válido.
+features/ivr-test-goodbye,Gracias por llamar al IVR de pruebas de Ring2All. Adiós.
+features/ivr-test-instructions,"Para escuchar la hora actual, marque 1. Para una prueba de eco, marque 2. Para escuchar música en espera, marque 3."
+features/ivr-test-invalid,"La opción que ingresó no es válida. Por favor, inténtelo nuevamente."
+features/ivr-test-welcome,Bienvenido al IVR de pruebas de Ring2All. Este menú es solo para fines de pruebas internas.
+features/night_mode_disabled,El modo nocturno global está ahora deshabilitado.
+features/night_mode_enabled,El modo nocturno global está ahora habilitado.
+features/no_available_parking,No hay posiciones de parqueo disponibles.
+features/paging_group_invalid,El grupo de radiobúsqueda al que marcó no está disponible.
+features/paging_not_allowed,No tiene permiso para acceder a este grupo de radiobúsqueda.
+features/phone_locked,Su teléfono ahora está bloqueado.
+features/phone_unlocked,Su teléfono ahora está desbloqueado.
+features/pickup_group_empty,No hay llamadas sonando para capturar.
+features/pickup_not_allowed,No tiene permiso para capturar llamadas de este grupo.
+features/promo_april2025,Disfrute de un 20% de descuento en todos los planes durante este mes. Pregunte a nuestro agente para más detalles.
+features/queue_added,Ha sido añadido a la cola.
+features/queue_enter_queue,"Por favor, ingrese el número de la cola seguido de la tecla numeral."
+features/queue_error,Ocurrió un error al procesar su solicitud.
+features/queue_final_exit,"Lo sentimos. No hay agentes disponibles en este momento. Por favor, inténtelo de nuevo más tarde."
+features/queue_invalid,"Número de cola inválido. Por favor, inténtelo nuevamente."
+features/queue_join_welcome,"Bienvenido. Por favor, manténgase en la línea; un agente le atenderá en breve."
+features/queue_no_agents_available,"Actualmente no hay agentes disponibles para atender su llamada. Por favor, manténgase en línea o intente nuevamente más tarde."
+features/queue_periodic_announcement,"Su llamada es importante para nosotros. Por favor, manténgase en línea."
+features/queue_position_number,Actualmente es el número
+features/queue_position_suffix,en la cola.
+features/queue_removed,Ha sido retirado de la cola.
+features/queue_wait_prefix,Su tiempo estimado de espera es
+features/queue_wait_suffix,minutos.
+features/reminder_enter_time,"Por favor, ingrese el/la time for your reminder."
+features/reminder_error,"No se pudo guardar su recordatorio. Por favor, inténtelo nuevamente."
+features/reminder_record_message,"Por favor, grabe su mensaje de recordatorio después del tono."
+features/reminder_saved,Su recordatorio se ha guardado.
+features/remote_wakeup_enter_ext,"Por favor, ingrese la extensión que desea despertar."
+features/remote_wakeup_enter_time,"Por favor, ingrese la hora para la llamada de despertador remota."
+features/remote_wakeup_error,No se pudo programar la llamada de despertador. Inténtelo nuevamente.
+features/remote_wakeup_scheduled,La llamada de despertador remota se ha programado.
+features/select_cache_type,"Presione 1 para purgar la caché de extensiones, 2 para recargar el plan de marcado o 3 para recargar los perfiles SIP."
+features/sim-incoming-call-did,"Por favor, ingrese el número de destino."
+features/sim-incoming-cid,Enter a caller ID number if you want to change it.
+features/speak_last_call_prompt,"Para devolver la llamada a este número, marque 1. De lo contrario, cuelgue."
+features/speak_last_not_found,No se encontró ninguna llamada reciente.
+features/speed_dial_invalid,El código de marcación rápida es inválido.
+features/speed_dial_not_found,No se encontró ningún número para este código de marcación rápida.
+features/speed_dial_set,Su marcación rápida se ha guardado.
+features/status_dnd_enabled,"La extensión a la que llama no está disponible en este momento. Por favor, inténtelo más tarde."
+features/voicemail_goodbye,Gracias. Adiós.
+features/voicemail_welcome,Bienvenido a su buzón de voz.
+features/wakeup_cancel_success,Su llamada de despertador se ha cancelado.
+features/wakeup_enter_time,"Por favor, indique la hora para su llamada de despertador."
+features/wakeup_error_generic,"Ocurrió un error. Por favor, inténtelo de nuevo más tarde."
+features/wakeup_error_invalid,"Hora inválida. Por favor, inténtelo de nuevo."
+features/wakeup_scheduled,Su llamada de despertador se ha programado.
+features/wrong_password,La contraseña ingresada es incorrecta.
+features/your_extension_is,Su extensión es.
+features/queue_callback_option,"Si desea que le llamemos de vuelta en lugar de esperar, presione 1 ahora."
+features/queue_callback_confirm,Ha solicitado una llamada de retorno.
+features/queue_callback_enter_number,"Presione 1 para usar su número actual, o ingrese el número donde desea ser contactado seguido de la tecla numeral."
+features/queue_callback_invalid_number,El número ingresado no es válido. Por favor intente de nuevo.
+features/queue_callback_thanks,Gracias. Le llamaremos lo antes posible. Hasta pronto.
+features/queue_callback_announcement,Esta es su llamada de retorno solicitada. Por favor espere mientras lo conectamos con un agente.
+features/callback_rate_limit,Ha alcanzado el límite máximo de solicitudes de llamada. Por favor intente más tarde.

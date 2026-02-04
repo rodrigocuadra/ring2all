@@ -1,7 +1,7 @@
 # Ring2All Documentation Portal
 
 <p align="center">
-  <img src="assets/images/logo.svg" alt="Ring2All Logo" width="200">
+  <img src="assets/images/logo-dark.png" alt="Ring2All Logo" width="200">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ The documentation portal is built with PHP and features:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ring2all/docs-portal.git
+git clone https://github.com/rodrigocuadra/ring2all.git
 
 # Navigate to the directory
 cd docs-portal

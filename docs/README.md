@@ -171,6 +171,7 @@ php -S localhost:8000
 - [Audit Logs](content/reports/system/audit-logs.md)
 - [Change History](content/reports/system/change-history.md)
 - [Security Logs](content/reports/system/security-logs.md)
+- [User Activity](content/reports/system/user-activity.md)
 
 ---
 
@@ -252,6 +253,7 @@ php -S localhost:8000
 - [Providers](content/admin/ai-integration/providers.md)
 - [AI Profiles](content/admin/ai-integration/ai-profiles.md)
 - [AI Agents](content/admin/ai-integration/ai-agents.md)
+- [AI Agent Call History](content/admin/ai-integration/ai-agent-call-history.md)
 
 ---
 
